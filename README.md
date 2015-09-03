@@ -1,2 +1,2 @@
 # LIMA
-Local Intronic Mutations Analyzer (LIMA)
+Local Intronic Mutations Analysis (LIMA)
