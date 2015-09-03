@@ -1,0 +1,4792 @@
+#proteinId	definition
+4102	Protein kinase.
+4207	NADPH dehydrogenase.
+4211	Acting on the CH-OH group of donors.
+4211	Acting on the CH-OH group of donors.
+4214	Acting on the CH-OH group of donors.
+4214	Acting on the CH-OH group of donors.
+4219	NADPH dehydrogenase.
+4262	Plus-end-directed kinesin ATPase.
+4282	With NAD(+) or NADP(+) as acceptor.
+4282	With NAD(+) or NADP(+) as acceptor.
+4282	With NAD(+) or NADP(+) as acceptor.
+4282	With NAD(+) or NADP(+) as acceptor.
+4282	With NAD(+) or NADP(+) as acceptor.
+4282	With NAD(+) or NADP(+) as acceptor.
+4282	With NAD(+) or NADP(+) as acceptor.
+4282	With NAD(+) or NADP(+) as acceptor.
+4282	With NAD(+) or NADP(+) as acceptor.
+4282	With NAD(+) or NADP(+) as acceptor.
+4282	With NAD(+) or NADP(+) as acceptor.
+4282	With NAD(+) or NADP(+) as acceptor.
+4313	Transferring groups other than amino-acyl groups.
+4313	Transferring groups other than amino-acyl groups.
+4313	Transferring groups other than amino-acyl groups.
+4313	Transferring groups other than amino-acyl groups.
+4313	Transferring groups other than amino-acyl groups.
+4313	Transferring groups other than amino-acyl groups.
+4313	Transferring groups other than amino-acyl groups.
+4313	Transferring groups other than amino-acyl groups.
+4313	Transferring groups other than amino-acyl groups.
+4313	Transferring groups other than amino-acyl groups.
+4313	Transferring groups other than amino-acyl groups.
+4313	Transferring groups other than amino-acyl groups.
+4313	Transferring groups other than amino-acyl groups.
+4367	Phospholipase D.
+4367	Phospholipase D.
+4402	In phosphorous-containing anhydrides.
+4402	In phosphorous-containing anhydrides.
+4436	Ubiquitin--protein ligase.
+4474	Acting on the CH-OH group of donors.
+4474	Acting on the CH-OH group of donors.
+4532	Beta-glucosidase.
+4532	Beta-glucosidase.
+4532	Beta-glucosidase.
+4669	Alpha,alpha-trehalase.
+4698	Acetoacetate--CoA ligase.
+4777	Phospholipase D.
+4777	Phospholipase D.
+4862	Long-chain-fatty-acid--CoA ligase.
+4972	DNA-directed DNA polymerase.
+4972	DNA-directed DNA polymerase.
+4972	DNA-directed DNA polymerase.
+5078	NADPH:quinone reductase.
+5090	Beta-glucosidase.
+5090	Beta-glucosidase.
+5090	Beta-glucosidase.
+5237	NADH dehydrogenase.
+5246	Ubiquitinyl hydrolase 1.
+5360	Glucan 1,3-beta-glucosidase.
+5379	Purine-nucleoside phosphorylase.
+5379	Purine-nucleoside phosphorylase.
+5379	Purine-nucleoside phosphorylase.
+5505	NADPH:quinone reductase.
+5511	Phosphotransferases with an alcohol group as acceptor.
+5511	Phosphotransferases with an alcohol group as acceptor.
+5511	Phosphotransferases with an alcohol group as acceptor.
+5511	Phosphotransferases with an alcohol group as acceptor.
+5511	Phosphotransferases with an alcohol group as acceptor.
+5613	Iduronate-2-sulfatase.
+5727	DNA ligase (ATP).
+5748	mRNA (guanine-N7-)-methyltransferase.
+5767	DNA-directed RNA polymerase.
+5767	DNA-directed RNA polymerase.
+5767	DNA-directed RNA polymerase.
+5774	Serine/threonine specific protein phosphatase.
+5784	Acetyl-CoA C-acetyltransferase.
+5784	Acetyl-CoA C-acetyltransferase.
+5784	Acetyl-CoA C-acetyltransferase.
+5784	Acetyl-CoA C-acetyltransferase.
+5784	Acetyl-CoA C-acetyltransferase.
+5784	Acetyl-CoA C-acetyltransferase.
+5784	Acetyl-CoA C-acetyltransferase.
+5784	Acetyl-CoA C-acetyltransferase.
+5784	Acetyl-CoA C-acetyltransferase.
+5798	Methylmalonyl-CoA mutase.
+5798	Methylmalonyl-CoA mutase.
+5840	Succinate-semialdehyde dehydrogenase (NAD(P)+).
+5840	Succinate-semialdehyde dehydrogenase (NAD(P)+).
+5840	Succinate-semialdehyde dehydrogenase (NAD(P)+).
+5841	Carbonate dehydratase.
+5928	Nucleotidyltransferases.
+5928	Nucleotidyltransferases.
+5935	Ribonuclease P.
+6029	L-arabinose isomerase.
+6063	2-acetyl-1-alkylglycerophosphocholine esterase.
+6113	Propionyl-CoA carboxylase.
+6113	Propionyl-CoA carboxylase.
+6116	Protein kinase.
+6121	Pantothenate kinase.
+6127	Serine/threonine specific protein phosphatase.
+6148	Calcium-transporting ATPase.
+6153	Aryl-alcohol dehydrogenase (NADP+).
+6173	Proteasome endopeptidase complex.
+6207	Methyltransferases.
+6207	Methyltransferases.
+6207	Methyltransferases.
+6207	Methyltransferases.
+6207	Methyltransferases.
+6207	Methyltransferases.
+6207	Methyltransferases.
+6207	Methyltransferases.
+6220	Acting on paired donors, with incorporation or reduction of
+6220	Acting on paired donors, with incorporation or reduction of
+6220	Acting on paired donors, with incorporation or reduction of
+6220	Acting on paired donors, with incorporation or reduction of
+6313	Acid phosphatase.
+6313	Acid phosphatase.
+6328	Palmitoyl-protein hydrolase.
+6335	Aminopeptidases.
+6361	Acid phosphatase.
+6361	Acid phosphatase.
+6432	In phosphorous-containing anhydrides.
+6432	In phosphorous-containing anhydrides.
+6459	DNA-directed RNA polymerase.
+6459	DNA-directed RNA polymerase.
+6459	DNA-directed RNA polymerase.
+6548	Peptidylprolyl isomerase.
+6556	Polygalacturonase.
+6556	Polygalacturonase.
+6562	2-acetyl-1-alkylglycerophosphocholine esterase.
+6584	Alpha,alpha-trehalose-phosphate synthase (UDP-forming).
+6601	Acting on the CH-OH group of donors.
+6601	Acting on the CH-OH group of donors.
+6633	Beta-glucosidase.
+6633	Beta-glucosidase.
+6633	Beta-glucosidase.
+6670	Exo-alpha-sialidase.
+6670	Exo-alpha-sialidase.
+6678	Acid phosphatase.
+6678	Acid phosphatase.
+6747	Acyl-CoA oxidase.
+6748	In phosphorous-containing anhydrides.
+6748	In phosphorous-containing anhydrides.
+6773	Carbonyl reductase (NADPH).
+7166	2-acetyl-1-alkylglycerophosphocholine esterase.
+7175	Peptidylprolyl isomerase.
+7190	RNA-3'-phosphate cyclase.
+7206	Palmitoyl-protein hydrolase.
+7236	Exo-alpha-sialidase.
+7236	Exo-alpha-sialidase.
+7245	Myosin ATPase.
+7354	Queuine tRNA-ribosyltransferase.
+7371	Histone acetyltransferase.
+7395	Sterol esterase.
+7415	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+7415	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+7415	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+7415	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+7431	Histone acetyltransferase.
+7454	Peptidylprolyl isomerase.
+7562	Glutamate decarboxylase.
+7562	Glutamate decarboxylase.
+7562	Glutamate decarboxylase.
+7562	Glutamate decarboxylase.
+7562	Glutamate decarboxylase.
+7749	Di-trans-poly-cis-decaprenylcistransferase.
+7771	Peptidylprolyl isomerase.
+7796	Acyltransferases.
+7820	Anthranilate synthase.
+7903	Choline dehydrogenase.
+7933	Protein kinase.
+7941	Cysteine endopeptidases.
+7948	Myo-inositol 2-dehydrogenase.
+7948	Myo-inositol 2-dehydrogenase.
+8134	L-iditol 2-dehydrogenase.
+8149	Hypoxanthine phosphoribosyltransferase.
+8265	With a disulfide as acceptor.
+8289	Tyrosine aminotransferase.
+8289	Tyrosine aminotransferase.
+8289	Tyrosine aminotransferase.
+8289	Tyrosine aminotransferase.
+8294	Dynein ATPase.
+8355	Peptidylprolyl isomerase.
+8377	Acid--D-amino-acid ligases (peptide synthases).
+8377	Acid--D-amino-acid ligases (peptide synthases).
+8418	Cysteine endopeptidases.
+8474	Gibberellin 3-beta-dioxygenase.
+8493	3-hydroxyisobutyrate dehydrogenase.
+8502	Acting on ester bonds.
+8557	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+8557	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+8557	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+8557	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+8575	3-oxoacyl-[acyl-carrier protein] reductase.
+8576	3-oxoacyl-[acyl-carrier protein] reductase.
+8589	Serine/threonine specific protein phosphatase.
+8634	Dihydrolipoamide S-acetyltransferase.
+8634	Dihydrolipoamide S-acetyltransferase.
+8658	Ubiquitin--protein ligase.
+8726	Glycolipid 3-alpha-mannosyltransferase.
+8757	Protein-L-isoaspartate(D-aspartate) O-methyltransferase.
+8856	Laccase.
+8877	Serine/threonine specific protein phosphatase.
+8926	Chaperonin ATPase.
+8928	Adenosinetriphosphatase.
+8964	Plus-end-directed kinesin ATPase.
+8992	Dephospho-CoA kinase.
+9033	Trehalose-phosphatase.
+9084	2-acetyl-1-alkylglycerophosphocholine esterase.
+9132	Ribokinase.
+9209	Trehalose-phosphatase.
+9229	Protein kinase.
+9285	Acting on paired donors, with incorporation or reduction of
+9285	Acting on paired donors, with incorporation or reduction of
+9285	Acting on paired donors, with incorporation or reduction of
+9285	Acting on paired donors, with incorporation or reduction of
+9291	With NAD(+) or NADP(+) as acceptor.
+9291	With NAD(+) or NADP(+) as acceptor.
+9291	With NAD(+) or NADP(+) as acceptor.
+9291	With NAD(+) or NADP(+) as acceptor.
+9291	With NAD(+) or NADP(+) as acceptor.
+9291	With NAD(+) or NADP(+) as acceptor.
+9291	With NAD(+) or NADP(+) as acceptor.
+9291	With NAD(+) or NADP(+) as acceptor.
+9291	With NAD(+) or NADP(+) as acceptor.
+9291	With NAD(+) or NADP(+) as acceptor.
+9291	With NAD(+) or NADP(+) as acceptor.
+9291	With NAD(+) or NADP(+) as acceptor.
+9322	Adenylate cyclase.
+9345	Glyoxylate reductase (NADP+).
+9345	Glyoxylate reductase (NADP+).
+9346	Glyoxylate reductase (NADP+).
+9346	Glyoxylate reductase (NADP+).
+9348	NADPH dehydrogenase.
+9515	Methyltransferases.
+9515	Methyltransferases.
+9515	Methyltransferases.
+9515	Methyltransferases.
+9515	Methyltransferases.
+9515	Methyltransferases.
+9515	Methyltransferases.
+9515	Methyltransferases.
+9516	Glycerol-3-phosphate O-acyltransferase.
+9620	Ribose 5-phosphate epimerase.
+9620	Ribose 5-phosphate epimerase.
+9646	DNA ligase (ATP).
+9665	Peptidylprolyl isomerase.
+9707	Glutathione transferase.
+9760	Hydrolases.
+9772	DNA ligase (ATP).
+9773	Metalloendopeptidases.
+9795	Aromatic-L-amino-acid decarboxylase.
+9795	Aromatic-L-amino-acid decarboxylase.
+9795	Aromatic-L-amino-acid decarboxylase.
+9795	Aromatic-L-amino-acid decarboxylase.
+9795	Aromatic-L-amino-acid decarboxylase.
+9820	Dynein ATPase.
+9825	2-acetyl-1-alkylglycerophosphocholine esterase.
+9976	Glycerophosphoinositol inositolphosphodiesterase.
+10085	In phosphorous-containing anhydrides.
+10085	In phosphorous-containing anhydrides.
+10092	Mannose-1-phosphate guanylyltransferase.
+10096	Arabinogalactan endo-1,4-beta-galactosidase.
+10104	Oxidoreductases.
+10144	Alcohol dehydrogenase.
+10144	Alcohol dehydrogenase.
+10144	Alcohol dehydrogenase.
+10144	Alcohol dehydrogenase.
+10144	Alcohol dehydrogenase.
+10202	Peptidylprolyl isomerase.
+10260	Methyltransferases.
+10260	Methyltransferases.
+10260	Methyltransferases.
+10260	Methyltransferases.
+10260	Methyltransferases.
+10260	Methyltransferases.
+10260	Methyltransferases.
+10260	Methyltransferases.
+10328	L-arabinose isomerase.
+10366	UTP--glucose-1-phosphate uridylyltransferase.
+10366	UTP--glucose-1-phosphate uridylyltransferase.
+10366	UTP--glucose-1-phosphate uridylyltransferase.
+10366	UTP--glucose-1-phosphate uridylyltransferase.
+10373	Dynein ATPase.
+10392	Glucan 1,4-alpha-glucosidase.
+10397	1-phosphatidylinositol-4-phosphate kinase.
+10405	NADPH dehydrogenase.
+10484	Transferring groups other than amino-acyl groups.
+10484	Transferring groups other than amino-acyl groups.
+10484	Transferring groups other than amino-acyl groups.
+10484	Transferring groups other than amino-acyl groups.
+10484	Transferring groups other than amino-acyl groups.
+10484	Transferring groups other than amino-acyl groups.
+10484	Transferring groups other than amino-acyl groups.
+10484	Transferring groups other than amino-acyl groups.
+10484	Transferring groups other than amino-acyl groups.
+10484	Transferring groups other than amino-acyl groups.
+10484	Transferring groups other than amino-acyl groups.
+10484	Transferring groups other than amino-acyl groups.
+10484	Transferring groups other than amino-acyl groups.
+10540	Pentosyltransferases.
+10553	Peptidylprolyl isomerase.
+10644	Phosphotransferases with an alcohol group as acceptor.
+10644	Phosphotransferases with an alcohol group as acceptor.
+10644	Phosphotransferases with an alcohol group as acceptor.
+10644	Phosphotransferases with an alcohol group as acceptor.
+10644	Phosphotransferases with an alcohol group as acceptor.
+10794	Peptidylprolyl isomerase.
+10796	Aminoacyl-tRNA hydrolase.
+10814	Dimethylaniline monooxygenase (N-oxide forming).
+10826	Dynein ATPase.
+10858	Carbonate dehydratase.
+10872	Oxidoreductases.
+10889	NADPH:quinone reductase.
+10919	Ubiquitin--protein ligase.
+10920	Ubiquitin--protein ligase.
+10930	Ubiquitin--protein ligase.
+11004	D-amino acid oxidase.
+11004	D-amino acid oxidase.
+11004	D-amino acid oxidase.
+11043	Beta-glucosidase.
+11043	Beta-glucosidase.
+11043	Beta-glucosidase.
+11087	Serine endopeptidases.
+11246	Transferring other groups.
+11261	[Ribulose-bisphosphate-carboxylase]-lysine N-methyltransferase.
+11336	Histone acetyltransferase.
+11341	Methionyl-tRNA formyltransferase.
+11341	Methionyl-tRNA formyltransferase.
+11341	Methionyl-tRNA formyltransferase.
+11399	With other acceptors.
+11399	With other acceptors.
+11399	With other acceptors.
+11410	With NAD(+) or NADP(+) as acceptor.
+11410	With NAD(+) or NADP(+) as acceptor.
+11410	With NAD(+) or NADP(+) as acceptor.
+11410	With NAD(+) or NADP(+) as acceptor.
+11410	With NAD(+) or NADP(+) as acceptor.
+11410	With NAD(+) or NADP(+) as acceptor.
+11410	With NAD(+) or NADP(+) as acceptor.
+11410	With NAD(+) or NADP(+) as acceptor.
+11410	With NAD(+) or NADP(+) as acceptor.
+11410	With NAD(+) or NADP(+) as acceptor.
+11410	With NAD(+) or NADP(+) as acceptor.
+11410	With NAD(+) or NADP(+) as acceptor.
+11468	L-arabinose isomerase.
+11500	Methyltransferases.
+11500	Methyltransferases.
+11500	Methyltransferases.
+11500	Methyltransferases.
+11500	Methyltransferases.
+11500	Methyltransferases.
+11500	Methyltransferases.
+11500	Methyltransferases.
+11568	Acting on ester bonds.
+11645	Adenosinetriphosphatase.
+11653	Procollagen-proline,2-oxoglutarate-4-dioxygenase.
+11655	Acting on acid anhydrides.
+11718	NADPH dehydrogenase.
+11846	Glycerophosphodiester phosphodiesterase.
+11846	Glycerophosphodiester phosphodiesterase.
+11961	Aryl-alcohol dehydrogenase (NADP+).
+11985	Phosphotransferases with an alcohol group as acceptor.
+11985	Phosphotransferases with an alcohol group as acceptor.
+11985	Phosphotransferases with an alcohol group as acceptor.
+11985	Phosphotransferases with an alcohol group as acceptor.
+11985	Phosphotransferases with an alcohol group as acceptor.
+11999	Peptidylprolyl isomerase.
+12008	Glutamate 5-kinase.
+12048	In phosphorous-containing anhydrides.
+12048	In phosphorous-containing anhydrides.
+12070	Exo-alpha-sialidase.
+12070	Exo-alpha-sialidase.
+12143	Deoxyribodipyrimidine photolyase.
+12194	3-dehydrosphinganine reductase.
+12238	Adenosinetriphosphatase.
+12269	Ribonuclease P.
+12325	Acid phosphatase.
+12325	Acid phosphatase.
+12354	Carboxylesterase.
+12415	Isopentenyl-diphosphate delta-isomerase.
+12415	Isopentenyl-diphosphate delta-isomerase.
+12503	Serine endopeptidases.
+12536	Polygalacturonase.
+12536	Polygalacturonase.
+12623	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase.
+12651	Glutamate carboxypeptidase II.
+12657	Glutamate carboxypeptidase II.
+12670	NADPH dehydrogenase.
+12732	L-arabinose isomerase.
+12789	Ornithine decarboxylase.
+12789	Ornithine decarboxylase.
+12789	Ornithine decarboxylase.
+12927	Exo-alpha-sialidase.
+12927	Exo-alpha-sialidase.
+12938	3-isopropylmalate dehydrogenase.
+13101	Hexosyltransferases.
+13101	Hexosyltransferases.
+13101	Hexosyltransferases.
+13101	Hexosyltransferases.
+13101	Hexosyltransferases.
+13101	Hexosyltransferases.
+13101	Hexosyltransferases.
+13101	Hexosyltransferases.
+13101	Hexosyltransferases.
+13101	Hexosyltransferases.
+13101	Hexosyltransferases.
+13215	Alpha,alpha-trehalose-phosphate synthase (UDP-forming).
+13224	Riboflavin kinase.
+13283	Cysteine endopeptidases.
+13394	Aryl-alcohol dehydrogenase (NADP+).
+13395	Aryl-alcohol dehydrogenase (NADP+).
+13487	2-acetyl-1-alkylglycerophosphocholine esterase.
+13544	Aryl-alcohol dehydrogenase (NADP+).
+13619	Protein kinase.
+13664	In phosphorous-containing anhydrides.
+13664	In phosphorous-containing anhydrides.
+13793	Exo-alpha-sialidase.
+13793	Exo-alpha-sialidase.
+13819	NADH dehydrogenase.
+13903	In phosphorous-containing anhydrides.
+13903	In phosphorous-containing anhydrides.
+14263	Adenosinetriphosphatase.
+14365	Beta-glucosidase.
+14365	Beta-glucosidase.
+14365	Beta-glucosidase.
+14488	4-coumarate--CoA ligase.
+14569	Acid phosphatase.
+14569	Acid phosphatase.
+14802	Enoyl-CoA hydratase.
+14802	Enoyl-CoA hydratase.
+14802	Enoyl-CoA hydratase.
+14802	Enoyl-CoA hydratase.
+14802	Enoyl-CoA hydratase.
+14802	Enoyl-CoA hydratase.
+14802	Enoyl-CoA hydratase.
+14802	Enoyl-CoA hydratase.
+14802	Enoyl-CoA hydratase.
+14821	DNA ligase (ATP).
+14849	Aryl-alcohol dehydrogenase (NADP+).
+14850	Aryl-alcohol dehydrogenase (NADP+).
+14851	Aryl-alcohol dehydrogenase (NADP+).
+14892	Serine/threonine specific protein phosphatase.
+14920	L-arabinose isomerase.
+14958	Protein kinase.
+15097	Glucosylceramidase.
+15125	Glucan 1,4-alpha-glucosidase.
+15171	NADPH dehydrogenase.
+15173	NADPH dehydrogenase.
+15234	Beta-glucosidase.
+15234	Beta-glucosidase.
+15234	Beta-glucosidase.
+15235	Beta-glucosidase.
+15235	Beta-glucosidase.
+15235	Beta-glucosidase.
+15440	Glucan 1,3-beta-glucosidase.
+15447	Metalloendopeptidases.
+15477	Anthranilate phosphoribosyltransferase.
+15492	Mannitol dehydrogenase.
+15595	Acting on the CH-OH group of donors.
+15595	Acting on the CH-OH group of donors.
+15620	Phospholipase D.
+15620	Phospholipase D.
+15715	Ubiquitin--protein ligase.
+15985	Prostaglandin-D synthase.
+15988	Prostaglandin-D synthase.
+15998	D-lactate dehydrogenase.
+16046	Dimethylaniline monooxygenase (N-oxide forming).
+16154	Oligopeptidase A.
+16155	Oligopeptidase A.
+16252	Glutamate decarboxylase.
+16252	Glutamate decarboxylase.
+16252	Glutamate decarboxylase.
+16252	Glutamate decarboxylase.
+16252	Glutamate decarboxylase.
+16329	With NAD(+) or NADP(+) as acceptor.
+16329	With NAD(+) or NADP(+) as acceptor.
+16329	With NAD(+) or NADP(+) as acceptor.
+16329	With NAD(+) or NADP(+) as acceptor.
+16329	With NAD(+) or NADP(+) as acceptor.
+16329	With NAD(+) or NADP(+) as acceptor.
+16329	With NAD(+) or NADP(+) as acceptor.
+16329	With NAD(+) or NADP(+) as acceptor.
+16329	With NAD(+) or NADP(+) as acceptor.
+16329	With NAD(+) or NADP(+) as acceptor.
+16329	With NAD(+) or NADP(+) as acceptor.
+16329	With NAD(+) or NADP(+) as acceptor.
+16362	Acid--D-amino-acid ligases (peptide synthases).
+16362	Acid--D-amino-acid ligases (peptide synthases).
+16541	Magnesium-ATPase.
+16729	Di-trans-poly-cis-decaprenylcistransferase.
+16734	DNA-directed DNA polymerase.
+16734	DNA-directed DNA polymerase.
+16734	DNA-directed DNA polymerase.
+16777	Adenosinetriphosphatase.
+17052	Long-chain-fatty-acid--CoA ligase.
+17061	Citrate (pro-3S)-lyase thiolesterase.
+17161	NADPH dehydrogenase.
+17307	Ethanolaminephosphotransferase.
+17307	Ethanolaminephosphotransferase.
+17307	Ethanolaminephosphotransferase.
+17329	3-oxoacyl-[acyl-carrier protein] reductase.
+17404	Sphingosine N-acyltransferase.
+17404	Sphingosine N-acyltransferase.
+17598	Beta-glucosidase.
+17598	Beta-glucosidase.
+17598	Beta-glucosidase.
+17602	Exoribonucleases producing 5'-phosphomonoesters.
+17679	DNA-directed DNA polymerase.
+17679	DNA-directed DNA polymerase.
+17679	DNA-directed DNA polymerase.
+17821	Mitochondrial processing peptidase.
+17928	Glutamate decarboxylase.
+17928	Glutamate decarboxylase.
+17928	Glutamate decarboxylase.
+17928	Glutamate decarboxylase.
+17928	Glutamate decarboxylase.
+18029	DNA-directed RNA polymerase.
+18029	DNA-directed RNA polymerase.
+18029	DNA-directed RNA polymerase.
+18279	Glucosylceramidase.
+18538	4-aminobutyrate aminotransferase.
+18538	4-aminobutyrate aminotransferase.
+18538	4-aminobutyrate aminotransferase.
+18538	4-aminobutyrate aminotransferase.
+18538	4-aminobutyrate aminotransferase.
+18782	Arginase.
+18782	Arginase.
+18996	L-arabinose isomerase.
+19105	Exo-alpha-sialidase.
+19105	Exo-alpha-sialidase.
+19270	Proline--tRNA ligase.
+19270	Proline--tRNA ligase.
+19300	Exo-alpha-sialidase.
+19300	Exo-alpha-sialidase.
+19345	Acid--thiol ligases.
+19345	Acid--thiol ligases.
+19369	Beta-fructofuranosidase.
+19369	Beta-fructofuranosidase.
+19495	2-acetyl-1-alkylglycerophosphocholine esterase.
+19497	Hydrolases.
+19507	Selenide,water dikinase.
+19547	Glucan 1,4-alpha-glucosidase.
+19564	Acting on acid anhydrides.
+19592	Chaperonin ATPase.
+19612	Exo-alpha-sialidase.
+19612	Exo-alpha-sialidase.
+19900	Trypsin.
+19918	Carboxylesterase.
+19920	Carboxylesterase.
+20053	Carbonate dehydratase.
+20054	Carbonate dehydratase.
+20118	Palmitoyl-protein hydrolase.
+20121	Palmitoyl-protein hydrolase.
+20259	Methyltransferases.
+20259	Methyltransferases.
+20259	Methyltransferases.
+20259	Methyltransferases.
+20259	Methyltransferases.
+20259	Methyltransferases.
+20259	Methyltransferases.
+20259	Methyltransferases.
+20316	Adenosinetriphosphatase.
+20425	Exo-alpha-sialidase.
+20425	Exo-alpha-sialidase.
+20426	Proton-exporting ATPase.
+20530	Glyceraldehyde 3-phosphate dehydrogenase (phosphorylating).
+20530	Glyceraldehyde 3-phosphate dehydrogenase (phosphorylating).
+20646	Exo-alpha-sialidase.
+20646	Exo-alpha-sialidase.
+20718	Acylglycerol lipase.
+20969	Mannitol dehydrogenase.
+21126	Carboxypeptidase C.
+21243	Magnesium-ATPase.
+21290	Magnesium-ATPase.
+21380	Polygalacturonase.
+21380	Polygalacturonase.
+21386	Polygalacturonase.
+21386	Polygalacturonase.
+21400	Pepsin A.
+21516	Alcohol dehydrogenase.
+21516	Alcohol dehydrogenase.
+21516	Alcohol dehydrogenase.
+21516	Alcohol dehydrogenase.
+21516	Alcohol dehydrogenase.
+21549	Acting on paired donors, with incorporation or reduction of
+21549	Acting on paired donors, with incorporation or reduction of
+21549	Acting on paired donors, with incorporation or reduction of
+21549	Acting on paired donors, with incorporation or reduction of
+21562	Exo-alpha-sialidase.
+21562	Exo-alpha-sialidase.
+21628	Histone acetyltransferase.
+21640	dTDP-glucose 4,6-dehydratase.
+21640	dTDP-glucose 4,6-dehydratase.
+21649	Succinate dehydrogenase (ubiquinone).
+21649	Succinate dehydrogenase (ubiquinone).
+21699	Carboxylesterase.
+21714	Proteasome endopeptidase complex.
+21762	Histone acetyltransferase.
+21780	Ubiquinol--cytochrome c reductase.
+21981	Glucan 1,4-alpha-glucosidase.
+33678	In phosphorous-containing anhydrides.
+33678	In phosphorous-containing anhydrides.
+33816	Magnesium-ATPase.
+33876	Magnesium-ATPase.
+34044	Magnesium-ATPase.
+34102	Adenosinetriphosphatase.
+34281	NAD(+) ADP-ribosyltransferase.
+34370	Alpha,alpha-trehalose-phosphate synthase (UDP-forming).
+34485	In phosphorous-containing anhydrides.
+34485	In phosphorous-containing anhydrides.
+34551	Plus-end-directed kinesin ATPase.
+34631	In phosphorous-containing anhydrides.
+34631	In phosphorous-containing anhydrides.
+34721	In phosphorous-containing anhydrides.
+34721	In phosphorous-containing anhydrides.
+34963	Transferring other groups.
+35008	NADPH--ferrihemoprotein reductase.
+35202	Oxidoreductases.
+35476	Adenylate cyclase.
+35487	In phosphorous-containing anhydrides.
+35487	In phosphorous-containing anhydrides.
+35591	Hexosyltransferases.
+35591	Hexosyltransferases.
+35591	Hexosyltransferases.
+35591	Hexosyltransferases.
+35591	Hexosyltransferases.
+35591	Hexosyltransferases.
+35591	Hexosyltransferases.
+35591	Hexosyltransferases.
+35591	Hexosyltransferases.
+35591	Hexosyltransferases.
+35591	Hexosyltransferases.
+35620	5'-nucleotidase.
+35620	5'-nucleotidase.
+35620	5'-nucleotidase.
+35679	Leishmanolysin.
+35695	Exodeoxyribonucleases producing 5'-phosphomonoesters.
+35751	Acid--D-amino-acid ligases (peptide synthases).
+35751	Acid--D-amino-acid ligases (peptide synthases).
+35790	Malonyl-CoA decarboxylase.
+35790	Malonyl-CoA decarboxylase.
+35892	Acting on paired donors, with incorporation or reduction of
+35892	Acting on paired donors, with incorporation or reduction of
+35892	Acting on paired donors, with incorporation or reduction of
+35892	Acting on paired donors, with incorporation or reduction of
+35949	Phosphotransferases with an alcohol group as acceptor.
+35949	Phosphotransferases with an alcohol group as acceptor.
+35949	Phosphotransferases with an alcohol group as acceptor.
+35949	Phosphotransferases with an alcohol group as acceptor.
+35949	Phosphotransferases with an alcohol group as acceptor.
+35952	Alpha-glucosidase.
+35952	Alpha-glucosidase.
+35998	In linear amides.
+35998	In linear amides.
+35998	In linear amides.
+35998	In linear amides.
+36040	Carboxypeptidase C.
+36168	Carboxypeptidase C.
+36283	Serine/threonine specific protein phosphatase.
+36367	Acting on peptide bonds (peptide hydrolases).
+36367	Acting on peptide bonds (peptide hydrolases).
+36446	Acetylornithine aminotransferase.
+36671	Acid--D-amino-acid ligases (peptide synthases).
+36671	Acid--D-amino-acid ligases (peptide synthases).
+36736	Diaminopimelate decarboxylase.
+36802	Acid phosphatase.
+36802	Acid phosphatase.
+36835	Adenosinetriphosphatase.
+36960	Prephenate dehydratase.
+37069	Pseudouridylate synthase.
+37314	Saccharopepsin.
+37467	Cysteine-type carboxypeptidase.
+37778	Acting on amino acids and derivatives.
+37968	Chorismate mutase.
+38005	Cysteine endopeptidases.
+38010	Aryl-alcohol dehydrogenase (NADP+).
+38099	Phosphotransferases with an alcohol group as acceptor.
+38099	Phosphotransferases with an alcohol group as acceptor.
+38099	Phosphotransferases with an alcohol group as acceptor.
+38099	Phosphotransferases with an alcohol group as acceptor.
+38099	Phosphotransferases with an alcohol group as acceptor.
+38260	Protein kinase.
+38261	Methyltransferases.
+38261	Methyltransferases.
+38261	Methyltransferases.
+38261	Methyltransferases.
+38261	Methyltransferases.
+38261	Methyltransferases.
+38261	Methyltransferases.
+38261	Methyltransferases.
+38287	1-phosphatidylinositol-4-phosphate kinase.
+38384	tRNA-pseudouridine synthase I.
+38494	Acylglycerol lipase.
+38642	Methyltransferases.
+38642	Methyltransferases.
+38642	Methyltransferases.
+38642	Methyltransferases.
+38642	Methyltransferases.
+38642	Methyltransferases.
+38642	Methyltransferases.
+38642	Methyltransferases.
+38807	Methyltransferases.
+38807	Methyltransferases.
+38807	Methyltransferases.
+38807	Methyltransferases.
+38807	Methyltransferases.
+38807	Methyltransferases.
+38807	Methyltransferases.
+38807	Methyltransferases.
+38948	Mannosyl-glycoprotein endo-beta-N-acetylglucosamidase.
+39061	3',5'-cyclic-nucleotide phosphodiesterase.
+39071	Endodeoxyribonucleases producing 5'-phosphomonoesters.
+39079	Gamma-glutamyl hydrolase.
+39085	Procollagen-proline,2-oxoglutarate-4-dioxygenase.
+39235	Exoribonuclease II.
+39318	Carbonate dehydratase.
+39511	Acid--D-amino-acid ligases (peptide synthases).
+39511	Acid--D-amino-acid ligases (peptide synthases).
+39535	Enoyl-CoA hydratase.
+39535	Enoyl-CoA hydratase.
+39535	Enoyl-CoA hydratase.
+39535	Enoyl-CoA hydratase.
+39535	Enoyl-CoA hydratase.
+39535	Enoyl-CoA hydratase.
+39535	Enoyl-CoA hydratase.
+39535	Enoyl-CoA hydratase.
+39535	Enoyl-CoA hydratase.
+40170	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase.
+40284	Uracil phosphoribosyltransferase.
+40500	Protein-methionine-S-oxide reductase. Peptide methionine sulfoxide reductase. Peptide Met(O) reductase.
+40503	Peptidylprolyl isomerase.
+40990	Bis(5'-adenosyl)-triphosphatase.
+41302	Nucleoside-diphosphate kinase.
+41302	Nucleoside-diphosphate kinase.
+41308	Protein-tyrosine-phosphatase.
+41396	Glutathione peroxidase.
+41553	Ubiquitin--protein ligase.
+42213	Acting on peptide bonds (peptide hydrolases).
+42213	Acting on peptide bonds (peptide hydrolases).
+42726	Peptidylprolyl isomerase.
+43385	Ubiquitin--protein ligase.
+43386	Dynein ATPase.
+44729	Deoxyribodipyrimidine photolyase.
+45739	Serine endopeptidases.
+46496	Glucan 1,3-beta-glucosidase.
+46540	Cellulase.
+47003	Trypsin.
+47033	Glucan 1,3-beta-glucosidase.
+47441	Thiosulfate sulfurtransferase.
+48408	Acting on ester bonds.
+48912	DNA-directed RNA polymerase.
+48912	DNA-directed RNA polymerase.
+48912	DNA-directed RNA polymerase.
+49822	Glyceraldehyde 3-phosphate dehydrogenase (phosphorylating).
+49822	Glyceraldehyde 3-phosphate dehydrogenase (phosphorylating).
+53933	Magnesium-ATPase.
+53999	Myosin ATPase.
+54211	Lanosterol synthase.
+54256	Transferring phosphorous-containing groups.
+54706	Acting on paired donors, with incorporation or reduction of
+54706	Acting on paired donors, with incorporation or reduction of
+54706	Acting on paired donors, with incorporation or reduction of
+54706	Acting on paired donors, with incorporation or reduction of
+55246	Carnitine O-octanoyltransferase.
+55474	Acid--D-amino-acid ligases (peptide synthases).
+55474	Acid--D-amino-acid ligases (peptide synthases).
+55845	4-coumarate--CoA ligase.
+56109	Acting on paired donors, with incorporation or reduction of
+56109	Acting on paired donors, with incorporation or reduction of
+56109	Acting on paired donors, with incorporation or reduction of
+56109	Acting on paired donors, with incorporation or reduction of
+56271	L-arabinose isomerase.
+56419	Ubiquitin--protein ligase.
+56588	In phosphorous-containing anhydrides.
+56588	In phosphorous-containing anhydrides.
+56607	L-arabinose isomerase.
+56997	Acid--D-amino-acid ligases (peptide synthases).
+56997	Acid--D-amino-acid ligases (peptide synthases).
+57019	Ethanolaminephosphotransferase.
+57019	Ethanolaminephosphotransferase.
+57019	Ethanolaminephosphotransferase.
+57192	NADPH dehydrogenase.
+58623	Protein kinase.
+58796	Chymotrypsin.
+58866	Ribonuclease H.
+60287	Phosphotransferases with an alcohol group as acceptor.
+60287	Phosphotransferases with an alcohol group as acceptor.
+60287	Phosphotransferases with an alcohol group as acceptor.
+60287	Phosphotransferases with an alcohol group as acceptor.
+60287	Phosphotransferases with an alcohol group as acceptor.
+64031	NAD(+) ADP-ribosyltransferase.
+65510	Methylcrotonyl-CoA carboxylase.
+67509	Phosphoric diester hydrolases.
+67510	Phosphoric diester hydrolases.
+67552	Phosphoric diester hydrolases.
+69280	Serine/threonine specific protein phosphatase.
+69328	Serine endopeptidases.
+74027	Beta-glucosidase.
+74027	Beta-glucosidase.
+74027	Beta-glucosidase.
+74088	In phosphorous-containing anhydrides.
+74088	In phosphorous-containing anhydrides.
+74521	Endothelin-converting enzyme 1.
+74716	Alpha,alpha-trehalase.
+75646	Polynucleotide adenylyltransferase.
+76268	8-amino-7-oxononanoate synthase.
+76306	Oxidoreductases.
+76423	Carboxypeptidase C.
+76747	Acid--D-amino-acid ligases (peptide synthases).
+76747	Acid--D-amino-acid ligases (peptide synthases).
+77007	3-methyl-2-oxobutanoate hydroxymethyltransferase.
+77007	3-methyl-2-oxobutanoate hydroxymethyltransferase.
+77033	Protein kinase.
+77085	Adenosinetriphosphatase.
+77289	Diphosphomevalonate decarboxylase.
+77355	Protein-tyrosine-phosphatase.
+77388	Acid--D-amino-acid ligases (peptide synthases).
+77388	Acid--D-amino-acid ligases (peptide synthases).
+77483	Glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase.
+77485	Glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase.
+77636	1-phosphatidylinositol-4-phosphate kinase.
+77644	Adenosylmethionine decarboxylase.
+77654	1-phosphatidylinositol-4-phosphate kinase.
+78008	Protein kinase.
+78080	Pseudouridylate synthase.
+78113	tRNA (guanosine-2'-O-)-methyltransferase.
+78446	Adenylate cyclase.
+79142	Acid--D-amino-acid ligases (peptide synthases).
+79142	Acid--D-amino-acid ligases (peptide synthases).
+79147	Pseudouridylate synthase.
+79350	Uracil phosphoribosyltransferase.
+79665	Holocytochrome-c synthase.
+79741	Orotidine-5'-phosphate decarboxylase.
+80592	Uracil phosphoribosyltransferase.
+83452	1-phosphatidylinositol-4-phosphate kinase.
+83613	Acting on acid anhydrides; catalyzing transmembrane movement
+83727	Phosphotransferases with an alcohol group as acceptor.
+83727	Phosphotransferases with an alcohol group as acceptor.
+83727	Phosphotransferases with an alcohol group as acceptor.
+83727	Phosphotransferases with an alcohol group as acceptor.
+83727	Phosphotransferases with an alcohol group as acceptor.
+83784	Carboxypeptidase D.
+83848	Phosphotransferases with an alcohol group as acceptor.
+83848	Phosphotransferases with an alcohol group as acceptor.
+83848	Phosphotransferases with an alcohol group as acceptor.
+83848	Phosphotransferases with an alcohol group as acceptor.
+83848	Phosphotransferases with an alcohol group as acceptor.
+83929	Polynucleotide adenylyltransferase.
+96024	Pyruvate dehydrogenase (lipoamide).
+96024	Pyruvate dehydrogenase (lipoamide).
+96024	Pyruvate dehydrogenase (lipoamide).
+96024	Pyruvate dehydrogenase (lipoamide).
+96252	Dynein ATPase.
+96374	Ubiquitin thiolesterase.
+96580	Acting on the CH-OH group of donors.
+96580	Acting on the CH-OH group of donors.
+96582	NADPH dehydrogenase.
+96601	DNA topoisomerase.
+96628	Acetate--CoA ligase.
+96628	Acetate--CoA ligase.
+96628	Acetate--CoA ligase.
+96628	Acetate--CoA ligase.
+96630	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+96630	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+96630	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+96630	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+96712	Alcohol dehydrogenase.
+96712	Alcohol dehydrogenase.
+96712	Alcohol dehydrogenase.
+96712	Alcohol dehydrogenase.
+96712	Alcohol dehydrogenase.
+96716	Glutathione transferase.
+96761	Peptidylprolyl isomerase.
+96818	Alpha,alpha-trehalose-phosphate synthase (UDP-forming).
+96835	Proteasome endopeptidase complex.
+96860	Retinol dehydrogenase.
+96969	DNA-directed RNA polymerase.
+96969	DNA-directed RNA polymerase.
+96969	DNA-directed RNA polymerase.
+96997	Peptidylprolyl isomerase.
+97100	Ribosomal-protein-alanine N-acetyltransferase.
+97205	Cyclopropane-fatty-acyl-phospholipid synthase.
+97233	Ribonucleoside-diphosphate reductase.
+97233	Ribonucleoside-diphosphate reductase.
+97244	Uracil phosphoribosyltransferase.
+97273	L-arabinose isomerase.
+97362	Oxidoreductases.
+97392	Acting on the CH-OH group of donors.
+97392	Acting on the CH-OH group of donors.
+97447	Methyltransferases.
+97447	Methyltransferases.
+97447	Methyltransferases.
+97447	Methyltransferases.
+97447	Methyltransferases.
+97447	Methyltransferases.
+97447	Methyltransferases.
+97447	Methyltransferases.
+97505	Proteasome endopeptidase complex.
+97553	L-arabinose isomerase.
+97569	RNA-directed DNA polymerase.
+97694	Alkaline phosphatase.
+97694	Alkaline phosphatase.
+97694	Alkaline phosphatase.
+97709	Beta-glucosidase.
+97709	Beta-glucosidase.
+97709	Beta-glucosidase.
+97751	tRNA isopentenyltransferase.
+97806	Beta-glucosidase.
+97806	Beta-glucosidase.
+97806	Beta-glucosidase.
+97828	Glutathione transferase.
+97839	In phosphorous-containing anhydrides.
+97839	In phosphorous-containing anhydrides.
+97872	Proteasome endopeptidase complex.
+97910	Beta-glucosidase.
+97910	Beta-glucosidase.
+97910	Beta-glucosidase.
+98000	Ubiquitin--protein ligase.
+98041	Endothelin-converting enzyme 1.
+98049	Glutathione transferase.
+98132	Endoribonucleases active with either ribo- or deoxyribonucleic
+98153	Acid--D-amino-acid ligases (peptide synthases).
+98153	Acid--D-amino-acid ligases (peptide synthases).
+98432	Acting on paired donors, with incorporation or reduction of
+98432	Acting on paired donors, with incorporation or reduction of
+98432	Acting on paired donors, with incorporation or reduction of
+98432	Acting on paired donors, with incorporation or reduction of
+98455	Triosephosphate isomerase.
+98455	Triosephosphate isomerase.
+98455	Triosephosphate isomerase.
+98455	Triosephosphate isomerase.
+98455	Triosephosphate isomerase.
+98459	Methyltransferases.
+98459	Methyltransferases.
+98459	Methyltransferases.
+98459	Methyltransferases.
+98459	Methyltransferases.
+98459	Methyltransferases.
+98459	Methyltransferases.
+98459	Methyltransferases.
+98467	Adenosinetriphosphatase.
+98553	Chitinase.
+98658	Aryl-alcohol dehydrogenase (NADP+).
+98712	Glutamate--tRNA ligase.
+98712	Glutamate--tRNA ligase.
+98712	Glutamate--tRNA ligase.
+98813	Glucan 1,3-alpha-glucosidase.
+98833	Adenosinetriphosphatase.
+98845	Ubiquitin--protein ligase.
+98890	Serine endopeptidases.
+98907	In linear amides.
+98907	In linear amides.
+98907	In linear amides.
+98907	In linear amides.
+99007	Cysteine endopeptidases.
+99088	Methyltransferases.
+99088	Methyltransferases.
+99088	Methyltransferases.
+99088	Methyltransferases.
+99088	Methyltransferases.
+99088	Methyltransferases.
+99088	Methyltransferases.
+99088	Methyltransferases.
+99090	Cysteine endopeptidases.
+99132	Carbon--nitrogen ligases with glutamine as amido-N-donor.
+99132	Carbon--nitrogen ligases with glutamine as amido-N-donor.
+99162	Oxidoreductases.
+99251	Serine/threonine specific protein phosphatase.
+99264	Myosin ATPase.
+99293	GDP-mannose 4,6-dehydratase.
+99353	Dihydrodipicolinate synthase.
+99462	Aryl-alcohol dehydrogenase (NADP+).
+99513	Aryl-alcohol dehydrogenase (NADP+).
+99551	DNA-directed DNA polymerase.
+99551	DNA-directed DNA polymerase.
+99551	DNA-directed DNA polymerase.
+99577	Ubiquitin thiolesterase.
+99638	L-arabinose isomerase.
+99723	Acting on the CH-OH group of donors.
+99723	Acting on the CH-OH group of donors.
+99738	Acetylornithine deacetylase.
+99751	Succinate dehydrogenase (ubiquinone).
+99751	Succinate dehydrogenase (ubiquinone).
+99777	4a-hydroxytetrahydrobiopterin dehydratase.
+99782	Plus-end-directed kinesin ATPase.
+99795	NADPH:quinone reductase.
+99813	IMP dehydrogenase.
+99865	Adenosine deaminase.
+99878	Adenylate kinase.
+99925	NADPH:quinone reductase.
+99938	Carbonate dehydratase.
+99958	Adenosinetriphosphatase.
+100055	NAD(+) ADP-ribosyltransferase.
+100086	NADPH:quinone reductase.
+100149	Polynucleotide adenylyltransferase.
+100251	N-acylsphingosine galactosyltransferase.
+100257	Hydrolases.
+100378	Amidophosphoribosyltransferase.
+100378	Amidophosphoribosyltransferase.
+100452	NADPH:quinone reductase.
+100468	Acid--D-amino-acid ligases (peptide synthases).
+100468	Acid--D-amino-acid ligases (peptide synthases).
+100484	Protein-tyrosine-phosphatase.
+100522	2-acetyl-1-alkylglycerophosphocholine esterase.
+100550	Serine--tRNA ligase.
+100550	Serine--tRNA ligase.
+100718	DNA-directed DNA polymerase.
+100718	DNA-directed DNA polymerase.
+100718	DNA-directed DNA polymerase.
+100849	Protein kinase.
+101174	H(+)-transporting two-sector ATPase.
+101174	H(+)-transporting two-sector ATPase.
+101174	H(+)-transporting two-sector ATPase.
+101187	GTP cyclohydrolase II.
+101376	Exo-alpha-sialidase.
+101376	Exo-alpha-sialidase.
+101439	Methionyl aminopeptidase.
+101484	Protein-tyrosine-phosphatase.
+101592	Exoribonucleases producing 5'-phosphomonoesters.
+101728	Phosphotransferases with an alcohol group as acceptor.
+101728	Phosphotransferases with an alcohol group as acceptor.
+101728	Phosphotransferases with an alcohol group as acceptor.
+101728	Phosphotransferases with an alcohol group as acceptor.
+101728	Phosphotransferases with an alcohol group as acceptor.
+101756	Acting on paired donors, with incorporation or reduction of
+101756	Acting on paired donors, with incorporation or reduction of
+101756	Acting on paired donors, with incorporation or reduction of
+101756	Acting on paired donors, with incorporation or reduction of
+101779	Glucan 1,3-beta-glucosidase.
+101833	NADH dehydrogenase.
+102100	Beta-glucosidase.
+102100	Beta-glucosidase.
+102100	Beta-glucosidase.
+102163	Site-specific DNA-methyltransferase (adenine-specific).
+102315	Hexosyltransferases.
+102315	Hexosyltransferases.
+102315	Hexosyltransferases.
+102315	Hexosyltransferases.
+102315	Hexosyltransferases.
+102315	Hexosyltransferases.
+102315	Hexosyltransferases.
+102315	Hexosyltransferases.
+102315	Hexosyltransferases.
+102315	Hexosyltransferases.
+102315	Hexosyltransferases.
+102445	Glucan 1,3-beta-glucosidase.
+102633	Protein-tyrosine-phosphatase.
+102731	Sphinganine kinase.
+102770	Peptidylprolyl isomerase.
+102808	With NAD(+) or NADP(+) as acceptor.
+102808	With NAD(+) or NADP(+) as acceptor.
+102808	With NAD(+) or NADP(+) as acceptor.
+102808	With NAD(+) or NADP(+) as acceptor.
+102808	With NAD(+) or NADP(+) as acceptor.
+102808	With NAD(+) or NADP(+) as acceptor.
+102808	With NAD(+) or NADP(+) as acceptor.
+102808	With NAD(+) or NADP(+) as acceptor.
+102808	With NAD(+) or NADP(+) as acceptor.
+102808	With NAD(+) or NADP(+) as acceptor.
+102808	With NAD(+) or NADP(+) as acceptor.
+102808	With NAD(+) or NADP(+) as acceptor.
+102891	With NAD(+) or NADP(+) as acceptor.
+102891	With NAD(+) or NADP(+) as acceptor.
+102891	With NAD(+) or NADP(+) as acceptor.
+102891	With NAD(+) or NADP(+) as acceptor.
+102891	With NAD(+) or NADP(+) as acceptor.
+102891	With NAD(+) or NADP(+) as acceptor.
+102891	With NAD(+) or NADP(+) as acceptor.
+102891	With NAD(+) or NADP(+) as acceptor.
+102891	With NAD(+) or NADP(+) as acceptor.
+102891	With NAD(+) or NADP(+) as acceptor.
+102891	With NAD(+) or NADP(+) as acceptor.
+102891	With NAD(+) or NADP(+) as acceptor.
+102903	With NAD(+) or NADP(+) as acceptor.
+102903	With NAD(+) or NADP(+) as acceptor.
+102903	With NAD(+) or NADP(+) as acceptor.
+102903	With NAD(+) or NADP(+) as acceptor.
+102903	With NAD(+) or NADP(+) as acceptor.
+102903	With NAD(+) or NADP(+) as acceptor.
+102903	With NAD(+) or NADP(+) as acceptor.
+102903	With NAD(+) or NADP(+) as acceptor.
+102903	With NAD(+) or NADP(+) as acceptor.
+102903	With NAD(+) or NADP(+) as acceptor.
+102903	With NAD(+) or NADP(+) as acceptor.
+102903	With NAD(+) or NADP(+) as acceptor.
+102919	Sulfuric ester hydrolases.
+102932	DNA-directed RNA polymerase.
+102932	DNA-directed RNA polymerase.
+102932	DNA-directed RNA polymerase.
+103072	Oxidoreductases.
+103114	Serine-type carboxypeptidases.
+103178	Protein kinase.
+103254	Acid--D-amino-acid ligases (peptide synthases).
+103254	Acid--D-amino-acid ligases (peptide synthases).
+103262	With NAD(+) or NADP(+) as acceptor.
+103262	With NAD(+) or NADP(+) as acceptor.
+103262	With NAD(+) or NADP(+) as acceptor.
+103262	With NAD(+) or NADP(+) as acceptor.
+103262	With NAD(+) or NADP(+) as acceptor.
+103262	With NAD(+) or NADP(+) as acceptor.
+103262	With NAD(+) or NADP(+) as acceptor.
+103262	With NAD(+) or NADP(+) as acceptor.
+103262	With NAD(+) or NADP(+) as acceptor.
+103262	With NAD(+) or NADP(+) as acceptor.
+103262	With NAD(+) or NADP(+) as acceptor.
+103262	With NAD(+) or NADP(+) as acceptor.
+103416	H(+)-transporting two-sector ATPase.
+103416	H(+)-transporting two-sector ATPase.
+103416	H(+)-transporting two-sector ATPase.
+103573	Endodeoxyribonucleases producing 5'-phosphomonoesters.
+103580	tRNA (guanine-N2-)-methyltransferase.
+103592	H(+)-transporting two-sector ATPase.
+103592	H(+)-transporting two-sector ATPase.
+103592	H(+)-transporting two-sector ATPase.
+103623	Serine/threonine specific protein phosphatase.
+103654	Dynein ATPase.
+103672	Enoyl-[acyl-carrier protein] reductase (NADH).
+103691	Protein kinase.
+103697	Succinate-semialdehyde dehydrogenase (NAD(P)+).
+103697	Succinate-semialdehyde dehydrogenase (NAD(P)+).
+103697	Succinate-semialdehyde dehydrogenase (NAD(P)+).
+103721	Hydrolases.
+103736	Protein kinase.
+103738	Acid--D-amino-acid ligases (peptide synthases).
+103738	Acid--D-amino-acid ligases (peptide synthases).
+103786	Serine/threonine specific protein phosphatase.
+103788	Carbonate dehydratase.
+103853	Homogentisate 1,2-dioxygenase.
+103853	Homogentisate 1,2-dioxygenase.
+103860	Choline dehydrogenase.
+103940	Long-chain-fatty-acid--CoA ligase.
+103968	Long-chain-fatty-acid--CoA ligase.
+103990	4-coumarate--CoA ligase.
+104066	Adenosinetriphosphatase.
+104177	Aryl-alcohol dehydrogenase (NADP+).
+104287	Gibberellin-44 dioxygenase.
+104372	Aryl-alcohol dehydrogenase (NADP+).
+104391	Aryl-alcohol dehydrogenase (NADP+).
+104452	Ubiquitin thiolesterase.
+104468	Uracil phosphoribosyltransferase.
+104572	Serine/threonine specific protein phosphatase.
+104576	Procollagen-proline,2-oxoglutarate-4-dioxygenase.
+104708	Beta-glucosidase.
+104708	Beta-glucosidase.
+104708	Beta-glucosidase.
+104797	DNA-directed RNA polymerase.
+104797	DNA-directed RNA polymerase.
+104797	DNA-directed RNA polymerase.
+104851	Galactosylxylosylprotein 3-beta-galactosyltransferase.
+105148	Lysine--tRNA ligase.
+105148	Lysine--tRNA ligase.
+105242	L-arabinose isomerase.
+105289	L-arabinose isomerase.
+105311	L-arabinose isomerase.
+105349	Glutamate dehydrogenase (NADP+).
+105349	Glutamate dehydrogenase (NADP+).
+105367	Chymotrypsin.
+105373	Acting on paired donors, with incorporation or reduction of
+105373	Acting on paired donors, with incorporation or reduction of
+105373	Acting on paired donors, with incorporation or reduction of
+105373	Acting on paired donors, with incorporation or reduction of
+105406	Adenylate kinase.
+105438	Glucosylceramidase.
+105686	Phosphotransferases with an alcohol group as acceptor.
+105686	Phosphotransferases with an alcohol group as acceptor.
+105686	Phosphotransferases with an alcohol group as acceptor.
+105686	Phosphotransferases with an alcohol group as acceptor.
+105686	Phosphotransferases with an alcohol group as acceptor.
+105741	With NAD(+) or NADP(+) as acceptor.
+105741	With NAD(+) or NADP(+) as acceptor.
+105741	With NAD(+) or NADP(+) as acceptor.
+105741	With NAD(+) or NADP(+) as acceptor.
+105741	With NAD(+) or NADP(+) as acceptor.
+105741	With NAD(+) or NADP(+) as acceptor.
+105741	With NAD(+) or NADP(+) as acceptor.
+105741	With NAD(+) or NADP(+) as acceptor.
+105741	With NAD(+) or NADP(+) as acceptor.
+105741	With NAD(+) or NADP(+) as acceptor.
+105741	With NAD(+) or NADP(+) as acceptor.
+105741	With NAD(+) or NADP(+) as acceptor.
+105777	Succinate--CoA ligase (ADP-forming).
+105777	Succinate--CoA ligase (ADP-forming).
+105777	Succinate--CoA ligase (ADP-forming).
+105777	Succinate--CoA ligase (ADP-forming).
+105816	Glutathione transferase.
+105873	Cysteine endopeptidases.
+106042	Mannitol dehydrogenase.
+106156	Cellulase.
+106171	Endodeoxyribonucleases producing 5'-phosphomonoesters.
+106252	Purine-nucleoside phosphorylase.
+106252	Purine-nucleoside phosphorylase.
+106252	Purine-nucleoside phosphorylase.
+106287	Acting on the CH-OH group of donors.
+106287	Acting on the CH-OH group of donors.
+106355	Beta-glucosidase.
+106355	Beta-glucosidase.
+106355	Beta-glucosidase.
+106414	Beta-glucosidase.
+106414	Beta-glucosidase.
+106414	Beta-glucosidase.
+106456	Ubiquitin--protein ligase.
+106508	Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase.
+106526	H(+)-transporting two-sector ATPase.
+106526	H(+)-transporting two-sector ATPase.
+106526	H(+)-transporting two-sector ATPase.
+106596	Catechol O-methyltransferase.
+106658	Hexosyltransferases.
+106658	Hexosyltransferases.
+106658	Hexosyltransferases.
+106658	Hexosyltransferases.
+106658	Hexosyltransferases.
+106658	Hexosyltransferases.
+106658	Hexosyltransferases.
+106658	Hexosyltransferases.
+106658	Hexosyltransferases.
+106658	Hexosyltransferases.
+106658	Hexosyltransferases.
+106711	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+106711	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+106711	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+106711	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+106721	Catechol O-methyltransferase.
+106739	Acting on paired donors, with incorporation or reduction of
+106739	Acting on paired donors, with incorporation or reduction of
+106739	Acting on paired donors, with incorporation or reduction of
+106739	Acting on paired donors, with incorporation or reduction of
+106744	Acting on paired donors, with incorporation or reduction of
+106744	Acting on paired donors, with incorporation or reduction of
+106744	Acting on paired donors, with incorporation or reduction of
+106744	Acting on paired donors, with incorporation or reduction of
+106895	UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase.
+106917	Protein kinase.
+106993	Acid phosphatase.
+106993	Acid phosphatase.
+107013	Adenosine deaminase.
+107088	L-arabinose isomerase.
+107102	NAD(+) ADP-ribosyltransferase.
+107167	Glucan 1,3-beta-glucosidase.
+107229	Alpha,alpha-trehalose-phosphate synthase (UDP-forming).
+107265	Acid phosphatase.
+107265	Acid phosphatase.
+107302	Oligopeptidase B.
+107337	Acid phosphatase.
+107337	Acid phosphatase.
+107347	NAD(+) ADP-ribosyltransferase.
+107407	Glycerophosphoinositol inositolphosphodiesterase.
+107479	Mannitol dehydrogenase.
+107567	Acting on the CH-OH group of donors.
+107567	Acting on the CH-OH group of donors.
+107730	Phospholipase D.
+107730	Phospholipase D.
+107810	Acting on the CH-OH group of donors.
+107810	Acting on the CH-OH group of donors.
+107843	Alpha-glucosidase.
+107843	Alpha-glucosidase.
+107844	Peptidylprolyl isomerase.
+107887	Acyl-CoA oxidase.
+108012	Pantoate--beta-alanine ligase.
+108012	Pantoate--beta-alanine ligase.
+108066	Gastricsin.
+108131	Acyl-CoA oxidase.
+108187	Acting on the CH-OH group of donors.
+108187	Acting on the CH-OH group of donors.
+108224	DNA-directed RNA polymerase.
+108224	DNA-directed RNA polymerase.
+108224	DNA-directed RNA polymerase.
+108382	Nucleotidyltransferases.
+108382	Nucleotidyltransferases.
+108454	Serine endopeptidases.
+108530	Alpha,alpha-trehalose-phosphate synthase (UDP-forming).
+108658	NAD(+) ADP-ribosyltransferase.
+108681	Valine--tRNA ligase.
+108681	Valine--tRNA ligase.
+108715	Glycogenin glucosyltransferase.
+108787	DNA-directed DNA polymerase.
+108787	DNA-directed DNA polymerase.
+108787	DNA-directed DNA polymerase.
+109030	1-phosphatidylinositol 3-kinase.
+109377	RNA-directed DNA polymerase.
+109485	Alpha-amylase.
+109518	Acid--D-amino-acid ligases (peptide synthases).
+109518	Acid--D-amino-acid ligases (peptide synthases).
+109562	Prostaglandin-D synthase.
+109589	Acyl-CoA oxidase.
+109599	DNA-directed DNA polymerase.
+109599	DNA-directed DNA polymerase.
+109599	DNA-directed DNA polymerase.
+109612	Maleylacetoacetate isomerase.
+109612	Maleylacetoacetate isomerase.
+109646	Aldehyde dehydrogenase (NAD+).
+109646	Aldehyde dehydrogenase (NAD+).
+109646	Aldehyde dehydrogenase (NAD+).
+109646	Aldehyde dehydrogenase (NAD+).
+109646	Aldehyde dehydrogenase (NAD+).
+109646	Aldehyde dehydrogenase (NAD+).
+109646	Aldehyde dehydrogenase (NAD+).
+109646	Aldehyde dehydrogenase (NAD+).
+109646	Aldehyde dehydrogenase (NAD+).
+109646	Aldehyde dehydrogenase (NAD+).
+109646	Aldehyde dehydrogenase (NAD+).
+109646	Aldehyde dehydrogenase (NAD+).
+109646	Aldehyde dehydrogenase (NAD+).
+109646	Aldehyde dehydrogenase (NAD+).
+109646	Aldehyde dehydrogenase (NAD+).
+109688	1-phosphatidylinositol-4-phosphate kinase.
+109711	Adenylosuccinate lyase.
+109711	Adenylosuccinate lyase.
+109730	Asparagine--tRNA ligase.
+109730	Asparagine--tRNA ligase.
+109772	D-lactate dehydrogenase.
+109775	1-phosphatidylinositol 3-kinase.
+109877	Calcium-transporting ATPase.
+109941	Dihydrodipicolinate synthase.
+109958	DNA-(apurinic or apyrimidinic site) lyase.
+109992	Dynein ATPase.
+110040	D-lactate dehydrogenase.
+110083	Ribose-phosphate pyrophosphokinase.
+110083	Ribose-phosphate pyrophosphokinase.
+110170	Cysteine dioxygenase.
+110170	Cysteine dioxygenase.
+110289	NAD(+) kinase.
+110345	Calcium-transporting ATPase.
+110463	Acid--D-amino-acid ligases (peptide synthases).
+110463	Acid--D-amino-acid ligases (peptide synthases).
+110472	Threonine endopeptidases.
+110668	Trypsin.
+110691	Sterol esterase.
+110762	Sterol esterase.
+110820	2-acetyl-1-alkylglycerophosphocholine esterase.
+110839	Acting on ester bonds.
+110864	Myosin ATPase.
+111011	Adenosinetriphosphatase.
+111066	Peptidylprolyl isomerase.
+111096	Exo-alpha-sialidase.
+111096	Exo-alpha-sialidase.
+111156	Long-chain-fatty-acid--CoA ligase.
+111218	Protein kinase.
+111290	Histone acetyltransferase.
+111316	Phosphotransferases with an alcohol group as acceptor.
+111316	Phosphotransferases with an alcohol group as acceptor.
+111316	Phosphotransferases with an alcohol group as acceptor.
+111316	Phosphotransferases with an alcohol group as acceptor.
+111316	Phosphotransferases with an alcohol group as acceptor.
+111612	Cystathionine beta-synthase.
+111612	Cystathionine beta-synthase.
+111612	Cystathionine beta-synthase.
+111679	Glutathione synthase.
+111679	Glutathione synthase.
+111742	Acid--D-amino-acid ligases (peptide synthases).
+111742	Acid--D-amino-acid ligases (peptide synthases).
+111763	Adenosinetriphosphatase.
+111787	Phosphotransferases with an alcohol group as acceptor.
+111787	Phosphotransferases with an alcohol group as acceptor.
+111787	Phosphotransferases with an alcohol group as acceptor.
+111787	Phosphotransferases with an alcohol group as acceptor.
+111787	Phosphotransferases with an alcohol group as acceptor.
+111820	DNA-directed DNA polymerase.
+111820	DNA-directed DNA polymerase.
+111820	DNA-directed DNA polymerase.
+111969	Serine/threonine specific protein phosphatase.
+111992	Calcium-transporting ATPase.
+112080	Acid phosphatase.
+112080	Acid phosphatase.
+112113	2-acetyl-1-alkylglycerophosphocholine esterase.
+112165	Pseudouridylate synthase.
+112167	Diaminopimelate decarboxylase.
+112223	ATP pyrophosphatase.
+112223	ATP pyrophosphatase.
+112244	Lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyl-transferase.
+112318	Catechol O-methyltransferase.
+112556	Palmitoyl-protein hydrolase.
+112706	Thymidine kinase.
+112800	Oxidoreductases.
+112810	Cytosine deaminase.
+113001	Serine-type carboxypeptidases.
+113188	Carbonate dehydratase.
+113233	Ubiquitin--protein ligase.
+113258	Acting on peptide bonds (peptide hydrolases).
+113258	Acting on peptide bonds (peptide hydrolases).
+113263	Proteasome endopeptidase complex.
+113266	NAD(+) ADP-ribosyltransferase.
+113340	NADPH dehydrogenase.
+113343	tRNA adenylyltransferase.
+113344	Hydrolases.
+113389	Hexosyltransferases.
+113389	Hexosyltransferases.
+113389	Hexosyltransferases.
+113389	Hexosyltransferases.
+113389	Hexosyltransferases.
+113389	Hexosyltransferases.
+113389	Hexosyltransferases.
+113389	Hexosyltransferases.
+113389	Hexosyltransferases.
+113389	Hexosyltransferases.
+113389	Hexosyltransferases.
+113662	Long-chain-fatty-acid--CoA ligase.
+113701	Serine endopeptidases.
+113753	Acting on paired donors, with incorporation or reduction of
+113753	Acting on paired donors, with incorporation or reduction of
+113753	Acting on paired donors, with incorporation or reduction of
+113753	Acting on paired donors, with incorporation or reduction of
+113886	Protein kinase.
+113989	Protein kinase.
+114136	Oxidoreductases.
+114301	2-acetyl-1-alkylglycerophosphocholine esterase.
+114347	1-phosphatidylinositol-4-phosphate kinase.
+114417	NADPH:quinone reductase.
+114460	Galactokinase.
+114491	Ubiquitin thiolesterase.
+114504	Phosphatidate cytidylyltransferase.
+114504	Phosphatidate cytidylyltransferase.
+114628	Phosphotransferases with an alcohol group as acceptor.
+114628	Phosphotransferases with an alcohol group as acceptor.
+114628	Phosphotransferases with an alcohol group as acceptor.
+114628	Phosphotransferases with an alcohol group as acceptor.
+114628	Phosphotransferases with an alcohol group as acceptor.
+114633	Aldehyde dehydrogenase (NAD+).
+114633	Aldehyde dehydrogenase (NAD+).
+114633	Aldehyde dehydrogenase (NAD+).
+114633	Aldehyde dehydrogenase (NAD+).
+114633	Aldehyde dehydrogenase (NAD+).
+114633	Aldehyde dehydrogenase (NAD+).
+114633	Aldehyde dehydrogenase (NAD+).
+114633	Aldehyde dehydrogenase (NAD+).
+114633	Aldehyde dehydrogenase (NAD+).
+114633	Aldehyde dehydrogenase (NAD+).
+114633	Aldehyde dehydrogenase (NAD+).
+114633	Aldehyde dehydrogenase (NAD+).
+114633	Aldehyde dehydrogenase (NAD+).
+114633	Aldehyde dehydrogenase (NAD+).
+114633	Aldehyde dehydrogenase (NAD+).
+114678	H(+)-transporting two-sector ATPase.
+114678	H(+)-transporting two-sector ATPase.
+114678	H(+)-transporting two-sector ATPase.
+114730	Acid--D-amino-acid ligases (peptide synthases).
+114730	Acid--D-amino-acid ligases (peptide synthases).
+114899	1,3-beta-glucan synthase.
+114934	Ubiquitin thiolesterase.
+114959	2-acetyl-1-alkylglycerophosphocholine esterase.
+114969	Adenosinetriphosphatase.
+114981	Acid--D-amino-acid ligases (peptide synthases).
+114981	Acid--D-amino-acid ligases (peptide synthases).
+115054	Phosphomevalonate kinase.
+115063	In phosphorous-containing anhydrides.
+115063	In phosphorous-containing anhydrides.
+115113	DNA-directed DNA polymerase.
+115113	DNA-directed DNA polymerase.
+115113	DNA-directed DNA polymerase.
+115201	Oxidoreductases.
+115212	Oxidoreductases.
+115240	Laccase.
+115317	DNA-directed DNA polymerase.
+115317	DNA-directed DNA polymerase.
+115317	DNA-directed DNA polymerase.
+115338	Exo-alpha-sialidase.
+115338	Exo-alpha-sialidase.
+115385	Oxidoreductases.
+115425	Oxidoreductases.
+115589	Dihydrofolate reductase.
+115589	Dihydrofolate reductase.
+115725	3-oxoacyl-[acyl-carrier protein] reductase.
+116042	Hydrolases.
+116106	Phospholipase D.
+116106	Phospholipase D.
+116150	Glutamate carboxypeptidase II.
+116165	Pyruvate dehydrogenase (lipoamide).
+116165	Pyruvate dehydrogenase (lipoamide).
+116165	Pyruvate dehydrogenase (lipoamide).
+116165	Pyruvate dehydrogenase (lipoamide).
+116237	Protein kinase.
+116241	Proteasome endopeptidase complex.
+116243	Acid--D-amino-acid ligases (peptide synthases).
+116243	Acid--D-amino-acid ligases (peptide synthases).
+116345	Cysteine-type carboxypeptidase.
+116351	Arylformamidase.
+116351	Arylformamidase.
+116364	Hexosyltransferases.
+116364	Hexosyltransferases.
+116364	Hexosyltransferases.
+116364	Hexosyltransferases.
+116364	Hexosyltransferases.
+116364	Hexosyltransferases.
+116364	Hexosyltransferases.
+116364	Hexosyltransferases.
+116364	Hexosyltransferases.
+116364	Hexosyltransferases.
+116364	Hexosyltransferases.
+116381	Hydrolases.
+116570	L-arabinose isomerase.
+116578	NADPH dehydrogenase.
+116766	Peptidylprolyl isomerase.
+116768	Uroporphyrin-III C-methyltransferase.
+116805	1-acylglycerol-3-phosphate O-acyltransferase.
+116917	Cysteine-type carboxypeptidase.
+116963	Ubiquitin thiolesterase.
+117169	3-dehydrosphinganine reductase.
+117189	Ketohexokinase.
+117203	Enoyl-CoA hydratase.
+117203	Enoyl-CoA hydratase.
+117203	Enoyl-CoA hydratase.
+117203	Enoyl-CoA hydratase.
+117203	Enoyl-CoA hydratase.
+117203	Enoyl-CoA hydratase.
+117203	Enoyl-CoA hydratase.
+117203	Enoyl-CoA hydratase.
+117203	Enoyl-CoA hydratase.
+117317	Sterol esterase.
+117435	Aspartate aminotransferase.
+117435	Aspartate aminotransferase.
+117435	Aspartate aminotransferase.
+117435	Aspartate aminotransferase.
+117435	Aspartate aminotransferase.
+117435	Aspartate aminotransferase.
+117435	Aspartate aminotransferase.
+117435	Aspartate aminotransferase.
+117435	Aspartate aminotransferase.
+117520	Aspartate aminotransferase.
+117520	Aspartate aminotransferase.
+117520	Aspartate aminotransferase.
+117520	Aspartate aminotransferase.
+117520	Aspartate aminotransferase.
+117520	Aspartate aminotransferase.
+117520	Aspartate aminotransferase.
+117520	Aspartate aminotransferase.
+117520	Aspartate aminotransferase.
+117534	Protein kinase.
+117625	Pseudouridylate synthase.
+117633	Phosphatidylinositol N-acetylglucosaminyltransferase.
+117648	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+117648	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+117648	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+117648	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+117768	Plus-end-directed kinesin ATPase.
+117783	Protein disulfide isomerase.
+117803	Metalloendopeptidases.
+117813	Ribokinase.
+117993	Glucosylceramidase.
+118056	Carnitine O-acetyltransferase.
+118057	Alpha,alpha-trehalose-phosphate synthase (UDP-forming).
+118064	Ribonuclease H.
+118080	Homocysteine S-methyltransferase.
+118114	Glucosylceramidase.
+118289	Glucosylceramidase.
+118442	NAD(+) ADP-ribosyltransferase.
+118786	Adenosinetriphosphatase.
+118787	Hexosyltransferases.
+118787	Hexosyltransferases.
+118787	Hexosyltransferases.
+118787	Hexosyltransferases.
+118787	Hexosyltransferases.
+118787	Hexosyltransferases.
+118787	Hexosyltransferases.
+118787	Hexosyltransferases.
+118787	Hexosyltransferases.
+118787	Hexosyltransferases.
+118787	Hexosyltransferases.
+118794	Carbonate dehydratase.
+118807	Cathepsin L.
+118903	Acting on ester bonds.
+118939	NADPH dehydrogenase.
+118996	2,4-dienoyl-CoA reductase (NADPH).
+119050	Carbonate dehydratase.
+119083	Adenosinetriphosphatase.
+119284	Choline dehydrogenase.
+119319	Homoaconitate hydratase.
+119452	Phosphatidylinositol N-acetylglucosaminyltransferase.
+119473	3-oxoacyl-[acyl-carrier protein] synthase.
+119530	Phosphotransferases with an alcohol group as acceptor.
+119530	Phosphotransferases with an alcohol group as acceptor.
+119530	Phosphotransferases with an alcohol group as acceptor.
+119530	Phosphotransferases with an alcohol group as acceptor.
+119530	Phosphotransferases with an alcohol group as acceptor.
+119587	Palmitoyl-protein hydrolase.
+119653	Phosphotransferases with an alcohol group as acceptor.
+119653	Phosphotransferases with an alcohol group as acceptor.
+119653	Phosphotransferases with an alcohol group as acceptor.
+119653	Phosphotransferases with an alcohol group as acceptor.
+119653	Phosphotransferases with an alcohol group as acceptor.
+119811	Adenosinetriphosphatase.
+119822	Trans-2-enoyl-CoA reductase (NADPH).
+120019	Phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase.
+120086	Acid phosphatase.
+120086	Acid phosphatase.
+120223	NADH dehydrogenase.
+120320	Leucine--tRNA ligase.
+120320	Leucine--tRNA ligase.
+120336	Magnesium-ATPase.
+120390	NAD(+) ADP-ribosyltransferase.
+120461	DNA-(apurinic or apyrimidinic site) lyase.
+120540	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical).
+120540	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical).
+120783	Ribose-phosphate pyrophosphokinase.
+120783	Ribose-phosphate pyrophosphokinase.
+121044	Phosphotransferases with an alcohol group as acceptor.
+121044	Phosphotransferases with an alcohol group as acceptor.
+121044	Phosphotransferases with an alcohol group as acceptor.
+121044	Phosphotransferases with an alcohol group as acceptor.
+121044	Phosphotransferases with an alcohol group as acceptor.
+121118	Plus-end-directed kinesin ATPase.
+121145	Adenosine kinase.
+121304	Hydrolases.
+121306	Phosphatidate phosphatase.
+121306	Phosphatidate phosphatase.
+121314	H(+)-transporting two-sector ATPase.
+121314	H(+)-transporting two-sector ATPase.
+121314	H(+)-transporting two-sector ATPase.
+121317	Phosphatidate phosphatase.
+121317	Phosphatidate phosphatase.
+121416	Dynein ATPase.
+121542	Cysteine endopeptidases.
+121566	tRNA (uracil-5-)-methyltransferase.
+121575	Exoribonucleases producing 5'-phosphomonoesters.
+121866	2-acetyl-1-alkylglycerophosphocholine esterase.
+121885	Acid phosphatase.
+121885	Acid phosphatase.
+121940	Acid--D-amino-acid ligases (peptide synthases).
+121940	Acid--D-amino-acid ligases (peptide synthases).
+121943	1-phosphatidylinositol 4-kinase.
+121961	Adenylate cyclase.
+121973	Vesicle-fusing ATPase.
+121975	Cellulase.
+121990	Dolichyl-phosphate beta-D-mannosyltransferase.
+122044	Arabinogalactan endo-1,4-beta-galactosidase.
+122066	Protein kinase.
+122231	Carboxylic ester hydrolases.
+122231	Carboxylic ester hydrolases.
+122231	Carboxylic ester hydrolases.
+122250	5'-nucleotidase.
+122250	5'-nucleotidase.
+122250	5'-nucleotidase.
+122330	Thymidylate synthase.
+122330	Thymidylate synthase.
+122330	Thymidylate synthase.
+122387	Peptidylprolyl isomerase.
+122536	Tyrosine--tRNA ligase.
+122536	Tyrosine--tRNA ligase.
+122551	Acting on ester bonds.
+122580	Serine/threonine specific protein phosphatase.
+122586	In cyclic amidines.
+122609	Dihydrofolate reductase.
+122609	Dihydrofolate reductase.
+122628	Glucan 1,4-alpha-glucosidase.
+122630	Adenosinetriphosphatase.
+122661	Phosphotransferases with an alcohol group as acceptor.
+122661	Phosphotransferases with an alcohol group as acceptor.
+122661	Phosphotransferases with an alcohol group as acceptor.
+122661	Phosphotransferases with an alcohol group as acceptor.
+122661	Phosphotransferases with an alcohol group as acceptor.
+122796	DNA ligase (ATP).
+122818	DNA-directed RNA polymerase.
+122818	DNA-directed RNA polymerase.
+122818	DNA-directed RNA polymerase.
+122893	Acting on ester bonds.
+122926	Adenosinetriphosphatase.
+122940	Microtubule-severing ATPase.
+122965	Metalloendopeptidases.
+123027	NADPH dehydrogenase.
+123042	Acid--D-amino-acid ligases (peptide synthases).
+123042	Acid--D-amino-acid ligases (peptide synthases).
+123540	In phosphorous-containing anhydrides.
+123540	In phosphorous-containing anhydrides.
+123621	Dihydrolipoamide dehydrogenase.
+123621	Dihydrolipoamide dehydrogenase.
+123621	Dihydrolipoamide dehydrogenase.
+123621	Dihydrolipoamide dehydrogenase.
+123680	Serine endopeptidases.
+123683	Chymotrypsin.
+123689	2-acetyl-1-alkylglycerophosphocholine esterase.
+123827	Guanine deaminase.
+124023	Thiamine pyrophosphokinase.
+124052	5'-nucleotidase.
+124052	5'-nucleotidase.
+124052	5'-nucleotidase.
+124185	3-oxoacyl-[acyl-carrier protein] reductase.
+124405	Palmitoyl-CoA hydrolase.
+124584	Serine/threonine specific protein phosphatase.
+124652	Adenosinetriphosphatase.
+124684	Phosphotransferases with an alcohol group as acceptor.
+124684	Phosphotransferases with an alcohol group as acceptor.
+124684	Phosphotransferases with an alcohol group as acceptor.
+124684	Phosphotransferases with an alcohol group as acceptor.
+124684	Phosphotransferases with an alcohol group as acceptor.
+124767	Phosphotransferases with an alcohol group as acceptor.
+124767	Phosphotransferases with an alcohol group as acceptor.
+124767	Phosphotransferases with an alcohol group as acceptor.
+124767	Phosphotransferases with an alcohol group as acceptor.
+124767	Phosphotransferases with an alcohol group as acceptor.
+124911	Acting on paired donors, with incorporation or reduction of
+124911	Acting on paired donors, with incorporation or reduction of
+124911	Acting on paired donors, with incorporation or reduction of
+124911	Acting on paired donors, with incorporation or reduction of
+124947	Acting on paired donors, with incorporation or reduction of
+124947	Acting on paired donors, with incorporation or reduction of
+124947	Acting on paired donors, with incorporation or reduction of
+124947	Acting on paired donors, with incorporation or reduction of
+124960	Adenylate cyclase.
+124985	Plus-end-directed kinesin ATPase.
+125023	4-coumarate--CoA ligase.
+125051	Cysteine endopeptidases.
+125171	Carbonate dehydratase.
+125216	Carbonate dehydratase.
+125334	3',5'-cyclic-nucleotide phosphodiesterase.
+125348	Myosin ATPase.
+125389	NADPH--ferrihemoprotein reductase.
+125444	Palmitoyl-protein hydrolase.
+125448	Amino-acid N-acetyltransferase.
+125481	Palmitoyl-protein hydrolase.
+125514	Serine/threonine specific protein phosphatase.
+125666	Nucleoside-diphosphate kinase.
+125666	Nucleoside-diphosphate kinase.
+125685	NADPH:quinone reductase.
+125936	D-amino acid oxidase.
+125936	D-amino acid oxidase.
+125936	D-amino acid oxidase.
+125983	Adenosinetriphosphatase.
+126081	Magnesium-ATPase.
+126085	Chymotrypsin.
+126110	2-acetyl-1-alkylglycerophosphocholine esterase.
+126128	Trypsin.
+126140	Calcium-transporting ATPase.
+126159	Serine endopeptidases.
+126183	Trypsin.
+126254	Exoribonucleases producing 5'-phosphomonoesters.
+126486	Adenosinetriphosphatase.
+126591	N-acetylglucosaminyldiphosphodolichol N-acetylglucosaminyltransferase.
+126683	Palmitoyl-protein hydrolase.
+126714	In phosphorous-containing anhydrides.
+126714	In phosphorous-containing anhydrides.
+126761	Protein kinase.
+126902	Nucleotidyltransferases.
+126902	Nucleotidyltransferases.
+126935	3',5'-cyclic-nucleotide phosphodiesterase.
+127049	Sodium/potassium-echanging ATPase.
+127166	NADPH:quinone reductase.
+127225	Acid--D-amino-acid ligases (peptide synthases).
+127225	Acid--D-amino-acid ligases (peptide synthases).
+127243	Phosphatidylinositol-bisphosphatase.
+127451	Transferring groups other than amino-acyl groups.
+127451	Transferring groups other than amino-acyl groups.
+127451	Transferring groups other than amino-acyl groups.
+127451	Transferring groups other than amino-acyl groups.
+127451	Transferring groups other than amino-acyl groups.
+127451	Transferring groups other than amino-acyl groups.
+127451	Transferring groups other than amino-acyl groups.
+127451	Transferring groups other than amino-acyl groups.
+127451	Transferring groups other than amino-acyl groups.
+127451	Transferring groups other than amino-acyl groups.
+127451	Transferring groups other than amino-acyl groups.
+127451	Transferring groups other than amino-acyl groups.
+127451	Transferring groups other than amino-acyl groups.
+127651	Trans-pentaprenyltransferase.
+127699	Acylglycerol lipase.
+127702	Dynein ATPase.
+127758	Acylglycerol lipase.
+127811	Acid--D-amino-acid ligases (peptide synthases).
+127811	Acid--D-amino-acid ligases (peptide synthases).
+127876	Holo-[acyl-carrier protein] synthase.
+127904	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+127904	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+127904	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+127904	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+128007	NAD(+) ADP-ribosyltransferase.
+128071	NAD(+) ADP-ribosyltransferase.
+128135	Plus-end-directed kinesin ATPase.
+128481	Acetylspermidine deacetylase.
+128492	Serine/threonine specific protein phosphatase.
+128543	Cytochrome-b5 reductase.
+128627	Mannitol dehydrogenase.
+128632	Phenylpyruvate tautomerase.
+128632	Phenylpyruvate tautomerase.
+128636	Protein-tyrosine-phosphatase.
+128655	Adenosinetriphosphatase.
+128782	With other acceptors.
+128782	With other acceptors.
+128782	With other acceptors.
+128848	Aspartic endopeptidases.
+128859	Protein kinase.
+128940	Glucosylceramidase.
+129163	Protein kinase.
+129258	Methionine--tRNA ligase.
+129258	Methionine--tRNA ligase.
+129258	Methionine--tRNA ligase.
+129422	Glycerol kinase.
+129521	Aryl-alcohol dehydrogenase (NADP+).
+129612	Catalase.
+129612	Catalase.
+129658	Catalase.
+129658	Catalase.
+129938	Acetylspermidine deacetylase.
+130270	Glutathione transferase.
+130284	NAD(+) ADP-ribosyltransferase.
+130325	Polygalacturonase.
+130325	Polygalacturonase.
+130349	Polygalacturonase.
+130349	Polygalacturonase.
+130352	Polygalacturonase.
+130352	Polygalacturonase.
+130356	Polygalacturonase.
+130356	Polygalacturonase.
+130383	Aryl-alcohol dehydrogenase (NADP+).
+130384	Polygalacturonase.
+130384	Polygalacturonase.
+130406	Polygalacturonase.
+130406	Polygalacturonase.
+130445	Polygalacturonase.
+130445	Polygalacturonase.
+130465	Microtubule-severing ATPase.
+130473	Sulfite oxidase.
+130483	Adenosinetriphosphatase.
+130485	Sulfite oxidase.
+130545	Phosphotransferases with an alcohol group as acceptor.
+130545	Phosphotransferases with an alcohol group as acceptor.
+130545	Phosphotransferases with an alcohol group as acceptor.
+130545	Phosphotransferases with an alcohol group as acceptor.
+130545	Phosphotransferases with an alcohol group as acceptor.
+130561	Phosphoserine phosphatase.
+130666	RNA-directed DNA polymerase.
+130730	Gastricsin.
+130857	Dodecenoyl-CoA delta-isomerase.
+130888	Acyl-CoA oxidase.
+131044	Phosphatidylinositol N-acetylglucosaminyltransferase.
+131046	Adenylate kinase.
+131136	Serine/threonine specific protein phosphatase.
+131139	Sarcosine oxidase.
+131149	DNA-directed DNA polymerase.
+131149	DNA-directed DNA polymerase.
+131149	DNA-directed DNA polymerase.
+131184	Nicotinate-nucleotide pyrophosphorylase (carboxylating).
+131280	Pyruvate kinase.
+131280	Pyruvate kinase.
+131280	Pyruvate kinase.
+131280	Pyruvate kinase.
+131335	Adenylate kinase.
+131420	Aldehyde dehydrogenase (NAD+).
+131420	Aldehyde dehydrogenase (NAD+).
+131420	Aldehyde dehydrogenase (NAD+).
+131420	Aldehyde dehydrogenase (NAD+).
+131420	Aldehyde dehydrogenase (NAD+).
+131420	Aldehyde dehydrogenase (NAD+).
+131420	Aldehyde dehydrogenase (NAD+).
+131420	Aldehyde dehydrogenase (NAD+).
+131420	Aldehyde dehydrogenase (NAD+).
+131420	Aldehyde dehydrogenase (NAD+).
+131420	Aldehyde dehydrogenase (NAD+).
+131420	Aldehyde dehydrogenase (NAD+).
+131420	Aldehyde dehydrogenase (NAD+).
+131420	Aldehyde dehydrogenase (NAD+).
+131420	Aldehyde dehydrogenase (NAD+).
+131523	Adenylate cyclase.
+131621	Beta-glucosidase.
+131621	Beta-glucosidase.
+131621	Beta-glucosidase.
+131676	NADPH:quinone reductase.
+131677	NADPH:quinone reductase.
+131682	L-arabinose isomerase.
+131767	DNA-directed DNA polymerase.
+131767	DNA-directed DNA polymerase.
+131767	DNA-directed DNA polymerase.
+131770	(S)-2-hydroxy-acid oxidase.
+131827	Glucan 1,3-beta-glucosidase.
+131906	DNA-directed RNA polymerase.
+131906	DNA-directed RNA polymerase.
+131906	DNA-directed RNA polymerase.
+132044	Ornithine carbamoyltransferase.
+132044	Ornithine carbamoyltransferase.
+132465	Beta-fructofuranosidase.
+132465	Beta-fructofuranosidase.
+132500	RNA-directed DNA polymerase.
+132590	Peptidylprolyl isomerase.
+132630	NADPH:quinone reductase.
+132666	NADPH dehydrogenase.
+132828	Ubiquitin thiolesterase.
+133236	Glycolipid 3-alpha-mannosyltransferase.
+133312	Cytochrome-c peroxidase.
+133380	Histidine ammonia-lyase.
+133380	Histidine ammonia-lyase.
+502557	Ubiquitin--protein ligase.
+502579	Phosphotransferases with an alcohol group as acceptor.
+502579	Phosphotransferases with an alcohol group as acceptor.
+502579	Phosphotransferases with an alcohol group as acceptor.
+502579	Phosphotransferases with an alcohol group as acceptor.
+502579	Phosphotransferases with an alcohol group as acceptor.
+502585	Valine--pyruvate aminotransferase.
+502603	Oxidoreductases.
+502617	Asparagine--tRNA ligase.
+502617	Asparagine--tRNA ligase.
+502629	Uracil phosphoribosyltransferase.
+502634	Beta-ureidopropionase.
+502634	Beta-ureidopropionase.
+502634	Beta-ureidopropionase.
+502645	Glutamate carboxypeptidase II.
+502679	Exo-alpha-sialidase.
+502679	Exo-alpha-sialidase.
+502696	L-arabinose isomerase.
+502699	L-arabinose isomerase.
+502702	L-arabinose isomerase.
+502704	L-arabinose isomerase.
+502706	3-hydroxyacyl-CoA dehydrogenase.
+502706	3-hydroxyacyl-CoA dehydrogenase.
+502706	3-hydroxyacyl-CoA dehydrogenase.
+502706	3-hydroxyacyl-CoA dehydrogenase.
+502706	3-hydroxyacyl-CoA dehydrogenase.
+502706	3-hydroxyacyl-CoA dehydrogenase.
+502706	3-hydroxyacyl-CoA dehydrogenase.
+502708	Glutathione transferase.
+502718	Glutathione transferase.
+502738	Oxidoreductases.
+502783	With other acceptors.
+502783	With other acceptors.
+502783	With other acceptors.
+502795	Isovaleryl-CoA dehydrogenase.
+502827	L-arabinose isomerase.
+502829	L-arabinose isomerase.
+502842	Adenosinetriphosphatase.
+502863	5'-methylthioadenosine phosphorylase.
+502869	5'-methylthioadenosine phosphorylase.
+502885	Phosphomannomutase.
+502934	Serine/threonine specific protein phosphatase.
+502951	Glutathione transferase.
+502962	4-nitrophenylphosphatase.
+503005	Beta-glucosidase.
+503005	Beta-glucosidase.
+503005	Beta-glucosidase.
+503021	1-phosphatidylinositol 3-kinase.
+503038	Amine oxidase (copper-containing).
+503038	Amine oxidase (copper-containing).
+503038	Amine oxidase (copper-containing).
+503038	Amine oxidase (copper-containing).
+503038	Amine oxidase (copper-containing).
+503038	Amine oxidase (copper-containing).
+503038	Amine oxidase (copper-containing).
+503038	Amine oxidase (copper-containing).
+503063	Cathepsin L.
+503116	DNA topoisomerase.
+503121	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase.
+503134	Dihydrolipoamide S-acetyltransferase.
+503134	Dihydrolipoamide S-acetyltransferase.
+503154	In phosphorous-containing anhydrides.
+503154	In phosphorous-containing anhydrides.
+503178	Phosphoric monoester hydrolases.
+503178	Phosphoric monoester hydrolases.
+503178	Phosphoric monoester hydrolases.
+503178	Phosphoric monoester hydrolases.
+503178	Phosphoric monoester hydrolases.
+503178	Phosphoric monoester hydrolases.
+503189	Carboxylesterase.
+503193	Prolyl aminopeptidase.
+503215	Cysteine endopeptidases.
+503217	Transposing C==C bonds.
+503217	Transposing C==C bonds.
+503235	Exo-alpha-sialidase.
+503235	Exo-alpha-sialidase.
+503246	Aspartate carbamoyltransferase.
+503246	Aspartate carbamoyltransferase.
+503251	Acting on the CH-OH group of donors.
+503251	Acting on the CH-OH group of donors.
+503263	Isocitrate lyase.
+503275	Serine/threonine specific protein phosphatase.
+503294	Glutathione peroxidase.
+503338	Lysophospholipase.
+503345	Long-chain-fatty-acid--CoA ligase.
+503356	Glucan 1,4-alpha-glucosidase.
+503358	Exo-alpha-sialidase.
+503358	Exo-alpha-sialidase.
+503391	4-hydroxyphenylpyruvate dioxygenase.
+503391	4-hydroxyphenylpyruvate dioxygenase.
+503403	Oxidoreductases.
+503414	Glucan 1,4-alpha-glucosidase.
+503463	Protein kinase.
+503479	Tripeptidyl-peptidase I.
+503513	Adenosinetriphosphatase.
+503541	Amine oxidase (copper-containing).
+503541	Amine oxidase (copper-containing).
+503541	Amine oxidase (copper-containing).
+503541	Amine oxidase (copper-containing).
+503541	Amine oxidase (copper-containing).
+503541	Amine oxidase (copper-containing).
+503541	Amine oxidase (copper-containing).
+503541	Amine oxidase (copper-containing).
+503542	Betaine-aldehyde dehydrogenase.
+503545	Pyruvate,phosphate dikinase.
+503545	Pyruvate,phosphate dikinase.
+503551	Pyruvate,phosphate dikinase.
+503551	Pyruvate,phosphate dikinase.
+503558	Aryl-alcohol dehydrogenase (NADP+).
+503568	Phosphopyruvate hydratase.
+503568	Phosphopyruvate hydratase.
+503575	Protein disulfide isomerase.
+503580	Serine C-palmitoyltransferase.
+503586	Aryl-alcohol dehydrogenase (NADP+).
+503602	Phospholipase D.
+503602	Phospholipase D.
+503613	H(+)-transporting two-sector ATPase.
+503613	H(+)-transporting two-sector ATPase.
+503613	H(+)-transporting two-sector ATPase.
+503623	Histidinol-phosphate aminotransferase.
+503623	Histidinol-phosphate aminotransferase.
+503623	Histidinol-phosphate aminotransferase.
+503623	Histidinol-phosphate aminotransferase.
+503635	Alanine aminotransferase.
+503635	Alanine aminotransferase.
+503635	Alanine aminotransferase.
+503639	Diphosphate--fructose-6-phosphate 1-phosphotransferase.
+503646	Alanine aminotransferase.
+503646	Alanine aminotransferase.
+503646	Alanine aminotransferase.
+503712	Coproporphyrinogen oxidase.
+503714	Coproporphyrinogen oxidase.
+503718	Myo-inositol 2-dehydrogenase.
+503718	Myo-inositol 2-dehydrogenase.
+503741	NADPH:quinone reductase.
+503749	NADPH:quinone reductase.
+503750	NADPH:quinone reductase.
+503753	NADPH:quinone reductase.
+503755	NADPH:quinone reductase.
+503757	NADPH:quinone reductase.
+503760	Phosphotransferases with an alcohol group as acceptor.
+503760	Phosphotransferases with an alcohol group as acceptor.
+503760	Phosphotransferases with an alcohol group as acceptor.
+503760	Phosphotransferases with an alcohol group as acceptor.
+503760	Phosphotransferases with an alcohol group as acceptor.
+503763	Myo-inositol oxygenase.
+503765	Myo-inositol oxygenase.
+503767	Carnitine O-palmitoyltransferase.
+503767	Carnitine O-palmitoyltransferase.
+503860	DNA-directed DNA polymerase.
+503860	DNA-directed DNA polymerase.
+503860	DNA-directed DNA polymerase.
+503891	Myo-inositol-1(or 4)-monophosphatase.
+503891	Myo-inositol-1(or 4)-monophosphatase.
+503891	Myo-inositol-1(or 4)-monophosphatase.
+503897	H(+)-transporting two-sector ATPase.
+503897	H(+)-transporting two-sector ATPase.
+503897	H(+)-transporting two-sector ATPase.
+503902	2-acetyl-1-alkylglycerophosphocholine esterase.
+503919	ATP phosphoribosyltransferase.
+503926	Nucleoside-diphosphate kinase.
+503926	Nucleoside-diphosphate kinase.
+503937	Phosphatidate cytidylyltransferase.
+503937	Phosphatidate cytidylyltransferase.
+503943	Acid--D-amino-acid ligases (peptide synthases).
+503943	Acid--D-amino-acid ligases (peptide synthases).
+503949	Proteasome endopeptidase complex.
+503965	Exoribonucleases producing 5'-phosphomonoesters.
+503980	Acting on paired donors, with incorporation or reduction of
+503980	Acting on paired donors, with incorporation or reduction of
+503980	Acting on paired donors, with incorporation or reduction of
+503980	Acting on paired donors, with incorporation or reduction of
+503983	Phosphoenolpyruvate carboxykinase (ATP).
+503983	Phosphoenolpyruvate carboxykinase (ATP).
+503983	Phosphoenolpyruvate carboxykinase (ATP).
+503988	H(+)-transporting two-sector ATPase.
+503988	H(+)-transporting two-sector ATPase.
+503988	H(+)-transporting two-sector ATPase.
+503995	Adenosylhomocysteinase.
+503995	Adenosylhomocysteinase.
+504015	Protein-L-isoaspartate(D-aspartate) O-methyltransferase.
+504065	Adenylosuccinate synthase.
+504065	Adenylosuccinate synthase.
+504096	Acetate kinase.
+504096	Acetate kinase.
+504099	DNA-directed DNA polymerase.
+504099	DNA-directed DNA polymerase.
+504099	DNA-directed DNA polymerase.
+504121	Protein kinase.
+504128	Exo-alpha-sialidase.
+504128	Exo-alpha-sialidase.
+504146	Dihydrolipoamide S-acetyltransferase.
+504146	Dihydrolipoamide S-acetyltransferase.
+504149	Dihydroorotase.
+504150	In phosphorous-containing anhydrides.
+504150	In phosphorous-containing anhydrides.
+504187	Ubiquitin--protein ligase.
+504192	Prostaglandin-E synthase.
+504193	Phosphoribosylformylglycinamidine synthase.
+504202	Sepiapterin reductase.
+504234	Exo-alpha-sialidase.
+504234	Exo-alpha-sialidase.
+504259	Protein kinase.
+504262	Adenosinetriphosphatase.
+504283	Glycine amidinotransferase.
+504283	Glycine amidinotransferase.
+504283	Glycine amidinotransferase.
+504288	L-threonine 3-dehydrogenase.
+504305	Dynein ATPase.
+504327	Dynein ATPase.
+504332	Formate dehydrogenase.
+504332	Formate dehydrogenase.
+504334	Formate dehydrogenase.
+504334	Formate dehydrogenase.
+504342	5'-nucleotidase.
+504342	5'-nucleotidase.
+504342	5'-nucleotidase.
+504369	Glucan 1,3-beta-glucosidase.
+504445	Dihydrolipoamide dehydrogenase.
+504445	Dihydrolipoamide dehydrogenase.
+504445	Dihydrolipoamide dehydrogenase.
+504445	Dihydrolipoamide dehydrogenase.
+504446	Aspartic endopeptidases.
+504473	Peptidylprolyl isomerase.
+504506	Acetylspermidine deacetylase.
+504507	Dihydroorotate oxidase.
+504523	Glyceraldehyde 3-phosphate dehydrogenase (phosphorylating).
+504523	Glyceraldehyde 3-phosphate dehydrogenase (phosphorylating).
+504528	Glyceraldehyde 3-phosphate dehydrogenase (phosphorylating).
+504528	Glyceraldehyde 3-phosphate dehydrogenase (phosphorylating).
+504570	Succinate--CoA ligase (GDP-forming).
+504570	Succinate--CoA ligase (GDP-forming).
+504594	Proteasome endopeptidase complex.
+504610	Succinate dehydrogenase.
+504610	Succinate dehydrogenase.
+504610	Succinate dehydrogenase.
+504610	Succinate dehydrogenase.
+504610	Succinate dehydrogenase.
+504612	Calcium-transporting ATPase.
+504618	Glutaryl-CoA dehydrogenase.
+504618	Glutaryl-CoA dehydrogenase.
+504618	Glutaryl-CoA dehydrogenase.
+504618	Glutaryl-CoA dehydrogenase.
+504626	Transferring groups other than amino-acyl groups.
+504626	Transferring groups other than amino-acyl groups.
+504626	Transferring groups other than amino-acyl groups.
+504626	Transferring groups other than amino-acyl groups.
+504626	Transferring groups other than amino-acyl groups.
+504626	Transferring groups other than amino-acyl groups.
+504626	Transferring groups other than amino-acyl groups.
+504626	Transferring groups other than amino-acyl groups.
+504626	Transferring groups other than amino-acyl groups.
+504626	Transferring groups other than amino-acyl groups.
+504626	Transferring groups other than amino-acyl groups.
+504626	Transferring groups other than amino-acyl groups.
+504626	Transferring groups other than amino-acyl groups.
+504627	3-methyl-2-oxobutanoate dehydrogenase (lipoamide).
+504635	Adenosinetriphosphatase.
+504641	Phosphoenolpyruvate carboxykinase (ATP).
+504641	Phosphoenolpyruvate carboxykinase (ATP).
+504641	Phosphoenolpyruvate carboxykinase (ATP).
+504642	Phosphoenolpyruvate carboxykinase (ATP).
+504642	Phosphoenolpyruvate carboxykinase (ATP).
+504642	Phosphoenolpyruvate carboxykinase (ATP).
+504663	Aldehyde dehydrogenase (NAD(P)+).
+504663	Aldehyde dehydrogenase (NAD(P)+).
+504663	Aldehyde dehydrogenase (NAD(P)+).
+504663	Aldehyde dehydrogenase (NAD(P)+).
+504691	Long-chain-fatty-acid--CoA ligase.
+504698	Oxidoreductases.
+504741	DNA-directed RNA polymerase.
+504741	DNA-directed RNA polymerase.
+504741	DNA-directed RNA polymerase.
+504776	Phosphotransferases with an alcohol group as acceptor.
+504776	Phosphotransferases with an alcohol group as acceptor.
+504776	Phosphotransferases with an alcohol group as acceptor.
+504776	Phosphotransferases with an alcohol group as acceptor.
+504776	Phosphotransferases with an alcohol group as acceptor.
+504788	Methyltransferases.
+504788	Methyltransferases.
+504788	Methyltransferases.
+504788	Methyltransferases.
+504788	Methyltransferases.
+504788	Methyltransferases.
+504788	Methyltransferases.
+504788	Methyltransferases.
+504831	Homoserine dehydrogenase.
+504831	Homoserine dehydrogenase.
+504833	Peptidylprolyl isomerase.
+504835	Proteasome endopeptidase complex.
+504839	Aryl-alcohol dehydrogenase (NADP+).
+504861	Phosphatidylserine decarboxylase.
+504861	Phosphatidylserine decarboxylase.
+504864	L-arabinose isomerase.
+504871	Peptidylprolyl isomerase.
+504913	Propionyl-CoA carboxylase.
+504913	Propionyl-CoA carboxylase.
+504933	L-arabinose isomerase.
+504940	L-arabinose isomerase.
+504941	L-arabinose isomerase.
+504970	Exodeoxyribonucleases producing 5'-phosphomonoesters.
+505019	Protein kinase.
+505083	Long-chain-fatty-acid--CoA ligase.
+505099	Nucleoside-diphosphate kinase.
+505099	Nucleoside-diphosphate kinase.
+505140	Mannitol dehydrogenase.
+505142	Mannitol dehydrogenase.
+505145	Mannitol dehydrogenase.
+505148	Mannitol dehydrogenase.
+505170	Phosphotransferases with an alcohol group as acceptor.
+505170	Phosphotransferases with an alcohol group as acceptor.
+505170	Phosphotransferases with an alcohol group as acceptor.
+505170	Phosphotransferases with an alcohol group as acceptor.
+505170	Phosphotransferases with an alcohol group as acceptor.
+505238	L-aspartate oxidase.
+505247	L-arabinose isomerase.
+505281	Homoaconitate hydratase.
+505292	Acting on the CH-OH group of donors.
+505292	Acting on the CH-OH group of donors.
+505337	Asparaginase.
+505337	Asparaginase.
+505337	Asparaginase.
+505353	Aminomethyltransferase.
+505353	Aminomethyltransferase.
+505353	Aminomethyltransferase.
+505355	DNA-directed DNA polymerase.
+505355	DNA-directed DNA polymerase.
+505355	DNA-directed DNA polymerase.
+505366	Acting on ester bonds.
+505369	Spermidine synthase.
+505369	Spermidine synthase.
+505369	Spermidine synthase.
+505396	Protein kinase.
+505418	Glycerophosphoinositol inositolphosphodiesterase.
+505421	Fructokinase.
+505421	Fructokinase.
+505423	Fructokinase.
+505423	Fructokinase.
+505432	Uridine phosphorylase.
+505442	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase.
+505444	Mannosyl-oligosaccharide glucosidase.
+505466	Exo-alpha-sialidase.
+505466	Exo-alpha-sialidase.
+505505	Glycerophosphoinositol inositolphosphodiesterase.
+505507	Glycerophosphoinositol inositolphosphodiesterase.
+505528	Ubiquinol--cytochrome c reductase.
+505536	NADPH dehydrogenase.
+505538	NADPH dehydrogenase.
+505590	Serine/threonine specific protein phosphatase.
+505593	Serine/threonine specific protein phosphatase.
+505595	Oxalate oxidase.
+505622	With NAD(+) or NADP(+) as acceptor.
+505622	With NAD(+) or NADP(+) as acceptor.
+505622	With NAD(+) or NADP(+) as acceptor.
+505622	With NAD(+) or NADP(+) as acceptor.
+505622	With NAD(+) or NADP(+) as acceptor.
+505622	With NAD(+) or NADP(+) as acceptor.
+505622	With NAD(+) or NADP(+) as acceptor.
+505622	With NAD(+) or NADP(+) as acceptor.
+505622	With NAD(+) or NADP(+) as acceptor.
+505622	With NAD(+) or NADP(+) as acceptor.
+505622	With NAD(+) or NADP(+) as acceptor.
+505622	With NAD(+) or NADP(+) as acceptor.
+505655	Adenine phosphoribosyltransferase.
+505659	Transaminases (aminotransferases).
+505659	Transaminases (aminotransferases).
+505659	Transaminases (aminotransferases).
+505659	Transaminases (aminotransferases).
+505678	Carboxylic ester hydrolases.
+505678	Carboxylic ester hydrolases.
+505678	Carboxylic ester hydrolases.
+505777	Phosphoethanolamine N-methyltransferase.
+505784	Acting on paired donors, with incorporation or reduction of
+505784	Acting on paired donors, with incorporation or reduction of
+505784	Acting on paired donors, with incorporation or reduction of
+505784	Acting on paired donors, with incorporation or reduction of
+505786	Acting on paired donors, with incorporation or reduction of
+505786	Acting on paired donors, with incorporation or reduction of
+505786	Acting on paired donors, with incorporation or reduction of
+505786	Acting on paired donors, with incorporation or reduction of
+505794	Proteasome endopeptidase complex.
+505806	Cytochrome-b5 reductase.
+505833	5-formyltetrahydrofolate cyclo-ligase.
+505834	Carbon--nitrogen ligases with glutamine as amido-N-donor.
+505834	Carbon--nitrogen ligases with glutamine as amido-N-donor.
+505861	Exo-alpha-sialidase.
+505861	Exo-alpha-sialidase.
+505864	Ligases.
+505882	Malate dehydrogenase.
+505882	Malate dehydrogenase.
+505882	Malate dehydrogenase.
+505882	Malate dehydrogenase.
+505882	Malate dehydrogenase.
+505891	Branched-chain amino acid aminotransferase.
+505891	Branched-chain amino acid aminotransferase.
+505891	Branched-chain amino acid aminotransferase.
+505901	Acylglycerol lipase.
+505928	DNA-directed RNA polymerase.
+505928	DNA-directed RNA polymerase.
+505928	DNA-directed RNA polymerase.
+505958	Transaldolase.
+505970	UDP-glucose 4-epimerase.
+505970	UDP-glucose 4-epimerase.
+505974	Inorganic pyrophosphatase.
+506025	Copper-exporting ATPase.
+506027	Pseudouridylate synthase.
+506056	Chaperonin ATPase.
+506106	Phosphoglycerate mutase.
+506110	Methylenetetrahydrofolate reductase (NADPH).
+506198	2-acetyl-1-alkylglycerophosphocholine esterase.
+506214	Cytochrome-c oxidase.
+506258	Cathepsin L.
+506290	Protein kinase.
+506315	H(+)-transporting two-sector ATPase.
+506315	H(+)-transporting two-sector ATPase.
+506315	H(+)-transporting two-sector ATPase.
+506318	Leucine--tRNA ligase.
+506318	Leucine--tRNA ligase.
+506347	Serine/threonine specific protein phosphatase.
+506353	With NAD(+) or NADP(+) as acceptor.
+506353	With NAD(+) or NADP(+) as acceptor.
+506353	With NAD(+) or NADP(+) as acceptor.
+506353	With NAD(+) or NADP(+) as acceptor.
+506353	With NAD(+) or NADP(+) as acceptor.
+506353	With NAD(+) or NADP(+) as acceptor.
+506353	With NAD(+) or NADP(+) as acceptor.
+506353	With NAD(+) or NADP(+) as acceptor.
+506353	With NAD(+) or NADP(+) as acceptor.
+506353	With NAD(+) or NADP(+) as acceptor.
+506353	With NAD(+) or NADP(+) as acceptor.
+506353	With NAD(+) or NADP(+) as acceptor.
+506356	With NAD(+) or NADP(+) as acceptor.
+506356	With NAD(+) or NADP(+) as acceptor.
+506356	With NAD(+) or NADP(+) as acceptor.
+506356	With NAD(+) or NADP(+) as acceptor.
+506356	With NAD(+) or NADP(+) as acceptor.
+506356	With NAD(+) or NADP(+) as acceptor.
+506356	With NAD(+) or NADP(+) as acceptor.
+506356	With NAD(+) or NADP(+) as acceptor.
+506356	With NAD(+) or NADP(+) as acceptor.
+506356	With NAD(+) or NADP(+) as acceptor.
+506356	With NAD(+) or NADP(+) as acceptor.
+506356	With NAD(+) or NADP(+) as acceptor.
+506362	With NAD(+) or NADP(+) as acceptor.
+506362	With NAD(+) or NADP(+) as acceptor.
+506362	With NAD(+) or NADP(+) as acceptor.
+506362	With NAD(+) or NADP(+) as acceptor.
+506362	With NAD(+) or NADP(+) as acceptor.
+506362	With NAD(+) or NADP(+) as acceptor.
+506362	With NAD(+) or NADP(+) as acceptor.
+506362	With NAD(+) or NADP(+) as acceptor.
+506362	With NAD(+) or NADP(+) as acceptor.
+506362	With NAD(+) or NADP(+) as acceptor.
+506362	With NAD(+) or NADP(+) as acceptor.
+506362	With NAD(+) or NADP(+) as acceptor.
+506373	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+506373	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+506373	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+506373	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+506382	Proteasome endopeptidase complex.
+506398	Sphinganine kinase.
+506418	Peptidylprolyl isomerase.
+506445	Sterol esterase.
+506453	Exo-alpha-sialidase.
+506453	Exo-alpha-sialidase.
+506466	Cob(I)alamin adenosyltransferase.
+506513	Adenosine kinase.
+506531	H(+)-transporting two-sector ATPase.
+506531	H(+)-transporting two-sector ATPase.
+506531	H(+)-transporting two-sector ATPase.
+506552	2,4-dienoyl-CoA reductase (NADPH).
+506593	Protein kinase.
+506596	Asparagine synthase (glutamine-hydrolysing).
+506596	Asparagine synthase (glutamine-hydrolysing).
+506599	Cystathionine beta-lyase.
+506599	Cystathionine beta-lyase.
+506599	Cystathionine beta-lyase.
+506599	Cystathionine beta-lyase.
+506599	Cystathionine beta-lyase.
+506602	Acting on paired donors, with incorporation or reduction of
+506602	Acting on paired donors, with incorporation or reduction of
+506602	Acting on paired donors, with incorporation or reduction of
+506602	Acting on paired donors, with incorporation or reduction of
+506604	DNA-directed RNA polymerase.
+506604	DNA-directed RNA polymerase.
+506604	DNA-directed RNA polymerase.
+506608	NADPH dehydrogenase.
+506627	[Pyruvate dehydrogenase (lipoamide)]-phosphatase.
+506632	Glutamate synthase (NADPH).
+506632	Glutamate synthase (NADPH).
+506650	Phosphoglycerate dehydrogenase.
+506653	Exo-alpha-sialidase.
+506653	Exo-alpha-sialidase.
+506671	Triosephosphate isomerase.
+506671	Triosephosphate isomerase.
+506671	Triosephosphate isomerase.
+506671	Triosephosphate isomerase.
+506671	Triosephosphate isomerase.
+506680	Acid phosphatase.
+506680	Acid phosphatase.
+506700	Protein kinase.
+506714	Peptidylprolyl isomerase.
+506719	2-acetyl-1-alkylglycerophosphocholine esterase.
+506791	1-phosphatidylinositol-4-phosphate kinase.
+506802	Exopolyphosphatase.
+506848	Peptidylprolyl isomerase.
+506857	Transketolase.
+506857	Transketolase.
+506907	UDP-N-acetylglucosamine--lysosomal-enzyme N-acetylglucosaminephosphotransferase.
+506926	Histone acetyltransferase.
+506938	Superoxide dismutase.
+506946	Glucan 1,4-alpha-glucosidase.
+506995	Glucan 1,3-beta-glucosidase.
+507000	Glucan 1,3-beta-glucosidase.
+507013	Carboxylesterase.
+507039	Chaperonin ATPase.
+507048	Adenosinetriphosphatase.
+507065	H(+)-transporting two-sector ATPase.
+507065	H(+)-transporting two-sector ATPase.
+507065	H(+)-transporting two-sector ATPase.
+507073	Citrate (pro-3S)-lyase thiolesterase.
+507079	Fumarate hydratase.
+507079	Fumarate hydratase.
+507114	Protein disulfide isomerase.
+507177	Phosphotransferases with an alcohol group as acceptor.
+507177	Phosphotransferases with an alcohol group as acceptor.
+507177	Phosphotransferases with an alcohol group as acceptor.
+507177	Phosphotransferases with an alcohol group as acceptor.
+507177	Phosphotransferases with an alcohol group as acceptor.
+507204	Phosphatidate cytidylyltransferase.
+507204	Phosphatidate cytidylyltransferase.
+507227	Phosphogluconate dehydrogenase (decarboxylating).
+507239	Carnitine O-acetyltransferase.
+507240	With oxidation of a pair of donors resulting in the reduction
+507284	In linear amides.
+507284	In linear amides.
+507284	In linear amides.
+507284	In linear amides.
+507287	In linear amides.
+507287	In linear amides.
+507287	In linear amides.
+507287	In linear amides.
+507305	Aldehyde dehydrogenase (NAD+).
+507305	Aldehyde dehydrogenase (NAD+).
+507305	Aldehyde dehydrogenase (NAD+).
+507305	Aldehyde dehydrogenase (NAD+).
+507305	Aldehyde dehydrogenase (NAD+).
+507305	Aldehyde dehydrogenase (NAD+).
+507305	Aldehyde dehydrogenase (NAD+).
+507305	Aldehyde dehydrogenase (NAD+).
+507305	Aldehyde dehydrogenase (NAD+).
+507305	Aldehyde dehydrogenase (NAD+).
+507305	Aldehyde dehydrogenase (NAD+).
+507305	Aldehyde dehydrogenase (NAD+).
+507305	Aldehyde dehydrogenase (NAD+).
+507305	Aldehyde dehydrogenase (NAD+).
+507305	Aldehyde dehydrogenase (NAD+).
+507307	Aldehyde dehydrogenase (NAD+).
+507307	Aldehyde dehydrogenase (NAD+).
+507307	Aldehyde dehydrogenase (NAD+).
+507307	Aldehyde dehydrogenase (NAD+).
+507307	Aldehyde dehydrogenase (NAD+).
+507307	Aldehyde dehydrogenase (NAD+).
+507307	Aldehyde dehydrogenase (NAD+).
+507307	Aldehyde dehydrogenase (NAD+).
+507307	Aldehyde dehydrogenase (NAD+).
+507307	Aldehyde dehydrogenase (NAD+).
+507307	Aldehyde dehydrogenase (NAD+).
+507307	Aldehyde dehydrogenase (NAD+).
+507307	Aldehyde dehydrogenase (NAD+).
+507307	Aldehyde dehydrogenase (NAD+).
+507307	Aldehyde dehydrogenase (NAD+).
+507344	Serine--tRNA ligase.
+507344	Serine--tRNA ligase.
+507349	1-phosphatidylinositol 4-kinase.
+507381	Cysteine endopeptidases.
+507382	Cysteine endopeptidases.
+507398	Histidine--tRNA ligase.
+507398	Histidine--tRNA ligase.
+507432	Ribonucleoside-diphosphate reductase.
+507432	Ribonucleoside-diphosphate reductase.
+507479	Pyruvate dehydrogenase (lipoamide).
+507479	Pyruvate dehydrogenase (lipoamide).
+507479	Pyruvate dehydrogenase (lipoamide).
+507479	Pyruvate dehydrogenase (lipoamide).
+507482	Microtubule-severing ATPase.
+507514	Ethanolamine-phosphate cytidylyltransferase.
+507514	Ethanolamine-phosphate cytidylyltransferase.
+507555	Gibberellin 3-beta-dioxygenase.
+507566	1-phosphatidylinositol-4-phosphate kinase.
+507574	3-hydroxyisobutyrate dehydrogenase.
+507579	NADPH dehydrogenase.
+507588	Acting on ester bonds.
+507616	Tyrosine--tRNA ligase.
+507616	Tyrosine--tRNA ligase.
+507619	Proteasome endopeptidase complex.
+507623	Glutamate 5-kinase.
+507640	Ketol-acid reductoisomerase.
+507640	Ketol-acid reductoisomerase.
+507694	Aspartate-semialdehyde dehydrogenase.
+507694	Aspartate-semialdehyde dehydrogenase.
+507726	Fructose-bisphosphate aldolase.
+507726	Fructose-bisphosphate aldolase.
+507726	Fructose-bisphosphate aldolase.
+507726	Fructose-bisphosphate aldolase.
+507728	Fructose-bisphosphate aldolase.
+507728	Fructose-bisphosphate aldolase.
+507728	Fructose-bisphosphate aldolase.
+507728	Fructose-bisphosphate aldolase.
+507847	Alpha-methylacyl-CoA racemase.
+507856	Acid phosphatase.
+507856	Acid phosphatase.
+507871	Transposing C==C bonds.
+507871	Transposing C==C bonds.
+507901	Glucan 1,3-beta-glucosidase.
+508008	Acid phosphatase.
+508008	Acid phosphatase.
+508025	Maltose O-acetyltransferase.
+508083	FMN adenylyltransferase.
+508097	In phosphorous-containing anhydrides.
+508097	In phosphorous-containing anhydrides.
+508111	Ubiquitin--protein ligase.
+508126	Acting on the CH-OH group of donors.
+508126	Acting on the CH-OH group of donors.
+508144	Aldehyde dehydrogenase (NAD+).
+508144	Aldehyde dehydrogenase (NAD+).
+508144	Aldehyde dehydrogenase (NAD+).
+508144	Aldehyde dehydrogenase (NAD+).
+508144	Aldehyde dehydrogenase (NAD+).
+508144	Aldehyde dehydrogenase (NAD+).
+508144	Aldehyde dehydrogenase (NAD+).
+508144	Aldehyde dehydrogenase (NAD+).
+508144	Aldehyde dehydrogenase (NAD+).
+508144	Aldehyde dehydrogenase (NAD+).
+508144	Aldehyde dehydrogenase (NAD+).
+508144	Aldehyde dehydrogenase (NAD+).
+508144	Aldehyde dehydrogenase (NAD+).
+508144	Aldehyde dehydrogenase (NAD+).
+508144	Aldehyde dehydrogenase (NAD+).
+508178	Acetyl-CoA C-acyltransferase.
+508178	Acetyl-CoA C-acyltransferase.
+508178	Acetyl-CoA C-acyltransferase.
+508178	Acetyl-CoA C-acyltransferase.
+508178	Acetyl-CoA C-acyltransferase.
+508244	Acid--D-amino-acid ligases (peptide synthases).
+508244	Acid--D-amino-acid ligases (peptide synthases).
+508287	Methyltransferases.
+508287	Methyltransferases.
+508287	Methyltransferases.
+508287	Methyltransferases.
+508287	Methyltransferases.
+508287	Methyltransferases.
+508287	Methyltransferases.
+508287	Methyltransferases.
+508296	mRNA guanylyltransferase.
+508300	With NAD(+) or NADP(+) as acceptor.
+508300	With NAD(+) or NADP(+) as acceptor.
+508300	With NAD(+) or NADP(+) as acceptor.
+508300	With NAD(+) or NADP(+) as acceptor.
+508300	With NAD(+) or NADP(+) as acceptor.
+508300	With NAD(+) or NADP(+) as acceptor.
+508300	With NAD(+) or NADP(+) as acceptor.
+508300	With NAD(+) or NADP(+) as acceptor.
+508300	With NAD(+) or NADP(+) as acceptor.
+508300	With NAD(+) or NADP(+) as acceptor.
+508300	With NAD(+) or NADP(+) as acceptor.
+508300	With NAD(+) or NADP(+) as acceptor.
+508302	Salicylate 1-monooxygenase.
+508302	Salicylate 1-monooxygenase.
+508312	Ribulose-phosphate 3-epimerase.
+508312	Ribulose-phosphate 3-epimerase.
+508312	Ribulose-phosphate 3-epimerase.
+508352	Serine/threonine specific protein phosphatase.
+508397	DNA-directed RNA polymerase.
+508397	DNA-directed RNA polymerase.
+508397	DNA-directed RNA polymerase.
+508441	Glucosylceramidase.
+508443	Methionine adenosyltransferase.
+508443	Methionine adenosyltransferase.
+508478	Phosphoglycerate mutase.
+508524	Porphobilinogen synthase.
+508543	Protein kinase.
+508566	L-arabinose isomerase.
+508567	L-arabinose isomerase.
+508568	L-arabinose isomerase.
+508572	Lysine--tRNA ligase.
+508572	Lysine--tRNA ligase.
+508595	Adenylate cyclase.
+508611	Glycerol-3-phosphate dehydrogenase (NAD+).
+508617	Alkylglycerone-phosphate synthase.
+508642	1-phosphatidylinositol 4-kinase.
+508651	Acetate--CoA ligase.
+508651	Acetate--CoA ligase.
+508651	Acetate--CoA ligase.
+508651	Acetate--CoA ligase.
+508653	Acetate--CoA ligase.
+508653	Acetate--CoA ligase.
+508653	Acetate--CoA ligase.
+508653	Acetate--CoA ligase.
+508670	Protein disulfide isomerase.
+508699	Acid--D-amino-acid ligases (peptide synthases).
+508699	Acid--D-amino-acid ligases (peptide synthases).
+508721	Urease.
+508721	Urease.
+508721	Urease.
+508725	Proteasome endopeptidase complex.
+508732	4-aminobutyrate aminotransferase.
+508732	4-aminobutyrate aminotransferase.
+508732	4-aminobutyrate aminotransferase.
+508732	4-aminobutyrate aminotransferase.
+508732	4-aminobutyrate aminotransferase.
+508797	Methyltransferases.
+508797	Methyltransferases.
+508797	Methyltransferases.
+508797	Methyltransferases.
+508797	Methyltransferases.
+508797	Methyltransferases.
+508797	Methyltransferases.
+508797	Methyltransferases.
+508801	Ligases forming aminoacyl-tRNA and related compounds.
+508806	1-phosphatidylinositol-4-phosphate kinase.
+508846	Glycine hydroxymethyltransferase.
+508846	Glycine hydroxymethyltransferase.
+508846	Glycine hydroxymethyltransferase.
+508846	Glycine hydroxymethyltransferase.
+508846	Glycine hydroxymethyltransferase.
+508883	Serine/threonine specific protein phosphatase.
+508915	Aminoadipate-semialdehyde dehydrogenase.
+508915	Aminoadipate-semialdehyde dehydrogenase.
+508927	Protein-tyrosine-phosphatase.
+508929	Serine/threonine specific protein phosphatase.
+508937	NADH dehydrogenase.
+508940	NADH dehydrogenase.
+508961	Mitochondrial processing peptidase.
+508991	ATP adenylyltransferase.
+509028	Acid--D-amino-acid ligases (peptide synthases).
+509028	Acid--D-amino-acid ligases (peptide synthases).
+509051	Malate dehydrogenase (decarboxylating).
+509051	Malate dehydrogenase (decarboxylating).
+509101	In phosphorous-containing anhydrides.
+509101	In phosphorous-containing anhydrides.
+509184	Aminopeptidases.
+509197	Purine-nucleoside phosphorylase.
+509197	Purine-nucleoside phosphorylase.
+509197	Purine-nucleoside phosphorylase.
+509200	NADPH:quinone reductase.
+509202	Histone acetyltransferase.
+509239	Phosphotransferases with an alcohol group as acceptor.
+509239	Phosphotransferases with an alcohol group as acceptor.
+509239	Phosphotransferases with an alcohol group as acceptor.
+509239	Phosphotransferases with an alcohol group as acceptor.
+509239	Phosphotransferases with an alcohol group as acceptor.
+509252	Lysosomal Pro-X carboxypeptidase.
+509265	Phosphatidate phosphatase.
+509265	Phosphatidate phosphatase.
+509270	Cytochrome-b5 reductase.
+509282	Methionyl aminopeptidase.
+509284	Biotin--[acetyl-CoA-carboxylase] ligase.
+509306	Glycerophosphoinositol inositolphosphodiesterase.
+509308	Glycerophosphoinositol inositolphosphodiesterase.
+509329	Endopeptidase La.
+509345	Uridine kinase.
+509356	Ethanolaminephosphotransferase.
+509356	Ethanolaminephosphotransferase.
+509356	Ethanolaminephosphotransferase.
+509365	H(+)-transporting two-sector ATPase.
+509365	H(+)-transporting two-sector ATPase.
+509365	H(+)-transporting two-sector ATPase.
+509434	In phosphorous-containing anhydrides.
+509434	In phosphorous-containing anhydrides.
+509439	Adenosinetriphosphatase.
+509458	Oxidoreductases.
+509473	Cellulase.
+509476	Endothelin-converting enzyme 1.
+509479	Acyl-CoA dehydrogenase.
+509479	Acyl-CoA dehydrogenase.
+509479	Acyl-CoA dehydrogenase.
+509479	Acyl-CoA dehydrogenase.
+509497	Cellulase.
+509499	Cellulase.
+509550	Glutamate--ammonia ligase.
+509550	Glutamate--ammonia ligase.
+509550	Glutamate--ammonia ligase.
+509552	Glutamate--ammonia ligase.
+509552	Glutamate--ammonia ligase.
+509552	Glutamate--ammonia ligase.
+509554	Carboxylic ester hydrolases.
+509554	Carboxylic ester hydrolases.
+509554	Carboxylic ester hydrolases.
+509557	Phosphopyruvate hydratase.
+509557	Phosphopyruvate hydratase.
+509565	Calcium-transporting ATPase.
+509568	Beta-fructofuranosidase.
+509568	Beta-fructofuranosidase.
+509590	Exo-alpha-sialidase.
+509590	Exo-alpha-sialidase.
+509600	Mannitol dehydrogenase.
+509618	Ubiquinol--cytochrome c reductase.
+509625	Glucose-6-phosphate 1-dehydrogenase.
+509625	Glucose-6-phosphate 1-dehydrogenase.
+509636	With NAD(+) or NADP(+) as acceptor.
+509636	With NAD(+) or NADP(+) as acceptor.
+509636	With NAD(+) or NADP(+) as acceptor.
+509636	With NAD(+) or NADP(+) as acceptor.
+509636	With NAD(+) or NADP(+) as acceptor.
+509636	With NAD(+) or NADP(+) as acceptor.
+509636	With NAD(+) or NADP(+) as acceptor.
+509636	With NAD(+) or NADP(+) as acceptor.
+509636	With NAD(+) or NADP(+) as acceptor.
+509636	With NAD(+) or NADP(+) as acceptor.
+509636	With NAD(+) or NADP(+) as acceptor.
+509636	With NAD(+) or NADP(+) as acceptor.
+509650	Holocytochrome-c synthase.
+509653	L-arabinose isomerase.
+509668	Phosphopantothenate--cysteine ligase.
+509696	Methyltransferases.
+509696	Methyltransferases.
+509696	Methyltransferases.
+509696	Methyltransferases.
+509696	Methyltransferases.
+509696	Methyltransferases.
+509696	Methyltransferases.
+509696	Methyltransferases.
+509697	Phosphatidate cytidylyltransferase.
+509697	Phosphatidate cytidylyltransferase.
+509732	Phosphotransferases with an alcohol group as acceptor.
+509732	Phosphotransferases with an alcohol group as acceptor.
+509732	Phosphotransferases with an alcohol group as acceptor.
+509732	Phosphotransferases with an alcohol group as acceptor.
+509732	Phosphotransferases with an alcohol group as acceptor.
+509733	Phosphotransferases with an alcohol group as acceptor.
+509733	Phosphotransferases with an alcohol group as acceptor.
+509733	Phosphotransferases with an alcohol group as acceptor.
+509733	Phosphotransferases with an alcohol group as acceptor.
+509733	Phosphotransferases with an alcohol group as acceptor.
+509756	CDP-diacylglycerol--inositol 3-phosphatidyltransferase.
+509774	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase.
+509793	Phenylalanine--tRNA ligase.
+509793	Phenylalanine--tRNA ligase.
+509829	Exo-alpha-sialidase.
+509829	Exo-alpha-sialidase.
+509900	Phosphoglycerate mutase.
+509934	Gamma-glutamyltransferase.
+509934	Gamma-glutamyltransferase.
+509934	Gamma-glutamyltransferase.
+509934	Gamma-glutamyltransferase.
+509934	Gamma-glutamyltransferase.
+509943	Glycerophosphoinositol inositolphosphodiesterase.
+509949	Glycylpeptide N-tetradecanoyltransferase.
+509950	Glycylpeptide N-tetradecanoyltransferase.
+510022	Adenosinetriphosphatase.
+510038	Glucokinase.
+510038	Glucokinase.
+510038	Glucokinase.
+510038	Glucokinase.
+510038	Glucokinase.
+510042	Glucokinase.
+510042	Glucokinase.
+510042	Glucokinase.
+510042	Glucokinase.
+510042	Glucokinase.
+510070	Glycogenin glucosyltransferase.
+510085	Palmitoyl-CoA hydrolase.
+510153	Saccharopepsin.
+510159	Pyruvate kinase.
+510159	Pyruvate kinase.
+510159	Pyruvate kinase.
+510159	Pyruvate kinase.
+510162	Pyruvate kinase.
+510162	Pyruvate kinase.
+510162	Pyruvate kinase.
+510162	Pyruvate kinase.
+510165	Pyruvate kinase.
+510165	Pyruvate kinase.
+510165	Pyruvate kinase.
+510165	Pyruvate kinase.
+510172	Phosphoglycerate kinase.
+510172	Phosphoglycerate kinase.
+510189	L-arabinose isomerase.
+510204	Acting on paired donors, with incorporation or reduction of
+510204	Acting on paired donors, with incorporation or reduction of
+510204	Acting on paired donors, with incorporation or reduction of
+510204	Acting on paired donors, with incorporation or reduction of
+510230	1-phosphatidylinositol 3-kinase.
+510254	4-coumarate--CoA ligase.
+510259	Adenylate cyclase.
+510263	Carbonate dehydratase.
+510266	Peptidylprolyl isomerase.
+510275	Argininosuccinate lyase.
+510275	Argininosuccinate lyase.
+510275	Argininosuccinate lyase.
+510291	Acting on ester bonds.
+510297	Serine C-palmitoyltransferase.
+510312	Acting on peptide bonds (peptide hydrolases).
+510312	Acting on peptide bonds (peptide hydrolases).
+510327	Ferredoxin--NADP(+) reductase.
+510327	Ferredoxin--NADP(+) reductase.
+510336	Protoporphyrinogen oxidase.
+510350	Microtubule-severing ATPase.
+510450	Myosin ATPase.
+510477	Biotin synthase.
+510509	Sphinganine kinase.
+510534	Sphingosine N-acyltransferase.
+510534	Sphingosine N-acyltransferase.
+510571	Myosin ATPase.
+510582	Glycine hydroxymethyltransferase.
+510582	Glycine hydroxymethyltransferase.
+510582	Glycine hydroxymethyltransferase.
+510582	Glycine hydroxymethyltransferase.
+510582	Glycine hydroxymethyltransferase.
+510611	Glycerol-3-phosphate dehydrogenase (NAD+).
+510615	Carnitine O-acetyltransferase.
+510618	Proton-exporting ATPase.
+510634	Ubiquitin--protein ligase.
+510636	Chitinase.
+510649	tRNA-pseudouridine synthase I.
+510671	Glutathione transferase.
+510693	Ubiquitin--protein ligase.
+510705	Ubiquitin--protein ligase.
+510725	Lyases.
+510728	Protein kinase.
+510737	Glyceraldehyde 3-phosphate dehydrogenase (phosphorylating).
+510737	Glyceraldehyde 3-phosphate dehydrogenase (phosphorylating).
+510760	Phosphoglycerate dehydrogenase.
+510788	Histone acetyltransferase.
+510830	Phosphotransferases with an alcohol group as acceptor.
+510830	Phosphotransferases with an alcohol group as acceptor.
+510830	Phosphotransferases with an alcohol group as acceptor.
+510830	Phosphotransferases with an alcohol group as acceptor.
+510830	Phosphotransferases with an alcohol group as acceptor.
+510838	Peptidylprolyl isomerase.
+510858	Glycerol-3-phosphate dehydrogenase.
+510891	Uridine phosphorylase.
+510907	Acting on ester bonds.
+510909	Carboxylic ester hydrolases.
+510909	Carboxylic ester hydrolases.
+510909	Carboxylic ester hydrolases.
+510931	Glutathione peroxidase.
+510943	Acylglycerol lipase.
+510985	Phospholipase D.
+510985	Phospholipase D.
+511012	Deoxyribose-phosphate aldolase.
+511014	Riboflavin synthase.
+511032	Cathepsin L.
+511059	Peptidylprolyl isomerase.
+511063	Exo-alpha-sialidase.
+511063	Exo-alpha-sialidase.
+511075	Phosphoglycerate mutase.
+511077	Pyruvate kinase.
+511077	Pyruvate kinase.
+511077	Pyruvate kinase.
+511077	Pyruvate kinase.
+511117	Peptidylprolyl isomerase.
+511144	Protein disulfide isomerase.
+511177	Phosphotransferases with an alcohol group as acceptor.
+511177	Phosphotransferases with an alcohol group as acceptor.
+511177	Phosphotransferases with an alcohol group as acceptor.
+511177	Phosphotransferases with an alcohol group as acceptor.
+511177	Phosphotransferases with an alcohol group as acceptor.
+511228	Serine/threonine specific protein phosphatase.
+511258	Choline dehydrogenase.
+511267	Acetyl-CoA C-acyltransferase.
+511267	Acetyl-CoA C-acyltransferase.
+511267	Acetyl-CoA C-acyltransferase.
+511267	Acetyl-CoA C-acyltransferase.
+511267	Acetyl-CoA C-acyltransferase.
+511269	Xaa-Pro dipeptidase.
+511317	Glucosylceramidase.
+511318	Glucosylceramidase.
+511341	Isocitrate dehydrogenase (NADP+).
+511341	Isocitrate dehydrogenase (NADP+).
+511341	Isocitrate dehydrogenase (NADP+).
+511367	Superoxide dismutase.
+511385	Phosphoglucomutase.
+511385	Phosphoglucomutase.
+511385	Phosphoglucomutase.
+511385	Phosphoglucomutase.
+511385	Phosphoglucomutase.
+511385	Phosphoglucomutase.
+511385	Phosphoglucomutase.
+511388	mRNA guanylyltransferase.
+511429	Methyltransferases.
+511429	Methyltransferases.
+511429	Methyltransferases.
+511429	Methyltransferases.
+511429	Methyltransferases.
+511429	Methyltransferases.
+511429	Methyltransferases.
+511429	Methyltransferases.
+511439	Calcium-transporting ATPase.
+511445	Poly(A)-specific ribonuclease.
+511466	Threonine--tRNA ligase.
+511466	Threonine--tRNA ligase.
+511470	Histidinol dehydrogenase.
+511541	Aldose 1-epimerase.
+511575	2-acetyl-1-alkylglycerophosphocholine esterase.
+511592	Phosphotransferases with an alcohol group as acceptor.
+511592	Phosphotransferases with an alcohol group as acceptor.
+511592	Phosphotransferases with an alcohol group as acceptor.
+511592	Phosphotransferases with an alcohol group as acceptor.
+511592	Phosphotransferases with an alcohol group as acceptor.
+511613	Acetylornithine deacetylase.
+511632	Isocitrate dehydrogenase (NADP+).
+511632	Isocitrate dehydrogenase (NADP+).
+511632	Isocitrate dehydrogenase (NADP+).
+511639	2-acetyl-1-alkylglycerophosphocholine esterase.
+511643	Polygalacturonase.
+511643	Polygalacturonase.
+511652	Cytochrome-c oxidase.
+511668	Dihydrolipoamide S-acetyltransferase.
+511668	Dihydrolipoamide S-acetyltransferase.
+511692	3',5'-cyclic-nucleotide phosphodiesterase.
+511699	Proteasome endopeptidase complex.
+511761	CTP synthase.
+511772	Endopeptidases of unknown catalytic mechanism.
+511790	Alcohol dehydrogenase.
+511790	Alcohol dehydrogenase.
+511790	Alcohol dehydrogenase.
+511790	Alcohol dehydrogenase.
+511790	Alcohol dehydrogenase.
+511793	Alcohol dehydrogenase.
+511793	Alcohol dehydrogenase.
+511793	Alcohol dehydrogenase.
+511793	Alcohol dehydrogenase.
+511793	Alcohol dehydrogenase.
+511794	DNA-directed RNA polymerase.
+511794	DNA-directed RNA polymerase.
+511794	DNA-directed RNA polymerase.
+511809	Nucleoside-diphosphatase.
+511809	Nucleoside-diphosphatase.
+511817	Acting on paired donors, with incorporation or reduction of
+511817	Acting on paired donors, with incorporation or reduction of
+511817	Acting on paired donors, with incorporation or reduction of
+511817	Acting on paired donors, with incorporation or reduction of
+511831	With NADH or NADPH as one donor, and incorporation of one atom
+511831	With NADH or NADPH as one donor, and incorporation of one atom
+511831	With NADH or NADPH as one donor, and incorporation of one atom
+511831	With NADH or NADPH as one donor, and incorporation of one atom
+511831	With NADH or NADPH as one donor, and incorporation of one atom
+511831	With NADH or NADPH as one donor, and incorporation of one atom
+511831	With NADH or NADPH as one donor, and incorporation of one atom
+511831	With NADH or NADPH as one donor, and incorporation of one atom
+511831	With NADH or NADPH as one donor, and incorporation of one atom
+511831	With NADH or NADPH as one donor, and incorporation of one atom
+511831	With NADH or NADPH as one donor, and incorporation of one atom
+511831	With NADH or NADPH as one donor, and incorporation of one atom
+511831	With NADH or NADPH as one donor, and incorporation of one atom
+511831	With NADH or NADPH as one donor, and incorporation of one atom
+511842	Glycerol kinase.
+511894	Peptidylprolyl isomerase.
+511906	Serine/threonine specific protein phosphatase.
+511913	Acid--D-amino-acid ligases (peptide synthases).
+511913	Acid--D-amino-acid ligases (peptide synthases).
+511936	Protein disulfide isomerase.
+511938	Glutathione transferase.
+511955	Carboxypeptidase C.
+511957	Aminocarboxymuconate-semialdehyde decarboxylase.
+511988	Dipeptidyl-peptidase IV.
+512003	H(+)-transporting two-sector ATPase.
+512003	H(+)-transporting two-sector ATPase.
+512003	H(+)-transporting two-sector ATPase.
+512010	Myosin ATPase.
+512020	Histone acetyltransferase.
+512063	Glutamine--tRNA ligase.
+512063	Glutamine--tRNA ligase.
+512067	Hydrolyzing N-glycosyl compounds.
+512122	Isocitrate dehydrogenase (NADP+).
+512122	Isocitrate dehydrogenase (NADP+).
+512122	Isocitrate dehydrogenase (NADP+).
+512163	Acting on paired donors, with incorporation or reduction of
+512163	Acting on paired donors, with incorporation or reduction of
+512163	Acting on paired donors, with incorporation or reduction of
+512163	Acting on paired donors, with incorporation or reduction of
+512180	4-coumarate--CoA ligase.
+512192	NADPH:quinone reductase.
+524900	N-acetylglucosaminyldiphosphodolichol N-acetylglucosaminyltransferase.
+524980	Exoribonucleases producing 5'-phosphomonoesters.
+525096	Hexosyltransferases.
+525096	Hexosyltransferases.
+525096	Hexosyltransferases.
+525096	Hexosyltransferases.
+525096	Hexosyltransferases.
+525096	Hexosyltransferases.
+525096	Hexosyltransferases.
+525096	Hexosyltransferases.
+525096	Hexosyltransferases.
+525096	Hexosyltransferases.
+525096	Hexosyltransferases.
+525147	Ribonuclease P.
+525231	DNA-directed RNA polymerase.
+525231	DNA-directed RNA polymerase.
+525231	DNA-directed RNA polymerase.
+525233	Hexosyltransferases.
+525233	Hexosyltransferases.
+525233	Hexosyltransferases.
+525233	Hexosyltransferases.
+525233	Hexosyltransferases.
+525233	Hexosyltransferases.
+525233	Hexosyltransferases.
+525233	Hexosyltransferases.
+525233	Hexosyltransferases.
+525233	Hexosyltransferases.
+525233	Hexosyltransferases.
+525356	In phosphorous-containing anhydrides.
+525356	In phosphorous-containing anhydrides.
+525399	Acting on the CH-OH group of donors.
+525399	Acting on the CH-OH group of donors.
+525408	Phenylpyruvate tautomerase.
+525408	Phenylpyruvate tautomerase.
+525426	Lysophospholipase.
+525489	DNA-directed RNA polymerase.
+525489	DNA-directed RNA polymerase.
+525489	DNA-directed RNA polymerase.
+525500	Phosphotransferases with an alcohol group as acceptor.
+525500	Phosphotransferases with an alcohol group as acceptor.
+525500	Phosphotransferases with an alcohol group as acceptor.
+525500	Phosphotransferases with an alcohol group as acceptor.
+525500	Phosphotransferases with an alcohol group as acceptor.
+525553	Serine/threonine specific protein phosphatase.
+525570	DNA ligase (ATP).
+525591	Serine/threonine specific protein phosphatase.
+525622	Phosphopantothenoylcysteine decarboxylase.
+525630	Carbonate dehydratase.
+525668	UDP-glucose 6-dehydrogenase.
+525668	UDP-glucose 6-dehydrogenase.
+525668	UDP-glucose 6-dehydrogenase.
+525721	DNA-directed RNA polymerase.
+525721	DNA-directed RNA polymerase.
+525721	DNA-directed RNA polymerase.
+525746	3-oxo-5-alpha-steroid 4-dehydrogenase.
+525746	3-oxo-5-alpha-steroid 4-dehydrogenase.
+525817	Ubiquitin--protein ligase.
+525837	Transferring groups other than amino-acyl groups.
+525837	Transferring groups other than amino-acyl groups.
+525837	Transferring groups other than amino-acyl groups.
+525837	Transferring groups other than amino-acyl groups.
+525837	Transferring groups other than amino-acyl groups.
+525837	Transferring groups other than amino-acyl groups.
+525837	Transferring groups other than amino-acyl groups.
+525837	Transferring groups other than amino-acyl groups.
+525837	Transferring groups other than amino-acyl groups.
+525837	Transferring groups other than amino-acyl groups.
+525837	Transferring groups other than amino-acyl groups.
+525837	Transferring groups other than amino-acyl groups.
+525837	Transferring groups other than amino-acyl groups.
+525854	2-acetyl-1-alkylglycerophosphocholine esterase.
+525885	Protein disulfide isomerase.
+525930	Transferring groups other than amino-acyl groups.
+525930	Transferring groups other than amino-acyl groups.
+525930	Transferring groups other than amino-acyl groups.
+525930	Transferring groups other than amino-acyl groups.
+525930	Transferring groups other than amino-acyl groups.
+525930	Transferring groups other than amino-acyl groups.
+525930	Transferring groups other than amino-acyl groups.
+525930	Transferring groups other than amino-acyl groups.
+525930	Transferring groups other than amino-acyl groups.
+525930	Transferring groups other than amino-acyl groups.
+525930	Transferring groups other than amino-acyl groups.
+525930	Transferring groups other than amino-acyl groups.
+525930	Transferring groups other than amino-acyl groups.
+525953	Beta-glucosidase.
+525953	Beta-glucosidase.
+525953	Beta-glucosidase.
+526040	DNA-directed RNA polymerase.
+526040	DNA-directed RNA polymerase.
+526040	DNA-directed RNA polymerase.
+526234	Acid--D-amino-acid ligases (peptide synthases).
+526234	Acid--D-amino-acid ligases (peptide synthases).
+526244	FMN adenylyltransferase.
+526246	FMN adenylyltransferase.
+526284	NADPH--ferrihemoprotein reductase.
+526320	Glucan 1,3-beta-glucosidase.
+526333	Acting on acid anhydrides; catalyzing transmembrane movement
+526360	Alcohol dehydrogenase.
+526360	Alcohol dehydrogenase.
+526360	Alcohol dehydrogenase.
+526360	Alcohol dehydrogenase.
+526360	Alcohol dehydrogenase.
+526411	Phosphotransferases with an alcohol group as acceptor.
+526411	Phosphotransferases with an alcohol group as acceptor.
+526411	Phosphotransferases with an alcohol group as acceptor.
+526411	Phosphotransferases with an alcohol group as acceptor.
+526411	Phosphotransferases with an alcohol group as acceptor.
+526669	Acid--D-amino-acid ligases (peptide synthases).
+526669	Acid--D-amino-acid ligases (peptide synthases).
+526715	Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase.
+526732	Carbonate dehydratase.
+526804	Ubiquitinyl hydrolase 1.
+526814	[Ribulose-bisphosphate-carboxylase]-lysine N-methyltransferase.
+526839	Beta-glucosidase.
+526839	Beta-glucosidase.
+526839	Beta-glucosidase.
+526875	Mannitol dehydrogenase.
+526876	Mannitol dehydrogenase.
+526885	UDP-N-acetylglucosamine pyrophosphorylase.
+526886	Endothelin-converting enzyme 1.
+526914	Myosin ATPase.
+526918	Acyl-CoA oxidase.
+526945	In phosphorous-containing anhydrides.
+526945	In phosphorous-containing anhydrides.
+526964	Pyrroline-5-carboxylate reductase.
+526964	Pyrroline-5-carboxylate reductase.
+526972	Ubiquitin thiolesterase.
+526977	Dolichyl-phosphate-mannose-glycolipid alpha-mannosyltransferase.
+527031	Peptidylprolyl isomerase.
+527063	Protein-methionine-S-oxide reductase. Peptide methionine sulfoxide reductase. Peptide Met(O) reductase.
+527109	NADPH dehydrogenase.
+527122	Leukotriene-A4 hydrolase.
+527152	Carnitine O-palmitoyltransferase.
+527152	Carnitine O-palmitoyltransferase.
+527176	1-phosphatidylinositol-4-phosphate kinase.
+527203	Chaperonin ATPase.
+527368	In phosphorous-containing anhydrides.
+527368	In phosphorous-containing anhydrides.
+527373	Adenosinetriphosphatase.
+527385	Peptidylprolyl isomerase.
+527389	Acid--D-amino-acid ligases (peptide synthases).
+527389	Acid--D-amino-acid ligases (peptide synthases).
+527399	Phosphoethanolamine N-methyltransferase.
+527420	With NAD(+) or NADP(+) as acceptor.
+527420	With NAD(+) or NADP(+) as acceptor.
+527420	With NAD(+) or NADP(+) as acceptor.
+527420	With NAD(+) or NADP(+) as acceptor.
+527420	With NAD(+) or NADP(+) as acceptor.
+527420	With NAD(+) or NADP(+) as acceptor.
+527420	With NAD(+) or NADP(+) as acceptor.
+527420	With NAD(+) or NADP(+) as acceptor.
+527420	With NAD(+) or NADP(+) as acceptor.
+527420	With NAD(+) or NADP(+) as acceptor.
+527420	With NAD(+) or NADP(+) as acceptor.
+527420	With NAD(+) or NADP(+) as acceptor.
+527466	DNA topoisomerase (ATP-hydrolysing).
+527499	DNA-directed RNA polymerase.
+527499	DNA-directed RNA polymerase.
+527499	DNA-directed RNA polymerase.
+527591	Tripeptidyl-peptidase I.
+527595	Aspartate kinase.
+527595	Aspartate kinase.
+527604	Endopeptidases of unknown catalytic mechanism.
+527642	Cathepsin H.
+527667	Glucan 1,4-alpha-glucosidase.
+527673	Cysteine endopeptidases.
+527688	Acetyl-CoA C-acetyltransferase.
+527688	Acetyl-CoA C-acetyltransferase.
+527688	Acetyl-CoA C-acetyltransferase.
+527688	Acetyl-CoA C-acetyltransferase.
+527688	Acetyl-CoA C-acetyltransferase.
+527688	Acetyl-CoA C-acetyltransferase.
+527688	Acetyl-CoA C-acetyltransferase.
+527688	Acetyl-CoA C-acetyltransferase.
+527688	Acetyl-CoA C-acetyltransferase.
+527707	Catechol O-methyltransferase.
+527865	Myo-inositol 2-dehydrogenase.
+527865	Myo-inositol 2-dehydrogenase.
+527885	In phosphorous-containing anhydrides.
+527885	In phosphorous-containing anhydrides.
+527887	Arginine--tRNA ligase.
+527887	Arginine--tRNA ligase.
+527889	L-iditol 2-dehydrogenase.
+527927	Long-chain-fatty-acid--CoA ligase.
+527956	Long-chain-fatty-acid--CoA ligase.
+528014	DNA-(apurinic or apyrimidinic site) lyase.
+528038	Phosphotransferases with an alcohol group as acceptor.
+528038	Phosphotransferases with an alcohol group as acceptor.
+528038	Phosphotransferases with an alcohol group as acceptor.
+528038	Phosphotransferases with an alcohol group as acceptor.
+528038	Phosphotransferases with an alcohol group as acceptor.
+528058	Uroporphyrinogen-III synthase.
+528165	Acid phosphatase.
+528165	Acid phosphatase.
+528256	Adenosinetriphosphatase.
+528277	Acid phosphatase.
+528277	Acid phosphatase.
+528288	Phosphotransferases with an alcohol group as acceptor.
+528288	Phosphotransferases with an alcohol group as acceptor.
+528288	Phosphotransferases with an alcohol group as acceptor.
+528288	Phosphotransferases with an alcohol group as acceptor.
+528288	Phosphotransferases with an alcohol group as acceptor.
+528289	Adenosinetriphosphatase.
+528366	Aminopeptidases.
+528383	In phosphorous-containing anhydrides.
+528383	In phosphorous-containing anhydrides.
+528394	Phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase.
+528424	Xylulokinase.
+528466	Proteasome endopeptidase complex.
+528468	Myosin ATPase.
+528485	mRNA guanylyltransferase.
+528624	Tropine dehydrogenase.
+528642	Ketohexokinase.
+528722	Aspartate aminotransferase.
+528722	Aspartate aminotransferase.
+528722	Aspartate aminotransferase.
+528722	Aspartate aminotransferase.
+528722	Aspartate aminotransferase.
+528722	Aspartate aminotransferase.
+528722	Aspartate aminotransferase.
+528722	Aspartate aminotransferase.
+528722	Aspartate aminotransferase.
+528843	Adenosinetriphosphatase.
+528890	Diacylglycerol kinase.
+528890	Diacylglycerol kinase.
+528937	2-acetyl-1-alkylglycerophosphocholine esterase.
+529177	Methylmalonate-semialdehyde dehydrogenase (acylating).
+529177	Methylmalonate-semialdehyde dehydrogenase (acylating).
+529177	Methylmalonate-semialdehyde dehydrogenase (acylating).
+529241	Xaa-Pro aminopeptidase.
+529335	2-acetyl-1-alkylglycerophosphocholine esterase.
+529358	5'-nucleotidase.
+529358	5'-nucleotidase.
+529358	5'-nucleotidase.
+529399	1-phosphatidylinositol 3-kinase.
+529480	Peptidylprolyl isomerase.
+529523	Protein kinase.
+529544	In phosphorous-containing anhydrides.
+529544	In phosphorous-containing anhydrides.
+529555	With other acceptors.
+529555	With other acceptors.
+529555	With other acceptors.
+529576	Oxidoreductases.
+529589	Acting on paired donors, with incorporation or reduction of
+529589	Acting on paired donors, with incorporation or reduction of
+529589	Acting on paired donors, with incorporation or reduction of
+529589	Acting on paired donors, with incorporation or reduction of
+529649	Galactokinase.
+529676	Polynucleotide adenylyltransferase.
+529711	Dihydrofolate reductase.
+529711	Dihydrofolate reductase.
+529795	Anthranilate synthase.
+529805	4-coumarate--CoA ligase.
+529861	Glutamate dehydrogenase.
+529861	Glutamate dehydrogenase.
+529878	Ubiquitin--protein ligase.
+529913	Chaperonin ATPase.
+529926	Phosphotransferases with an alcohol group as acceptor.
+529926	Phosphotransferases with an alcohol group as acceptor.
+529926	Phosphotransferases with an alcohol group as acceptor.
+529926	Phosphotransferases with an alcohol group as acceptor.
+529926	Phosphotransferases with an alcohol group as acceptor.
+529928	Carboxypeptidase U.
+529934	DNA-directed DNA polymerase.
+529934	DNA-directed DNA polymerase.
+529934	DNA-directed DNA polymerase.
+529946	Protein disulfide isomerase.
+529968	Acid--D-amino-acid ligases (peptide synthases).
+529968	Acid--D-amino-acid ligases (peptide synthases).
+530067	2-acetyl-1-alkylglycerophosphocholine esterase.
+530083	Methyltransferases.
+530083	Methyltransferases.
+530083	Methyltransferases.
+530083	Methyltransferases.
+530083	Methyltransferases.
+530083	Methyltransferases.
+530083	Methyltransferases.
+530083	Methyltransferases.
+530210	Serine/threonine specific protein phosphatase.
+530261	Exo-alpha-sialidase.
+530261	Exo-alpha-sialidase.
+530278	3-hydroxyacyl-CoA dehydrogenase.
+530278	3-hydroxyacyl-CoA dehydrogenase.
+530278	3-hydroxyacyl-CoA dehydrogenase.
+530278	3-hydroxyacyl-CoA dehydrogenase.
+530278	3-hydroxyacyl-CoA dehydrogenase.
+530278	3-hydroxyacyl-CoA dehydrogenase.
+530278	3-hydroxyacyl-CoA dehydrogenase.
+530385	Dodecenoyl-CoA delta-isomerase.
+530472	[Pyruvate dehydrogenase (lipoamide)]-phosphatase.
+530528	Mitochondrial intermediate peptidase.
+530562	Ubiquitin thiolesterase.
+530571	Acting on the CH-OH group of donors.
+530571	Acting on the CH-OH group of donors.
+530625	Oxidoreductases.
+530700	Mannosyl-oligosaccharide 1,2-alpha-mannosidase.
+530755	Myosin ATPase.
+530803	With other acceptors.
+530803	With other acceptors.
+530803	With other acceptors.
+530845	Methylcrotonyl-CoA carboxylase.
+530875	tRNA-pseudouridine synthase I.
+530893	L-ascorbate peroxidase.
+530940	Myosin ATPase.
+530977	Catalase.
+530977	Catalase.
+531120	Acid phosphatase.
+531120	Acid phosphatase.
+531162	Phosphotransferases with an alcohol group as acceptor.
+531162	Phosphotransferases with an alcohol group as acceptor.
+531162	Phosphotransferases with an alcohol group as acceptor.
+531162	Phosphotransferases with an alcohol group as acceptor.
+531162	Phosphotransferases with an alcohol group as acceptor.
+531209	Acting on ester bonds.
+531250	Exoribonucleases producing 5'-phosphomonoesters.
+531261	Aldehyde dehydrogenase (NAD(P)+).
+531261	Aldehyde dehydrogenase (NAD(P)+).
+531261	Aldehyde dehydrogenase (NAD(P)+).
+531261	Aldehyde dehydrogenase (NAD(P)+).
+531292	Acetate--CoA ligase.
+531292	Acetate--CoA ligase.
+531292	Acetate--CoA ligase.
+531292	Acetate--CoA ligase.
+531301	Serine-type carboxypeptidases.
+531315	Oxidoreductases.
+531328	L-arabinose isomerase.
+531377	Dynein ATPase.
+531396	Exo-alpha-sialidase.
+531396	Exo-alpha-sialidase.
+531556	L-arabinose isomerase.
+531610	Trans-2-enoyl-CoA reductase (NADPH).
+531715	Licheninase.
+531719	Licheninase.
+531889	Ubiquitin--protein ligase.
+531890	Ubiquitin thiolesterase.
+531963	Phosphodiesterase I.
+531966	Alpha-glucosidase.
+531966	Alpha-glucosidase.
+531967	Phospholipase D.
+531967	Phospholipase D.
+531975	IMP dehydrogenase.
+531982	Ubiquitin--protein ligase.
+531990	Uracil phosphoribosyltransferase.
+532173	Serine/threonine specific protein phosphatase.
+532177	Nucleoside-triphosphate pyrophosphatase.
+532177	Nucleoside-triphosphate pyrophosphatase.
+532195	Peptidylprolyl isomerase.
+532200	1-phosphatidylinositol 3-kinase.
+532246	NAD(+) ADP-ribosyltransferase.
+532358	Methionyl aminopeptidase.
+532376	GTP cyclohydrolase II.
+532433	Glucan 1,3-beta-glucosidase.
+532508	Acylaminoacyl-peptidase.
+532621	Glutamate decarboxylase.
+532621	Glutamate decarboxylase.
+532621	Glutamate decarboxylase.
+532621	Glutamate decarboxylase.
+532621	Glutamate decarboxylase.
+532679	Urocanate hydratase.
+532719	Guanine deaminase.
+532753	5-methyltetrahydrofolate--homocysteine S-methyltransferase.
+532753	5-methyltetrahydrofolate--homocysteine S-methyltransferase.
+532758	tRNA (guanine-N7-)-methyltransferase.
+532798	Chitinase.
+532838	Fructose-bisphosphatase.
+532838	Fructose-bisphosphatase.
+532838	Fructose-bisphosphatase.
+532838	Fructose-bisphosphatase.
+532846	DNA topoisomerase.
+532903	DNA-directed DNA polymerase.
+532903	DNA-directed DNA polymerase.
+532903	DNA-directed DNA polymerase.
+532907	Serine/threonine specific protein phosphatase.
+532978	DNA-directed RNA polymerase.
+532978	DNA-directed RNA polymerase.
+532978	DNA-directed RNA polymerase.
+533037	L-arabinose isomerase.
+533060	Ubiquitin thiolesterase.
+533182	Glutamate dehydrogenase.
+533182	Glutamate dehydrogenase.
+533193	Peptidylprolyl isomerase.
+533294	DNA-directed DNA polymerase.
+533294	DNA-directed DNA polymerase.
+533294	DNA-directed DNA polymerase.
+533399	Acid phosphatase.
+533399	Acid phosphatase.
+533401	Exo-alpha-sialidase.
+533401	Exo-alpha-sialidase.
+533442	Insulysin.
+533657	Adenosinetriphosphatase.
+533658	DNA-directed DNA polymerase.
+533658	DNA-directed DNA polymerase.
+533658	DNA-directed DNA polymerase.
+533774	Ubiquitin thiolesterase.
+533797	Dimethylaniline monooxygenase (N-oxide forming).
+533830	Argininosuccinate synthase.
+533830	Argininosuccinate synthase.
+533830	Argininosuccinate synthase.
+533853	DNA-directed DNA polymerase.
+533853	DNA-directed DNA polymerase.
+533853	DNA-directed DNA polymerase.
+533911	Phosphatidylinositol-bisphosphatase.
+533948	Phosphotransferases with an alcohol group as acceptor.
+533948	Phosphotransferases with an alcohol group as acceptor.
+533948	Phosphotransferases with an alcohol group as acceptor.
+533948	Phosphotransferases with an alcohol group as acceptor.
+533948	Phosphotransferases with an alcohol group as acceptor.
+534197	7-dehydrocholesterol reductase.
+534213	Peptidylprolyl isomerase.
+534256	Dihydrolipoamide S-acetyltransferase.
+534256	Dihydrolipoamide S-acetyltransferase.
+534268	tRNA (guanine-N7-)-methyltransferase.
+534317	Peptidylprolyl isomerase.
+534321	Myo-inositol-1-phosphate synthase.
+534321	Myo-inositol-1-phosphate synthase.
+534395	In phosphorous-containing anhydrides.
+534395	In phosphorous-containing anhydrides.
+534397	Exo-alpha-sialidase.
+534397	Exo-alpha-sialidase.
+534473	Glucan 1,4-alpha-glucosidase.
+534494	Acting on paired donors, with incorporation or reduction of
+534494	Acting on paired donors, with incorporation or reduction of
+534494	Acting on paired donors, with incorporation or reduction of
+534494	Acting on paired donors, with incorporation or reduction of
+534535	Isoleucine--tRNA ligase.
+534535	Isoleucine--tRNA ligase.
+534592	Dolichyldiphosphatase.
+534609	Alpha-N-acetylglucosaminidase.
+534614	Glycerone-phosphate O-acyltransferase.
+534663	Aldehyde dehydrogenase (NAD+).
+534663	Aldehyde dehydrogenase (NAD+).
+534663	Aldehyde dehydrogenase (NAD+).
+534663	Aldehyde dehydrogenase (NAD+).
+534663	Aldehyde dehydrogenase (NAD+).
+534663	Aldehyde dehydrogenase (NAD+).
+534663	Aldehyde dehydrogenase (NAD+).
+534663	Aldehyde dehydrogenase (NAD+).
+534663	Aldehyde dehydrogenase (NAD+).
+534663	Aldehyde dehydrogenase (NAD+).
+534663	Aldehyde dehydrogenase (NAD+).
+534663	Aldehyde dehydrogenase (NAD+).
+534663	Aldehyde dehydrogenase (NAD+).
+534663	Aldehyde dehydrogenase (NAD+).
+534663	Aldehyde dehydrogenase (NAD+).
+534685	Aldehyde dehydrogenase (NAD+).
+534685	Aldehyde dehydrogenase (NAD+).
+534685	Aldehyde dehydrogenase (NAD+).
+534685	Aldehyde dehydrogenase (NAD+).
+534685	Aldehyde dehydrogenase (NAD+).
+534685	Aldehyde dehydrogenase (NAD+).
+534685	Aldehyde dehydrogenase (NAD+).
+534685	Aldehyde dehydrogenase (NAD+).
+534685	Aldehyde dehydrogenase (NAD+).
+534685	Aldehyde dehydrogenase (NAD+).
+534685	Aldehyde dehydrogenase (NAD+).
+534685	Aldehyde dehydrogenase (NAD+).
+534685	Aldehyde dehydrogenase (NAD+).
+534685	Aldehyde dehydrogenase (NAD+).
+534685	Aldehyde dehydrogenase (NAD+).
+534810	3',5'-cyclic-nucleotide phosphodiesterase.
+534866	Choline dehydrogenase.
+534882	Aryl-alcohol dehydrogenase (NADP+).
+534924	Serine/threonine specific protein phosphatase.
+535024	Adenine phosphoribosyltransferase.
+535078	Acid phosphatase.
+535078	Acid phosphatase.
+535197	DNA ligase (ATP).
+535245	Proteasome endopeptidase complex.
+535264	Hexaprenyldihydroxybenzoate methyltransferase.
+535275	Exoribonucleases producing 5'-phosphomonoesters.
+535284	Copper-exporting ATPase.
+535285	Copper-exporting ATPase.
+535286	Glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating).
+535409	Acid--D-amino-acid ligases (peptide synthases).
+535409	Acid--D-amino-acid ligases (peptide synthases).
+535439	L-arabinose isomerase.
+535506	Proton-exporting ATPase.
+535691	Acid--D-amino-acid ligases (peptide synthases).
+535691	Acid--D-amino-acid ligases (peptide synthases).
+535762	Heparin-glucosamine 3-O-sulfotransferase.
+535841	NADPH:quinone reductase.
+535945	Proteasome endopeptidase complex.
+535947	Serine/threonine specific protein phosphatase.
+536027	Astacin.
+536029	Isoleucine--tRNA ligase.
+536029	Isoleucine--tRNA ligase.
+536081	Galactokinase.
+536122	Carboxylic ester hydrolases.
+536122	Carboxylic ester hydrolases.
+536122	Carboxylic ester hydrolases.
+536157	Phosphoglycerate kinase.
+536157	Phosphoglycerate kinase.
+536197	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase.
+536287	Adenosinetriphosphatase.
+536369	DNA topoisomerase (ATP-hydrolysing).
+536428	Glucokinase.
+536428	Glucokinase.
+536428	Glucokinase.
+536428	Glucokinase.
+536428	Glucokinase.
+536430	3'(2'),5'-bisphosphate nucleotidase.
+536493	Pyruvate kinase.
+536493	Pyruvate kinase.
+536493	Pyruvate kinase.
+536493	Pyruvate kinase.
+536554	4-coumarate--CoA ligase.
+536566	Carbonate dehydratase.
+536629	Serine/threonine specific protein phosphatase.
+536632	GMP synthase (glutamine-hydrolysing).
+536632	GMP synthase (glutamine-hydrolysing).
+536683	Inorganic pyrophosphatase.
+536691	Acting on acid anhydrides; catalyzing transmembrane movement
+536718	Malate dehydrogenase.
+536718	Malate dehydrogenase.
+536718	Malate dehydrogenase.
+536718	Malate dehydrogenase.
+536718	Malate dehydrogenase.
+536734	1-phosphatidylinositol-4-phosphate kinase.
+536781	1,3-beta-glucan synthase.
+536809	Signal peptidase I.
+536829	With 2-oxoglutarate as one donor, and incorporation of one
+536870	Cytochrome-c peroxidase.
+536873	With oxygen as acceptor.
+536953	1,3-beta-glucan synthase.
+536969	Inorganic pyrophosphatase.
+536984	Protein-tyrosine-phosphatase.
+537003	Phosphomannomutase.
+537060	Homoserine O-acetyltransferase.
+537060	Homoserine O-acetyltransferase.
+537182	H(+)-transporting two-sector ATPase.
+537182	H(+)-transporting two-sector ATPase.
+537182	H(+)-transporting two-sector ATPase.
+537258	Glutamate--cysteine ligase.
+537258	Glutamate--cysteine ligase.
+537260	Methyltransferases.
+537260	Methyltransferases.
+537260	Methyltransferases.
+537260	Methyltransferases.
+537260	Methyltransferases.
+537260	Methyltransferases.
+537260	Methyltransferases.
+537260	Methyltransferases.
+537331	Dihydrolipoamide S-acetyltransferase.
+537331	Dihydrolipoamide S-acetyltransferase.
+537366	Methylenetetrahydrofolate reductase (NADPH).
+537392	Folylpolyglutamate synthase.
+537480	Polygalacturonase.
+537480	Polygalacturonase.
+537485	Polygalacturonase.
+537485	Polygalacturonase.
+537577	Adenosinetriphosphatase.
+537579	Homoserine O-acetyltransferase.
+537579	Homoserine O-acetyltransferase.
+537655	Histone acetyltransferase.
+537661	Histone acetyltransferase.
+537716	Glycerophosphoinositol inositolphosphodiesterase.
+537777	Cystathionine gamma-lyase.
+537777	Cystathionine gamma-lyase.
+537777	Cystathionine gamma-lyase.
+537777	Cystathionine gamma-lyase.
+537797	Phosphoglucomutase.
+537797	Phosphoglucomutase.
+537797	Phosphoglucomutase.
+537797	Phosphoglucomutase.
+537797	Phosphoglucomutase.
+537797	Phosphoglucomutase.
+537797	Phosphoglucomutase.
+537800	Beta-fructofuranosidase.
+537800	Beta-fructofuranosidase.
+537801	Beta-fructofuranosidase.
+537801	Beta-fructofuranosidase.
+537802	Beta-fructofuranosidase.
+537802	Beta-fructofuranosidase.
+537816	Proton-exporting ATPase.
+537817	Glycine--tRNA ligase.
+537817	Glycine--tRNA ligase.
+537841	Ubiquitin thiolesterase.
+537856	L-ascorbate peroxidase.
+537925	Cholinephosphate cytidylyltransferase.
+537925	Cholinephosphate cytidylyltransferase.
+537937	Prolyl oligopeptidase.
+537964	DNA-directed RNA polymerase.
+537964	DNA-directed RNA polymerase.
+537964	DNA-directed RNA polymerase.
+537983	N-(5'-phospho-D-ribosylformimino)-5-amino-1-(5''-phosphoribosyl)-4- imidazole carboxamide isomerase.
+537999	Thiosulfate sulfurtransferase.
+538005	2,4-dienoyl-CoA reductase (NADPH).
+538121	3-oxoacyl-[acyl-carrier protein] reductase.
+538150	Acting on the CH-OH group of donors.
+538150	Acting on the CH-OH group of donors.
+538155	NADPH dehydrogenase.
+538166	Acting on the CH-OH group of donors.
+538166	Acting on the CH-OH group of donors.
+538185	DNA-directed RNA polymerase.
+538185	DNA-directed RNA polymerase.
+538185	DNA-directed RNA polymerase.
+538197	L-arabinose isomerase.
+538207	Adenosinetriphosphatase.
+538324	NAD(+) synthase (glutamine-hydrolysing).
+538324	NAD(+) synthase (glutamine-hydrolysing).
+538333	5-oxoprolinase (ATP-hydrolysing).
+538370	Serine/threonine specific protein phosphatase.
+538407	Aspartate aminotransferase.
+538407	Aspartate aminotransferase.
+538407	Aspartate aminotransferase.
+538407	Aspartate aminotransferase.
+538407	Aspartate aminotransferase.
+538407	Aspartate aminotransferase.
+538407	Aspartate aminotransferase.
+538407	Aspartate aminotransferase.
+538407	Aspartate aminotransferase.
+538459	Thymidylate kinase.
+538464	Phenylalanine 4-monooxygenase.
+538487	Homoserine kinase.
+538718	3-oxo-5-alpha-steroid 4-dehydrogenase.
+538718	3-oxo-5-alpha-steroid 4-dehydrogenase.
+538799	Serine endopeptidases.
+538804	Ubiquitin--protein ligase.
+538865	Ribokinase.
+538943	Carbamoyl-phosphate synthase (ammonia).
+538943	Carbamoyl-phosphate synthase (ammonia).
+538943	Carbamoyl-phosphate synthase (ammonia).
+538943	Carbamoyl-phosphate synthase (ammonia).
+538960	In phosphorous-containing anhydrides.
+538960	In phosphorous-containing anhydrides.
+539007	Miscellaneous (requires further characterization).
+539036	UDP-N-acetylglucosamine pyrophosphorylase.
+539046	Adenosinetriphosphatase.
+539116	Alkaline phosphatase.
+539116	Alkaline phosphatase.
+539116	Alkaline phosphatase.
+539182	In phosphorous-containing anhydrides.
+539182	In phosphorous-containing anhydrides.
+539227	Serine/threonine specific protein phosphatase.
+539283	Peptidylprolyl isomerase.
+539286	Dolichyl-phosphate beta-glucosyltransferase.
+539340	DNA-directed DNA polymerase.
+539340	DNA-directed DNA polymerase.
+539340	DNA-directed DNA polymerase.
+539402	Oxidoreductases.
+539408	dCMP deaminase.
+539408	dCMP deaminase.
+539470	Peptidylprolyl isomerase.
+539582	Phosphotransferases with an alcohol group as acceptor.
+539582	Phosphotransferases with an alcohol group as acceptor.
+539582	Phosphotransferases with an alcohol group as acceptor.
+539582	Phosphotransferases with an alcohol group as acceptor.
+539582	Phosphotransferases with an alcohol group as acceptor.
+539682	L-arabinose isomerase.
+539800	Carboxy-lyases.
+539800	Carboxy-lyases.
+539800	Carboxy-lyases.
+539800	Carboxy-lyases.
+539800	Carboxy-lyases.
+539800	Carboxy-lyases.
+539800	Carboxy-lyases.
+539800	Carboxy-lyases.
+539800	Carboxy-lyases.
+539800	Carboxy-lyases.
+539800	Carboxy-lyases.
+539800	Carboxy-lyases.
+539800	Carboxy-lyases.
+539800	Carboxy-lyases.
+539844	Aspartate aminotransferase.
+539844	Aspartate aminotransferase.
+539844	Aspartate aminotransferase.
+539844	Aspartate aminotransferase.
+539844	Aspartate aminotransferase.
+539844	Aspartate aminotransferase.
+539844	Aspartate aminotransferase.
+539844	Aspartate aminotransferase.
+539844	Aspartate aminotransferase.
+539942	Transaminases (aminotransferases).
+539942	Transaminases (aminotransferases).
+539942	Transaminases (aminotransferases).
+539942	Transaminases (aminotransferases).
+539998	Nucleoside-diphosphate kinase.
+539998	Nucleoside-diphosphate kinase.
+540007	Hydrolases.
+540026	Guanine deaminase.
+540044	Triacylglycerol lipase.
+540062	Serine endopeptidases.
+540071	Serine/threonine specific protein phosphatase.
+540084	Acting on peptide bonds (peptide hydrolases).
+540084	Acting on peptide bonds (peptide hydrolases).
+540135	DNA ligase (ATP).
+540269	NADPH:quinone reductase.
+540398	Protein-tyrosine-phosphatase.
+540425	Tryptophan synthase.
+540440	tRNA-pseudouridine synthase I.
+540445	NAD(+) ADP-ribosyltransferase.
+540728	DNA-directed RNA polymerase.
+540728	DNA-directed RNA polymerase.
+540728	DNA-directed RNA polymerase.
+540750	Phosphoribosylaminoimidazole carboxylase.
+540846	CDP-diacylglycerol--serine O-phosphatidyltransferase.
+540846	CDP-diacylglycerol--serine O-phosphatidyltransferase.
+540949	NADH dehydrogenase.
+540977	In phosphorous-containing anhydrides.
+540977	In phosphorous-containing anhydrides.
+540985	Adenylate kinase.
+541026	Phosphotransferases with an alcohol group as acceptor.
+541026	Phosphotransferases with an alcohol group as acceptor.
+541026	Phosphotransferases with an alcohol group as acceptor.
+541026	Phosphotransferases with an alcohol group as acceptor.
+541026	Phosphotransferases with an alcohol group as acceptor.
+541124	Beta-glucosidase.
+541124	Beta-glucosidase.
+541124	Beta-glucosidase.
+541149	Protein kinase.
+541178	Ribonuclease H.
+541292	Protein-L-isoaspartate(D-aspartate) O-methyltransferase.
+541456	Adenosinetriphosphatase.
+541532	Gastricsin.
+541558	Phosphotransferases with an alcohol group as acceptor.
+541558	Phosphotransferases with an alcohol group as acceptor.
+541558	Phosphotransferases with an alcohol group as acceptor.
+541558	Phosphotransferases with an alcohol group as acceptor.
+541558	Phosphotransferases with an alcohol group as acceptor.
+541605	2-nitropropane dioxygenase.
+541665	dTDP-glucose 4,6-dehydratase.
+541665	dTDP-glucose 4,6-dehydratase.
+541689	1-phosphatidylinositol-4-phosphate kinase.
+541699	Sphinganine kinase.
+541727	Hexosyltransferases.
+541727	Hexosyltransferases.
+541727	Hexosyltransferases.
+541727	Hexosyltransferases.
+541727	Hexosyltransferases.
+541727	Hexosyltransferases.
+541727	Hexosyltransferases.
+541727	Hexosyltransferases.
+541727	Hexosyltransferases.
+541727	Hexosyltransferases.
+541727	Hexosyltransferases.
+541730	Protein kinase.
+541740	Gamma-butyrobetaine,2-oxoglutarate dioxygenase.
+541795	With NAD(+) or NADP(+) as acceptor.
+541795	With NAD(+) or NADP(+) as acceptor.
+541795	With NAD(+) or NADP(+) as acceptor.
+541795	With NAD(+) or NADP(+) as acceptor.
+541795	With NAD(+) or NADP(+) as acceptor.
+541795	With NAD(+) or NADP(+) as acceptor.
+541795	With NAD(+) or NADP(+) as acceptor.
+541795	With NAD(+) or NADP(+) as acceptor.
+541795	With NAD(+) or NADP(+) as acceptor.
+541795	With NAD(+) or NADP(+) as acceptor.
+541795	With NAD(+) or NADP(+) as acceptor.
+541795	With NAD(+) or NADP(+) as acceptor.
+541835	Serine/threonine specific protein phosphatase.
+541894	Serine/threonine specific protein phosphatase.
+541896	Protein disulfide isomerase.
+541961	Dihydroxy-acid dehydratase.
+541961	Dihydroxy-acid dehydratase.
+542172	Fructose-bisphosphatase.
+542172	Fructose-bisphosphatase.
+542172	Fructose-bisphosphatase.
+542172	Fructose-bisphosphatase.
+542199	Citrate (si)-synthase.
+542430	Alcohol dehydrogenase.
+542430	Alcohol dehydrogenase.
+542430	Alcohol dehydrogenase.
+542430	Alcohol dehydrogenase.
+542430	Alcohol dehydrogenase.
+542432	Alcohol dehydrogenase.
+542432	Alcohol dehydrogenase.
+542432	Alcohol dehydrogenase.
+542432	Alcohol dehydrogenase.
+542432	Alcohol dehydrogenase.
+542458	Proteasome endopeptidase complex.
+542489	DNA-directed RNA polymerase.
+542489	DNA-directed RNA polymerase.
+542489	DNA-directed RNA polymerase.
+542568	1-acylglycerol-3-phosphate O-acyltransferase.
+542594	Beta-glucosidase.
+542594	Beta-glucosidase.
+542594	Beta-glucosidase.
+542607	Aspartyl aminopeptidase.
+542641	Transferring nitrogenous groups.
+542777	Adenosinetriphosphatase.
+542805	Polynucleotide adenylyltransferase.
+542836	Acting on paired donors, with incorporation or reduction of
+542836	Acting on paired donors, with incorporation or reduction of
+542836	Acting on paired donors, with incorporation or reduction of
+542836	Acting on paired donors, with incorporation or reduction of
+542873	L-arabinose isomerase.
+542884	In phosphorous-containing anhydrides.
+542884	In phosphorous-containing anhydrides.
+542968	Transferring other groups.
+543030	Myosin ATPase.
+543094	Serine/threonine specific protein phosphatase.
+543177	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase.
+543288	Propionate--CoA ligase.
+543302	Acid--D-amino-acid ligases (peptide synthases).
+543302	Acid--D-amino-acid ligases (peptide synthases).
+543310	Nucleotidyltransferases.
+543310	Nucleotidyltransferases.
+543414	Phenylpyruvate tautomerase.
+543414	Phenylpyruvate tautomerase.
+543419	Protein-tyrosine-phosphatase.
+543455	Acting on paired donors, with incorporation or reduction of
+543455	Acting on paired donors, with incorporation or reduction of
+543455	Acting on paired donors, with incorporation or reduction of
+543455	Acting on paired donors, with incorporation or reduction of
+543471	In phosphorous-containing anhydrides.
+543471	In phosphorous-containing anhydrides.
+543541	Trans-1,2-dihydrobenzene-1,2-diol dehydrogenase.
+543559	Sodium/potassium-echanging ATPase.
+543599	Protein kinase.
+543837	Pseudouridylate synthase.
+543889	Spermidine synthase.
+543889	Spermidine synthase.
+543889	Spermidine synthase.
+544004	Acid phosphatase.
+544004	Acid phosphatase.
+544039	Glucan 1,3-beta-glucosidase.
+544043	NADPH:quinone reductase.
+544048	NAD(+) ADP-ribosyltransferase.
+544054	Endodeoxyribonucleases producing other than 5'-phosphomonoesters.
+544144	Acyl-CoA oxidase.
+544178	Carnitine O-palmitoyltransferase.
+544178	Carnitine O-palmitoyltransferase.
+544184	Hexosyltransferases.
+544184	Hexosyltransferases.
+544184	Hexosyltransferases.
+544184	Hexosyltransferases.
+544184	Hexosyltransferases.
+544184	Hexosyltransferases.
+544184	Hexosyltransferases.
+544184	Hexosyltransferases.
+544184	Hexosyltransferases.
+544184	Hexosyltransferases.
+544184	Hexosyltransferases.
+544266	Ubiquitin--protein ligase.
+544280	DNA-directed RNA polymerase.
+544280	DNA-directed RNA polymerase.
+544280	DNA-directed RNA polymerase.
+544364	Aminobutyraldehyde dehydrogenase.
+544364	Aminobutyraldehyde dehydrogenase.
+544368	Tryptophan--tRNA ligase.
+544368	Tryptophan--tRNA ligase.
+544470	Cystathionine gamma-lyase.
+544470	Cystathionine gamma-lyase.
+544470	Cystathionine gamma-lyase.
+544470	Cystathionine gamma-lyase.
+544507	DNA ligase (ATP).
+544525	Peptidylprolyl isomerase.
+544549	Transferring nitrogenous groups.
+544574	Ubiquitin--protein ligase.
+544673	Beta-glucosidase.
+544673	Beta-glucosidase.
+544673	Beta-glucosidase.
+544770	Glycine dehydrogenase (decarboxylating).
+545052	Serine/threonine specific protein phosphatase.
+545078	Glutamate--tRNA ligase.
+545078	Glutamate--tRNA ligase.
+545078	Glutamate--tRNA ligase.
+545155	DNA-directed DNA polymerase.
+545155	DNA-directed DNA polymerase.
+545155	DNA-directed DNA polymerase.
+545159	Cytochrome-c peroxidase.
+545173	2-acetyl-1-alkylglycerophosphocholine esterase.
+545202	Hexosyltransferases.
+545202	Hexosyltransferases.
+545202	Hexosyltransferases.
+545202	Hexosyltransferases.
+545202	Hexosyltransferases.
+545202	Hexosyltransferases.
+545202	Hexosyltransferases.
+545202	Hexosyltransferases.
+545202	Hexosyltransferases.
+545202	Hexosyltransferases.
+545202	Hexosyltransferases.
+545267	Acyl-CoA oxidase.
+545294	Galactonolactone dehydrogenase.
+545316	Diaminopimelate decarboxylase.
+545320	1-phosphatidylinositol 3-kinase.
+545325	Acid--D-amino-acid ligases (peptide synthases).
+545325	Acid--D-amino-acid ligases (peptide synthases).
+545328	Phosphotransferases with an alcohol group as acceptor.
+545328	Phosphotransferases with an alcohol group as acceptor.
+545328	Phosphotransferases with an alcohol group as acceptor.
+545328	Phosphotransferases with an alcohol group as acceptor.
+545328	Phosphotransferases with an alcohol group as acceptor.
+545377	Serine/threonine specific protein phosphatase.
+545384	2-acetyl-1-alkylglycerophosphocholine esterase.
+545413	Maleylacetoacetate isomerase.
+545413	Maleylacetoacetate isomerase.
+545468	Phosphoglycerate mutase.
+545523	Phosphoric diester hydrolases.
+545532	Phosphotransferases with an alcohol group as acceptor.
+545532	Phosphotransferases with an alcohol group as acceptor.
+545532	Phosphotransferases with an alcohol group as acceptor.
+545532	Phosphotransferases with an alcohol group as acceptor.
+545532	Phosphotransferases with an alcohol group as acceptor.
+545598	Alanine--tRNA ligase.
+545598	Alanine--tRNA ligase.
+545690	Cellulase.
+545694	L-iditol 2-dehydrogenase.
+545704	Insulysin.
+545771	Myosin ATPase.
+545775	Beta-mannosidase.
+545883	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+545883	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+545883	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+545883	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+545913	Acid--D-amino-acid ligases (peptide synthases).
+545913	Acid--D-amino-acid ligases (peptide synthases).
+545940	Carboxypeptidase C.
+545945	Bis(5'-nucleosyl)-tetraphosphatase (symmetrical).
+546081	Malate dehydrogenase (oxaloacetate decarboxylating) (NADP+).
+546081	Malate dehydrogenase (oxaloacetate decarboxylating) (NADP+).
+546123	Calcium-transporting ATPase.
+546231	Peptidylprolyl isomerase.
+546301	Protein kinase.
+546403	Copper-exporting ATPase.
+546414	DNA ligase (ATP).
+546543	In linear amides.
+546543	In linear amides.
+546543	In linear amides.
+546543	In linear amides.
+546729	NADPH:quinone reductase.
+546889	DNA-directed DNA polymerase.
+546889	DNA-directed DNA polymerase.
+546889	DNA-directed DNA polymerase.
+546904	Acid phosphatase.
+546904	Acid phosphatase.
+547065	Pyridoxal kinase.
+547081	Ubiquitin--protein ligase.
+547089	Miscellaneous (requires further characterization).
+547177	Cathepsin E.
+547218	Gastricsin.
+547226	Arachidonate 15-lipoxygenase.
+547310	Acting on paired donors, with incorporation or reduction of
+547310	Acting on paired donors, with incorporation or reduction of
+547310	Acting on paired donors, with incorporation or reduction of
+547310	Acting on paired donors, with incorporation or reduction of
+547368	Peptidylprolyl isomerase.
+547373	Phosphotransferases with an alcohol group as acceptor.
+547373	Phosphotransferases with an alcohol group as acceptor.
+547373	Phosphotransferases with an alcohol group as acceptor.
+547373	Phosphotransferases with an alcohol group as acceptor.
+547373	Phosphotransferases with an alcohol group as acceptor.
+547376	Ubiquitin--protein ligase.
+547393	H(+)-transporting two-sector ATPase.
+547393	H(+)-transporting two-sector ATPase.
+547393	H(+)-transporting two-sector ATPase.
+547411	Phosphotransferases with an alcohol group as acceptor.
+547411	Phosphotransferases with an alcohol group as acceptor.
+547411	Phosphotransferases with an alcohol group as acceptor.
+547411	Phosphotransferases with an alcohol group as acceptor.
+547411	Phosphotransferases with an alcohol group as acceptor.
+547416	Transferring groups other than amino-acyl groups.
+547416	Transferring groups other than amino-acyl groups.
+547416	Transferring groups other than amino-acyl groups.
+547416	Transferring groups other than amino-acyl groups.
+547416	Transferring groups other than amino-acyl groups.
+547416	Transferring groups other than amino-acyl groups.
+547416	Transferring groups other than amino-acyl groups.
+547416	Transferring groups other than amino-acyl groups.
+547416	Transferring groups other than amino-acyl groups.
+547416	Transferring groups other than amino-acyl groups.
+547416	Transferring groups other than amino-acyl groups.
+547416	Transferring groups other than amino-acyl groups.
+547416	Transferring groups other than amino-acyl groups.
+547562	NADPH dehydrogenase.
+547633	Dolichyldiphosphatase.
+547665	Alpha-glucosidase.
+547665	Alpha-glucosidase.
+547672	Serine C-palmitoyltransferase.
+547810	Metalloendopeptidases.
+547838	Ubiquitin--protein ligase.
+547854	3-hydroxyisobutyrate dehydrogenase.
+547890	1,3-beta-glucan synthase.
+547987	Beta-glucosidase.
+547987	Beta-glucosidase.
+547987	Beta-glucosidase.
+548120	In phosphorous-containing anhydrides.
+548120	In phosphorous-containing anhydrides.
+548122	Proline--tRNA ligase.
+548122	Proline--tRNA ligase.
+548144	Adenosinetriphosphatase.
+548149	In phosphorous-containing anhydrides.
+548149	In phosphorous-containing anhydrides.
+548155	Copper-exporting ATPase.
+548192	Ubiquitin--protein ligase.
+548269	Methyltransferases.
+548269	Methyltransferases.
+548269	Methyltransferases.
+548269	Methyltransferases.
+548269	Methyltransferases.
+548269	Methyltransferases.
+548269	Methyltransferases.
+548269	Methyltransferases.
+548332	Naringenin 3-dioxygenase.
+548446	2-acetyl-1-alkylglycerophosphocholine esterase.
+548489	Choline dehydrogenase.
+548494	Valine--tRNA ligase.
+548494	Valine--tRNA ligase.
+548503	Beta-glucosidase.
+548503	Beta-glucosidase.
+548503	Beta-glucosidase.
+548563	3-oxoacyl-[acyl-carrier protein] reductase.
+548595	Aminoacylase.
+548597	Dodecenoyl-CoA delta-isomerase.
+548607	Aldehyde-lyases.
+548607	Aldehyde-lyases.
+548607	Aldehyde-lyases.
+548607	Aldehyde-lyases.
+548607	Aldehyde-lyases.
+548607	Aldehyde-lyases.
+548607	Aldehyde-lyases.
+548607	Aldehyde-lyases.
+548607	Aldehyde-lyases.
+548609	Aldehyde-lyases.
+548609	Aldehyde-lyases.
+548609	Aldehyde-lyases.
+548609	Aldehyde-lyases.
+548609	Aldehyde-lyases.
+548609	Aldehyde-lyases.
+548609	Aldehyde-lyases.
+548609	Aldehyde-lyases.
+548609	Aldehyde-lyases.
+548630	In phosphorous-containing anhydrides.
+548630	In phosphorous-containing anhydrides.
+548684	Inositol-1,3,4,5-tetrakisphosphate 3-phosphatase.
+548690	Vitamin-K-epoxide reductase (warfarin-sensitive).
+548715	Acid--D-amino-acid ligases (peptide synthases).
+548715	Acid--D-amino-acid ligases (peptide synthases).
+548717	Transferring groups other than amino-acyl groups.
+548717	Transferring groups other than amino-acyl groups.
+548717	Transferring groups other than amino-acyl groups.
+548717	Transferring groups other than amino-acyl groups.
+548717	Transferring groups other than amino-acyl groups.
+548717	Transferring groups other than amino-acyl groups.
+548717	Transferring groups other than amino-acyl groups.
+548717	Transferring groups other than amino-acyl groups.
+548717	Transferring groups other than amino-acyl groups.
+548717	Transferring groups other than amino-acyl groups.
+548717	Transferring groups other than amino-acyl groups.
+548717	Transferring groups other than amino-acyl groups.
+548717	Transferring groups other than amino-acyl groups.
+548840	Phosphatidylinositol-bisphosphatase.
+548878	Phenylalanine--tRNA ligase.
+548878	Phenylalanine--tRNA ligase.
+548881	3-oxoacyl-[acyl-carrier protein] synthase.
+548888	Phosphoric monoester hydrolases.
+548888	Phosphoric monoester hydrolases.
+548888	Phosphoric monoester hydrolases.
+548888	Phosphoric monoester hydrolases.
+548888	Phosphoric monoester hydrolases.
+548888	Phosphoric monoester hydrolases.
+548967	Peptidylprolyl isomerase.
+549194	Acid phosphatase.
+549194	Acid phosphatase.
+549221	Maltose O-acetyltransferase.
+549230	Pyruvate dehydrogenase (NADP+).
+549230	Pyruvate dehydrogenase (NADP+).
+549277	3-dehydrosphinganine reductase.
+549299	1-phosphatidylinositol-4-phosphate kinase.
+549370	Carboxylic ester hydrolases.
+549370	Carboxylic ester hydrolases.
+549370	Carboxylic ester hydrolases.
+549419	Calcium-transporting ATPase.
+549421	Endodeoxyribonucleases producing 5'-phosphomonoesters.
+549426	Protein kinase.
+549427	Ornithine decarboxylase.
+549427	Ornithine decarboxylase.
+549427	Ornithine decarboxylase.
+549564	Xaa-Pro aminopeptidase.
+549612	With oxygen as acceptor.
+549616	Glucan 1,3-beta-glucosidase.
+549646	3',5'-cyclic-nucleotide phosphodiesterase.
+549691	Histone acetyltransferase.
+549738	Valine--pyruvate aminotransferase.
+549761	Hexosyltransferases.
+549761	Hexosyltransferases.
+549761	Hexosyltransferases.
+549761	Hexosyltransferases.
+549761	Hexosyltransferases.
+549761	Hexosyltransferases.
+549761	Hexosyltransferases.
+549761	Hexosyltransferases.
+549761	Hexosyltransferases.
+549761	Hexosyltransferases.
+549761	Hexosyltransferases.
+549772	Riboflavin synthase.
+549786	In phosphorous-containing anhydrides.
+549786	In phosphorous-containing anhydrides.
+549826	Acting on carbohydrates and derivatives.
+549873	NADPH:quinone reductase.
+549882	Carbon--nitrogen ligases with glutamine as amido-N-donor.
+549882	Carbon--nitrogen ligases with glutamine as amido-N-donor.
+549899	Pyrroline-5-carboxylate reductase.
+549899	Pyrroline-5-carboxylate reductase.
+549935	Enoyl-CoA hydratase.
+549935	Enoyl-CoA hydratase.
+549935	Enoyl-CoA hydratase.
+549935	Enoyl-CoA hydratase.
+549935	Enoyl-CoA hydratase.
+549935	Enoyl-CoA hydratase.
+549935	Enoyl-CoA hydratase.
+549935	Enoyl-CoA hydratase.
+549935	Enoyl-CoA hydratase.
+549942	Peptidylprolyl isomerase.
+549954	Aminopeptidase B.
+550074	Ubiquitin--protein ligase.
+550198	Glucosylceramidase.
+550201	Adenosinetriphosphatase.
+550275	Glucan 1,3-beta-glucosidase.
+550328	NAD(+) ADP-ribosyltransferase.
+550349	Sphingosine N-acyltransferase.
+550349	Sphingosine N-acyltransferase.
+550410	Acetate--CoA ligase.
+550410	Acetate--CoA ligase.
+550410	Acetate--CoA ligase.
+550410	Acetate--CoA ligase.
+550437	Acting on ester bonds.
+550439	Acting on ester bonds.
+550463	NADPH dehydrogenase.
+550505	Methyltransferases.
+550505	Methyltransferases.
+550505	Methyltransferases.
+550505	Methyltransferases.
+550505	Methyltransferases.
+550505	Methyltransferases.
+550505	Methyltransferases.
+550505	Methyltransferases.
+550574	Phospholipase D.
+550574	Phospholipase D.
+550694	NAD(+) ADP-ribosyltransferase.
+550743	Acting on peptide bonds (peptide hydrolases).
+550743	Acting on peptide bonds (peptide hydrolases).
+550873	Transferases for other substituted phosphate groups.
+550873	Transferases for other substituted phosphate groups.
+550873	Transferases for other substituted phosphate groups.
+550885	Metalloendopeptidases.
+550908	Transferring phosphorous-containing groups.
+550917	1-phosphatidylinositol 3-kinase.
+550970	Methylcrotonyl-CoA carboxylase.
+550989	DNA-directed DNA polymerase.
+550989	DNA-directed DNA polymerase.
+550989	DNA-directed DNA polymerase.
+551034	Dynein ATPase.
+551068	3-hydroxyisobutyrate dehydrogenase.
+551077	Carboxypeptidase C.
+551102	2-acetyl-1-alkylglycerophosphocholine esterase.
+551155	4-coumarate--CoA ligase.
+551190	1-phosphatidylinositol-4-phosphate kinase.
+551232	Acid--D-amino-acid ligases (peptide synthases).
+551232	Acid--D-amino-acid ligases (peptide synthases).
+551307	Mannose-1-phosphate guanylyltransferase (GDP).
+551335	Glutamate dehydrogenase.
+551335	Glutamate dehydrogenase.
+551381	Phosphotransferases with an alcohol group as acceptor.
+551381	Phosphotransferases with an alcohol group as acceptor.
+551381	Phosphotransferases with an alcohol group as acceptor.
+551381	Phosphotransferases with an alcohol group as acceptor.
+551381	Phosphotransferases with an alcohol group as acceptor.
+551490	Enoyl-CoA hydratase.
+551490	Enoyl-CoA hydratase.
+551490	Enoyl-CoA hydratase.
+551490	Enoyl-CoA hydratase.
+551490	Enoyl-CoA hydratase.
+551490	Enoyl-CoA hydratase.
+551490	Enoyl-CoA hydratase.
+551490	Enoyl-CoA hydratase.
+551490	Enoyl-CoA hydratase.
+551623	Acting on ester bonds.
+551729	Microtubule-severing ATPase.
+551762	Thiamine pyrophosphokinase.
+551781	Peptidylprolyl isomerase.
+551873	Exoribonucleases producing 5'-phosphomonoesters.
+551908	1-phosphatidylinositol-4-phosphate kinase.
+551986	Serine/threonine specific protein phosphatase.
+552045	Arabinogalactan endo-1,4-beta-galactosidase.
+552194	Cellulase.
+552204	DNA ligase (ATP).
+552449	Glutamate decarboxylase.
+552449	Glutamate decarboxylase.
+552449	Glutamate decarboxylase.
+552449	Glutamate decarboxylase.
+552449	Glutamate decarboxylase.
+552634	Peptidylprolyl isomerase.
+552955	Diphthine synthase.
+552973	Exo-alpha-sialidase.
+552973	Exo-alpha-sialidase.
+552998	ATP pyrophosphatase.
+552998	ATP pyrophosphatase.
+553155	L-arabinose isomerase.
+553291	Proteasome endopeptidase complex.
+553330	5'-nucleotidase.
+553330	5'-nucleotidase.
+553330	5'-nucleotidase.
+553331	Phosphotransferases with an alcohol group as acceptor.
+553331	Phosphotransferases with an alcohol group as acceptor.
+553331	Phosphotransferases with an alcohol group as acceptor.
+553331	Phosphotransferases with an alcohol group as acceptor.
+553331	Phosphotransferases with an alcohol group as acceptor.
+553484	Ribonucleoside-diphosphate reductase.
+553484	Ribonucleoside-diphosphate reductase.
+553643	Alpha,alpha-trehalose-phosphate synthase (UDP-forming).
+553648	Pyruvate kinase.
+553648	Pyruvate kinase.
+553648	Pyruvate kinase.
+553648	Pyruvate kinase.
+553726	Threonine--tRNA ligase.
+553726	Threonine--tRNA ligase.
+553774	In phosphorous-containing anhydrides.
+553774	In phosphorous-containing anhydrides.
+553840	4-coumarate--CoA ligase.
+553851	Alpha-glucosidase.
+553851	Alpha-glucosidase.
+553872	Carbonate dehydratase.
+553875	Carbonate dehydratase.
+553883	Carbonate dehydratase.
+553891	Acting on the CH-OH group of donors.
+553891	Acting on the CH-OH group of donors.
+553919	Arsenite-transporting ATPase.
+553924	8-amino-7-oxononanoate synthase.
+553954	Membrane alanine aminopeptidase.
+553970	Serine C-palmitoyltransferase.
+553991	Nardilysin.
+554212	DNA-directed RNA polymerase.
+554212	DNA-directed RNA polymerase.
+554212	DNA-directed RNA polymerase.
+554219	Guanine deaminase.
+554243	Amine oxidase (copper-containing).
+554243	Amine oxidase (copper-containing).
+554243	Amine oxidase (copper-containing).
+554243	Amine oxidase (copper-containing).
+554243	Amine oxidase (copper-containing).
+554243	Amine oxidase (copper-containing).
+554243	Amine oxidase (copper-containing).
+554243	Amine oxidase (copper-containing).
+554303	Adenosinetriphosphatase.
+554305	Ubiquitin--protein ligase.
+554319	Proteasome endopeptidase complex.
+554408	Adenosinetriphosphatase.
+554431	Serine/threonine specific protein phosphatase.
+554533	Adenosylmethionine--8-amino-7-oxononanoate aminotransferase.
+554579	Ubiquitin--protein ligase.
+554601	Polygalacturonase.
+554601	Polygalacturonase.
+554629	Pseudouridylate synthase.
+554747	Imidazolonepropionase.
+554757	Transferases for other substituted phosphate groups.
+554757	Transferases for other substituted phosphate groups.
+554757	Transferases for other substituted phosphate groups.
+554764	Uroporphyrinogen decarboxylase.
+554766	Glutathione transferase.
+554913	Lysosomal Pro-X carboxypeptidase.
+554980	Peptidylprolyl isomerase.
+554986	Acting on peptide bonds (peptide hydrolases).
+554986	Acting on peptide bonds (peptide hydrolases).
+555178	In linear amides.
+555178	In linear amides.
+555178	In linear amides.
+555178	In linear amides.
+555180	Dihydrolipoamide dehydrogenase.
+555180	Dihydrolipoamide dehydrogenase.
+555180	Dihydrolipoamide dehydrogenase.
+555180	Dihydrolipoamide dehydrogenase.
+555276	Oxidoreductases.
+555331	Nardilysin.
+555583	Acting on ester bonds.
+555615	Adenosinetriphosphatase.
+555647	Phosphotransferases with an alcohol group as acceptor.
+555647	Phosphotransferases with an alcohol group as acceptor.
+555647	Phosphotransferases with an alcohol group as acceptor.
+555647	Phosphotransferases with an alcohol group as acceptor.
+555647	Phosphotransferases with an alcohol group as acceptor.
+555690	Succinate dehydrogenase (ubiquinone).
+555690	Succinate dehydrogenase (ubiquinone).
+555787	Acyl-CoA dehydrogenase.
+555787	Acyl-CoA dehydrogenase.
+555787	Acyl-CoA dehydrogenase.
+555787	Acyl-CoA dehydrogenase.
+555845	Mitochondrial processing peptidase.
+556057	Peptidylprolyl isomerase.
+556109	Serine-type carboxypeptidases.
+556147	2-acetyl-1-alkylglycerophosphocholine esterase.
+556164	In phosphorous-containing anhydrides.
+556164	In phosphorous-containing anhydrides.
+556217	Methionyl aminopeptidase.
+556236	Ornithine--oxo-acid aminotransferase.
+556236	Ornithine--oxo-acid aminotransferase.
+556289	Aminomethyltransferase.
+556289	Aminomethyltransferase.
+556289	Aminomethyltransferase.
+556568	Transferring phosphorous-containing groups.
+556578	Acetylornithine deacetylase.
+556650	Polygalacturonase.
+556650	Polygalacturonase.
+556654	Polygalacturonase.
+556654	Polygalacturonase.
+556668	Polygalacturonase.
+556668	Polygalacturonase.
+556772	Aspartic endopeptidases.
+556776	Allantoicase.
+556787	Histone acetyltransferase.
+556806	Cysteine--tRNA ligase.
+556806	Cysteine--tRNA ligase.
+557010	Endopeptidase Clp.
+557029	Acting on paired donors, with incorporation or reduction of
+557029	Acting on paired donors, with incorporation or reduction of
+557029	Acting on paired donors, with incorporation or reduction of
+557029	Acting on paired donors, with incorporation or reduction of
+557177	Purine-nucleoside phosphorylase.
+557177	Purine-nucleoside phosphorylase.
+557177	Purine-nucleoside phosphorylase.
+557200	Dolichyl-diphosphooligosaccharide--protein glycosyltransferase.
+557210	Histone acetyltransferase.
+557220	Inositol-3,4-bisphosphate 4-phosphatase.
+557302	Acid--D-amino-acid ligases (peptide synthases).
+557302	Acid--D-amino-acid ligases (peptide synthases).
+557314	Carboxypeptidase C.
+557319	Carboxypeptidase C.
+557323	Serine-type carboxypeptidases.
+557337	Oxidoreductases.
+557443	Microtubule-severing ATPase.
+557566	Adenosinetriphosphatase.
+557877	Cholinephosphate cytidylyltransferase.
+557877	Cholinephosphate cytidylyltransferase.
+557952	Glutathione peroxidase.
+558097	Acting on the CH-OH group of donors.
+558097	Acting on the CH-OH group of donors.
+558170	Methionyl aminopeptidase.
+558277	Calcium-transporting ATPase.
+558540	Adenosinetriphosphatase.
+558578	Tripeptidyl-peptidase II.
+558581	H(+)-transporting two-sector ATPase.
+558581	H(+)-transporting two-sector ATPase.
+558581	H(+)-transporting two-sector ATPase.
+558713	Adenosinetriphosphatase.
+558917	L-arabinose isomerase.
+558946	Acting on paired donors, with incorporation or reduction of
+558946	Acting on paired donors, with incorporation or reduction of
+558946	Acting on paired donors, with incorporation or reduction of
+558946	Acting on paired donors, with incorporation or reduction of
+558971	L-arabinose isomerase.
+558976	L-arabinose isomerase.
+559042	DNA-directed DNA polymerase.
+559042	DNA-directed DNA polymerase.
+559042	DNA-directed DNA polymerase.
+559116	Aconitate hydratase.
+559116	Aconitate hydratase.
+559116	Aconitate hydratase.
+559271	Metalloendopeptidases.
+559338	Ubiquitin--protein ligase.
+559433	Palmitoyl-protein hydrolase.
+559559	Chitobiosyldiphosphodolichol alpha-mannosyltransferase.
+559780	Phosphotransferases with an alcohol group as acceptor.
+559780	Phosphotransferases with an alcohol group as acceptor.
+559780	Phosphotransferases with an alcohol group as acceptor.
+559780	Phosphotransferases with an alcohol group as acceptor.
+559780	Phosphotransferases with an alcohol group as acceptor.
+559908	In phosphorous-containing anhydrides.
+559908	In phosphorous-containing anhydrides.
+559923	Cysteine--tRNA ligase.
+559923	Cysteine--tRNA ligase.
+559927	Acid phosphatase.
+559927	Acid phosphatase.
+559972	Protein kinase.
+560110	Transferring groups other than amino-acyl groups.
+560110	Transferring groups other than amino-acyl groups.
+560110	Transferring groups other than amino-acyl groups.
+560110	Transferring groups other than amino-acyl groups.
+560110	Transferring groups other than amino-acyl groups.
+560110	Transferring groups other than amino-acyl groups.
+560110	Transferring groups other than amino-acyl groups.
+560110	Transferring groups other than amino-acyl groups.
+560110	Transferring groups other than amino-acyl groups.
+560110	Transferring groups other than amino-acyl groups.
+560110	Transferring groups other than amino-acyl groups.
+560110	Transferring groups other than amino-acyl groups.
+560110	Transferring groups other than amino-acyl groups.
+560169	Aspartate--tRNA ligase.
+560169	Aspartate--tRNA ligase.
+560298	Adenylate kinase.
+560561	Phosphoribosylaminoimidazole-succinocarboxamide synthase.
+560902	DNA-directed RNA polymerase.
+560902	DNA-directed RNA polymerase.
+560902	DNA-directed RNA polymerase.
+560911	NADH dehydrogenase.
+560976	Isoleucine--tRNA ligase.
+560976	Isoleucine--tRNA ligase.
+560995	Acylaminoacyl-peptidase.
+561125	2-acetyl-1-alkylglycerophosphocholine esterase.
+561229	Serine C-palmitoyltransferase.
+561240	Adenosinetriphosphatase.
+561259	Alanine--glyoxylate aminotransferase.
+561259	Alanine--glyoxylate aminotransferase.
+561514	Cysteine endopeptidases.
+561691	Protein kinase.
+561723	DNA-directed RNA polymerase.
+561723	DNA-directed RNA polymerase.
+561723	DNA-directed RNA polymerase.
+561936	Glucose-6-phosphate isomerase.
+561936	Glucose-6-phosphate isomerase.
+561936	Glucose-6-phosphate isomerase.
+561967	Acetylspermidine deacetylase.
+561980	Ubiquitin thiolesterase.
+562149	In phosphorous-containing anhydrides.
+562149	In phosphorous-containing anhydrides.
+562156	Chitin synthase.
+562433	Aminoacylase.
+562434	Aminoacylase.
+562442	Aldehyde dehydrogenase (NAD+).
+562442	Aldehyde dehydrogenase (NAD+).
+562442	Aldehyde dehydrogenase (NAD+).
+562442	Aldehyde dehydrogenase (NAD+).
+562442	Aldehyde dehydrogenase (NAD+).
+562442	Aldehyde dehydrogenase (NAD+).
+562442	Aldehyde dehydrogenase (NAD+).
+562442	Aldehyde dehydrogenase (NAD+).
+562442	Aldehyde dehydrogenase (NAD+).
+562442	Aldehyde dehydrogenase (NAD+).
+562442	Aldehyde dehydrogenase (NAD+).
+562442	Aldehyde dehydrogenase (NAD+).
+562442	Aldehyde dehydrogenase (NAD+).
+562442	Aldehyde dehydrogenase (NAD+).
+562442	Aldehyde dehydrogenase (NAD+).
+562505	Ubiquitin thiolesterase.
+562546	Electron-transferring-flavoprotein dehydrogenase.
+562574	Protein kinase.
+562582	Glutamine-fructose-6-phosphate transaminase (isomerizing).
+562582	Glutamine-fructose-6-phosphate transaminase (isomerizing).
+562689	Peptidylprolyl isomerase.
+562935	Myosin ATPase.
+562960	Ubiquitin thiolesterase.
+562964	Ubiquitin thiolesterase.
+562966	Hexosyltransferases.
+562966	Hexosyltransferases.
+562966	Hexosyltransferases.
+562966	Hexosyltransferases.
+562966	Hexosyltransferases.
+562966	Hexosyltransferases.
+562966	Hexosyltransferases.
+562966	Hexosyltransferases.
+562966	Hexosyltransferases.
+562966	Hexosyltransferases.
+562966	Hexosyltransferases.
+562990	Myo-inositol oxygenase.
+563175	Mannitol dehydrogenase.
+563203	Mannitol dehydrogenase.
+563206	Propionyl-CoA carboxylase.
+563206	Propionyl-CoA carboxylase.
+563280	GTP cyclohydrolase I.
+563404	Serine endopeptidases.
+563414	Cellulase.
+563486	Exoribonucleases producing 5'-phosphomonoesters.
+563500	Methylenetetrahydrofolate dehydrogenase (NAD+).
+563532	Serine endopeptidases.
+563545	Protein kinase.
+563593	[Ribulose-bisphosphate-carboxylase]-lysine N-methyltransferase.
+563667	Phosphoglycerate dehydrogenase.
+563754	L-arabinose isomerase.
+563757	L-arabinose isomerase.
+563844	Adenosinetriphosphatase.
+563877	Acting on acid anhydrides; catalyzing transmembrane movement
+563879	Acting on acid anhydrides; catalyzing transmembrane movement
+563883	In phosphorous-containing anhydrides.
+563883	In phosphorous-containing anhydrides.
+563934	Protein kinase.
+564009	Oxoglutarate dehydrogenase (lipoamide).
+564009	Oxoglutarate dehydrogenase (lipoamide).
+564009	Oxoglutarate dehydrogenase (lipoamide).
+564086	Thymidylate synthase.
+564086	Thymidylate synthase.
+564086	Thymidylate synthase.
+564159	Endopeptidases of unknown catalytic mechanism.
+564256	Acyl-CoA oxidase.
+564388	3-oxoacid CoA-transferase.
+564388	3-oxoacid CoA-transferase.
+564388	3-oxoacid CoA-transferase.
+564458	Glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase.
+564464	Heme oxygenase (decyclizing).
+564747	Histone acetyltransferase.
+564797	Protein-S isoprenylcysteine O-methyltransferase.
+564828	Protein-tyrosine-phosphatase.
+564831	Cytosine deaminase.
+564832	Threonine endopeptidases.
+564873	Acylglycerol lipase.
+564962	Leukotriene-A4 hydrolase.
+565004	Ubiquitin--protein ligase.
+565086	UDP-glucose 4-epimerase.
+565086	UDP-glucose 4-epimerase.
+565105	O-sialoglycoprotein endopeptidase.
+565241	Ubiquitin--protein ligase.
+565265	Ubiquitin--protein ligase.
+565272	Acid--D-amino-acid ligases (peptide synthases).
+565272	Acid--D-amino-acid ligases (peptide synthases).
+565311	Arginine--tRNA ligase.
+565311	Arginine--tRNA ligase.
+565318	Palmitoyl-protein hydrolase.
+565467	Trypsin.
+565494	Aminoacyl-tRNA hydrolase.
+565546	Ceramide cholinephosphotransferase.
+565646	2-acetyl-1-alkylglycerophosphocholine esterase.
+565693	Protein kinase.
+565700	H(+)-transporting two-sector ATPase.
+565700	H(+)-transporting two-sector ATPase.
+565700	H(+)-transporting two-sector ATPase.
+565718	Acid--D-amino-acid ligases (peptide synthases).
+565718	Acid--D-amino-acid ligases (peptide synthases).
+565730	Exo-alpha-sialidase.
+565730	Exo-alpha-sialidase.
+565780	Acting on the CH-OH group of donors.
+565780	Acting on the CH-OH group of donors.
+565848	With NAD(+) or NADP(+) as acceptor.
+565848	With NAD(+) or NADP(+) as acceptor.
+565848	With NAD(+) or NADP(+) as acceptor.
+565848	With NAD(+) or NADP(+) as acceptor.
+565848	With NAD(+) or NADP(+) as acceptor.
+565848	With NAD(+) or NADP(+) as acceptor.
+565848	With NAD(+) or NADP(+) as acceptor.
+565848	With NAD(+) or NADP(+) as acceptor.
+565848	With NAD(+) or NADP(+) as acceptor.
+565848	With NAD(+) or NADP(+) as acceptor.
+565848	With NAD(+) or NADP(+) as acceptor.
+565848	With NAD(+) or NADP(+) as acceptor.
+565873	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+565873	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+565873	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+565873	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+565983	Adenosinetriphosphatase.
+565996	With NAD(+) or NADP(+) as acceptor.
+565996	With NAD(+) or NADP(+) as acceptor.
+565996	With NAD(+) or NADP(+) as acceptor.
+565996	With NAD(+) or NADP(+) as acceptor.
+565996	With NAD(+) or NADP(+) as acceptor.
+565996	With NAD(+) or NADP(+) as acceptor.
+565996	With NAD(+) or NADP(+) as acceptor.
+565996	With NAD(+) or NADP(+) as acceptor.
+565996	With NAD(+) or NADP(+) as acceptor.
+565996	With NAD(+) or NADP(+) as acceptor.
+565996	With NAD(+) or NADP(+) as acceptor.
+565996	With NAD(+) or NADP(+) as acceptor.
+566063	Malate dehydrogenase (oxaloacetate decarboxylating) (NADP+).
+566063	Malate dehydrogenase (oxaloacetate decarboxylating) (NADP+).
+566163	Protein disulfide isomerase.
+566170	Serine/threonine specific protein phosphatase.
+566393	1-phosphatidylinositol 3-kinase.
+566651	Acting on acid anhydrides; catalyzing transmembrane movement
+566709	Adenosinetriphosphatase.
+566759	Hydroxyacylglutathione hydrolase.
+566818	Ubiquitin--protein ligase.
+566837	With oxygen as acceptor.
+566838	Glycine--tRNA ligase.
+566838	Glycine--tRNA ligase.
+566968	1-phosphatidylinositol 3-kinase.
+567013	Adenylate cyclase.
+567041	Myosin ATPase.
+567143	Fumarylacetoacetase.
+567143	Fumarylacetoacetase.
+567221	Procollagen-proline,2-oxoglutarate-4-dioxygenase.
+567398	Lanosterol synthase.
+567458	Protein kinase.
+567602	Serine endopeptidases.
+567616	Adenosinetriphosphatase.
+567649	Transferring groups other than amino-acyl groups.
+567649	Transferring groups other than amino-acyl groups.
+567649	Transferring groups other than amino-acyl groups.
+567649	Transferring groups other than amino-acyl groups.
+567649	Transferring groups other than amino-acyl groups.
+567649	Transferring groups other than amino-acyl groups.
+567649	Transferring groups other than amino-acyl groups.
+567649	Transferring groups other than amino-acyl groups.
+567649	Transferring groups other than amino-acyl groups.
+567649	Transferring groups other than amino-acyl groups.
+567649	Transferring groups other than amino-acyl groups.
+567649	Transferring groups other than amino-acyl groups.
+567649	Transferring groups other than amino-acyl groups.
+567679	Alpha-N-acetylglucosaminidase.
+567898	Proteasome endopeptidase complex.
+567966	Cathepsin L.
+568002	1-phosphatidylinositol-4-phosphate kinase.
+568092	1,3-beta-glucan synthase.
+568375	Phospholipase D.
+568375	Phospholipase D.
+568475	Beta-glucosidase.
+568475	Beta-glucosidase.
+568475	Beta-glucosidase.
+568605	Legumain.
+568641	Acid--D-amino-acid ligases (peptide synthases).
+568641	Acid--D-amino-acid ligases (peptide synthases).
+568672	Inositol-1,3,4,5-tetrakisphosphate 3-phosphatase.
+568775	Sphinganine-1-phosphate aldolase.
+568885	Ubiquitin thiolesterase.
+568926	L-arabinose isomerase.
+568930	Protein-tyrosine-phosphatase.
+568939	In phosphorous-containing anhydrides.
+568939	In phosphorous-containing anhydrides.
+568946	In phosphorous-containing anhydrides.
+568946	In phosphorous-containing anhydrides.
+568948	Tryptophan synthase.
+569223	Transferring groups other than amino-acyl groups.
+569223	Transferring groups other than amino-acyl groups.
+569223	Transferring groups other than amino-acyl groups.
+569223	Transferring groups other than amino-acyl groups.
+569223	Transferring groups other than amino-acyl groups.
+569223	Transferring groups other than amino-acyl groups.
+569223	Transferring groups other than amino-acyl groups.
+569223	Transferring groups other than amino-acyl groups.
+569223	Transferring groups other than amino-acyl groups.
+569223	Transferring groups other than amino-acyl groups.
+569223	Transferring groups other than amino-acyl groups.
+569223	Transferring groups other than amino-acyl groups.
+569223	Transferring groups other than amino-acyl groups.
+569276	Phosphotransferases with an alcohol group as acceptor.
+569276	Phosphotransferases with an alcohol group as acceptor.
+569276	Phosphotransferases with an alcohol group as acceptor.
+569276	Phosphotransferases with an alcohol group as acceptor.
+569276	Phosphotransferases with an alcohol group as acceptor.
+569290	Methyltransferases.
+569290	Methyltransferases.
+569290	Methyltransferases.
+569290	Methyltransferases.
+569290	Methyltransferases.
+569290	Methyltransferases.
+569290	Methyltransferases.
+569290	Methyltransferases.
+569314	Histone acetyltransferase.
+569399	Protein-tyrosine-phosphatase.
+569416	Dolichyl-phosphate-mannose-glycolipid alpha-mannosyltransferase.
+569421	15-hydroxyprostaglandin dehydrogenase (NAD+).
+569541	Aspartate aminotransferase.
+569541	Aspartate aminotransferase.
+569541	Aspartate aminotransferase.
+569541	Aspartate aminotransferase.
+569541	Aspartate aminotransferase.
+569541	Aspartate aminotransferase.
+569541	Aspartate aminotransferase.
+569541	Aspartate aminotransferase.
+569541	Aspartate aminotransferase.
+569772	Glucan 1,3-beta-glucosidase.
+570091	Adenosinetriphosphatase.
+570119	Tryptophan--tRNA ligase.
+570119	Tryptophan--tRNA ligase.
+570151	Alpha-glucosidase.
+570151	Alpha-glucosidase.
+570348	Hydroxymethylglutaryl-CoA lyase.
+570348	Hydroxymethylglutaryl-CoA lyase.
+570348	Hydroxymethylglutaryl-CoA lyase.
+570517	Metalloendopeptidases.
+570550	Proteasome endopeptidase complex.
+570704	Ligases forming aminoacyl-tRNA and related compounds.
+570824	Cystathionine beta-synthase.
+570824	Cystathionine beta-synthase.
+570824	Cystathionine beta-synthase.
+570961	DNA ligase (ATP).
+570990	NADH dehydrogenase.
+571032	Pantothenate kinase.
+571066	Leucyl aminopeptidase.
+571146	Alanine--tRNA ligase.
+571146	Alanine--tRNA ligase.
+571169	Endopeptidases of unknown catalytic mechanism.
+571185	Guanylate kinase.
+571208	Mevalonate kinase.
+571228	Creatine kinase.
+571228	Creatine kinase.
+571248	Proteasome endopeptidase complex.
+571315	Peptidylprolyl isomerase.
+571532	L-arabinose isomerase.
+571603	H(+)-transporting two-sector ATPase.
+571603	H(+)-transporting two-sector ATPase.
+571603	H(+)-transporting two-sector ATPase.
+571672	1-phosphatidylinositol 3-kinase.
+571681	Methionyl aminopeptidase.
+571683	Methionyl aminopeptidase.
+571712	Proteasome endopeptidase complex.
+571726	Histone-lysine N-methyltransferase.
+571738	In phosphorous-containing anhydrides.
+571738	In phosphorous-containing anhydrides.
+571799	Acting on acid anhydrides.
+571831	Oligopeptidase B.
+571913	With other acceptors.
+571913	With other acceptors.
+571913	With other acceptors.
+571925	Superoxide dismutase.
+572070	Acid--D-amino-acid ligases (peptide synthases).
+572070	Acid--D-amino-acid ligases (peptide synthases).
+572181	Neurolysin.
+572182	6-phosphogluconolactonase.
+572245	Sulfuric ester hydrolases.
+572304	Mannose-1-phosphate guanylyltransferase.
+572347	[Acyl-carrier protein] S-malonyltransferase.
+572364	Purine nucleosidase.
+572364	Purine nucleosidase.
+572373	Ligases forming aminoacyl-tRNA and related compounds.
+572387	Adenosinetriphosphatase.
+572488	In phosphorous-containing anhydrides.
+572488	In phosphorous-containing anhydrides.
+572606	Lysosomal Pro-X carboxypeptidase.
+572630	Ribose-phosphate pyrophosphokinase.
+572630	Ribose-phosphate pyrophosphokinase.
+572658	Beta-galactosidase.
+572658	Beta-galactosidase.
+572658	Beta-galactosidase.
+572658	Beta-galactosidase.
+572658	Beta-galactosidase.
+572694	Acting on peptide bonds (peptide hydrolases).
+572694	Acting on peptide bonds (peptide hydrolases).
+572705	Histone acetyltransferase.
+572711	Proteasome endopeptidase complex.
+572720	Metalloendopeptidases.
+572779	Transferring other groups.
+572889	Ubiquitin thiolesterase.
+573033	4-aminobutyrate aminotransferase.
+573033	4-aminobutyrate aminotransferase.
+573033	4-aminobutyrate aminotransferase.
+573033	4-aminobutyrate aminotransferase.
+573033	4-aminobutyrate aminotransferase.
+573117	Cytidylate kinase.
+573119	H(+)-transporting two-sector ATPase.
+573119	H(+)-transporting two-sector ATPase.
+573119	H(+)-transporting two-sector ATPase.
+573181	Serine-type carboxypeptidases.
+573184	Exoribonucleases producing 5'-phosphomonoesters.
+573197	Glycine--tRNA ligase.
+573197	Glycine--tRNA ligase.
+573444	Uroporphyrin-III C-methyltransferase.
+573493	In phosphorous-containing anhydrides.
+573493	In phosphorous-containing anhydrides.
+573510	Proteasome endopeptidase complex.
+573584	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+573584	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+573584	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+573584	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl
+573647	Ethanolamine kinase.
+573651	Adenosinetriphosphatase.
+573656	NADH dehydrogenase.
+573663	1-phosphatidylinositol-4-phosphate kinase.
+573669	Methyltransferases.
+573669	Methyltransferases.
+573669	Methyltransferases.
+573669	Methyltransferases.
+573669	Methyltransferases.
+573669	Methyltransferases.
+573669	Methyltransferases.
+573669	Methyltransferases.
+573714	Myosin ATPase.
+573771	Peptide alpha-N-acetyltransferase.
+573800	4-coumarate--CoA ligase.
+573832	Carbonate dehydratase.
+573837	Carbonate dehydratase.
+573934	Protein kinase.
+573963	Succinate-semialdehyde dehydrogenase.
+573963	Succinate-semialdehyde dehydrogenase.
+574324	Acting on paired donors, with incorporation or reduction of
+574324	Acting on paired donors, with incorporation or reduction of
+574324	Acting on paired donors, with incorporation or reduction of
+574324	Acting on paired donors, with incorporation or reduction of
+574356	Ubiquinol--cytochrome c reductase.
+574436	Deoxyribodipyrimidine photolyase.
+574442	Homocysteine S-methyltransferase.
+574490	Pyruvate carboxylase.
+574490	Pyruvate carboxylase.
+574490	Pyruvate carboxylase.
+574577	Hexosyltransferases.
+574577	Hexosyltransferases.
+574577	Hexosyltransferases.
+574577	Hexosyltransferases.
+574577	Hexosyltransferases.
+574577	Hexosyltransferases.
+574577	Hexosyltransferases.
+574577	Hexosyltransferases.
+574577	Hexosyltransferases.
+574577	Hexosyltransferases.
+574577	Hexosyltransferases.
+574719	Serine/threonine specific protein phosphatase.
+574726	Oxoglutarate dehydrogenase (lipoamide).
+574726	Oxoglutarate dehydrogenase (lipoamide).
+574726	Oxoglutarate dehydrogenase (lipoamide).
+574738	Formate--tetrahydrofolate ligase.
+574738	Formate--tetrahydrofolate ligase.
+574738	Formate--tetrahydrofolate ligase.
+574911	Peptidylprolyl isomerase.
+574924	Sphinganine kinase.
+574927	Proteasome endopeptidase complex.
+575086	Acyl-CoA oxidase.
+575238	Acting on peptide bonds (peptide hydrolases).
+575238	Acting on peptide bonds (peptide hydrolases).
+575325	Methylmalonate-semialdehyde dehydrogenase (acylating).
+575325	Methylmalonate-semialdehyde dehydrogenase (acylating).
+575325	Methylmalonate-semialdehyde dehydrogenase (acylating).
+575588	Dihydrolipoamide S-succinyltransferase.
+575588	Dihydrolipoamide S-succinyltransferase.
+575764	Adenosinetriphosphatase.
+575863	Xaa-Pro dipeptidase.
+575955	1,3-beta-glucan synthase.
+576097	Protein kinase.
+576111	Urate oxidase.
+576113	Urate oxidase.
+576122	Proteasome endopeptidase complex.
+576155	Oxoglutarate dehydrogenase (lipoamide).
+576155	Oxoglutarate dehydrogenase (lipoamide).
+576155	Oxoglutarate dehydrogenase (lipoamide).
+576203	AMP deaminase.
+576261	Adenylylsulfate kinase.
+576261	Adenylylsulfate kinase.
+576261	Adenylylsulfate kinase.
+576493	In phosphorous-containing anhydrides.
+576493	In phosphorous-containing anhydrides.
+576541	DNA-directed RNA polymerase.
+576541	DNA-directed RNA polymerase.
+576541	DNA-directed RNA polymerase.
+576761	DNA topoisomerase (ATP-hydrolysing).
+576784	NADPH--ferrihemoprotein reductase.
+576874	Ubiquitin--protein ligase.
+576877	3-oxoacyl-[acyl-carrier protein] reductase.
+576926	Peptidylprolyl isomerase.
+576985	In phosphorous-containing anhydrides.
+576985	In phosphorous-containing anhydrides.
+576993	Acting on peptide bonds (peptide hydrolases).
+576993	Acting on peptide bonds (peptide hydrolases).
+576999	Mannose-6-phosphate isomerase.
+577113	NADPH:quinone reductase.
+577126	Adenosinetriphosphatase.
+577134	Exoribonucleases producing 5'-phosphomonoesters.
+577212	1-phosphatidylinositol 4-kinase.
+577213	Peptidylprolyl isomerase.
+577313	Ribonuclease P.
+577314	DNA-directed DNA polymerase.
+577314	DNA-directed DNA polymerase.
+577314	DNA-directed DNA polymerase.
+577335	Carboxylesterase.
+577399	Methionine--tRNA ligase.
+577399	Methionine--tRNA ligase.
+577399	Methionine--tRNA ligase.
+577414	(S)-2-hydroxy-acid oxidase.
+577453	Proteasome endopeptidase complex.
+577558	3-dehydrosphinganine reductase.
+577618	Glutamate synthase (NADPH).
+577618	Glutamate synthase (NADPH).
+577663	Adenosinetriphosphatase.
+577733	Acid--D-amino-acid ligases (peptide synthases).
+577733	Acid--D-amino-acid ligases (peptide synthases).
