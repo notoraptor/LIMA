@@ -1,15 +1,17 @@
 # GUIDE DES ÉTAPES EXÉCUTÉES SUR LE JEU DE DONNÉEES UTILISÉ DANS LE MÉMOIRE
-## DOSSIER DE TRAVAIL
-_test_data
-## EXTRACTION DES ANNOTATIONS DES INTRONS
-Format de syntaxe:
 
-`java lima.<plateforme>.<typeAnnotation>.getIntrons fichierAnnotation [prefixeGeneID] [prefixeTranscriptID] > fichierSortie.introns`
+Dossier de travail: `_test_data`
+
+## EXTRACTION DES ANNOTATIONS DES INTRONS
+
+**Format de syntaxe:**
+```
+java lima.<plateforme>.<typeAnnotation>.getIntrons fichierAnnotation [prefixeGeneID] [prefixeTranscriptID] > fichierSortie.introns
+```
 * Les paramètres prefixeGeneID et prefixeTranscriptID ne sont pas disponibles pour les fichiers GFF3 de EnsemblProtists.
 * Il s'agit de préfixes (facultatifs) à ajouter aux IDs des gènes et des transcrits dans les annotations des introns générées en sortie. Ils permettent de distinguer si nécessaire des annotations d'introns de différentes espèces si les IDs initiaux des gènes et des transcrits étaient de simples nombres. Par exemple, cela permettrait de distinguer, si nécessaire le transcrit 1000 de l'espèce Phythophthora infestans et le transcrit 1000 de l'espèce Phythophthora cinnammomi.
-Commandes utilisées:
 
-Dossier `_test_data\work\introns_annotations`
+**Commandes utilisées: dossier `_test_data\work\introns_annotations`:**
 ```
 java lima.ensemblProtists.gtf.getIntrons genome-annotations/uncompressed/Albugo_laibachii.ENA1.21.gtf > albu.introns
 java lima.ensemblProtists.gtf.getIntrons genome-annotations/uncompressed/Hyaloperonospora_arabidopsidis.HyaAraEmoy2_2.0.21.gtf > hyal.introns
@@ -21,7 +23,9 @@ java lima.ensemblProtists.gtf.getIntrons genome-annotations/uncompressed/Phytoph
 java lima.ensemblProtists.gtf.getIntrons genome-annotations/uncompressed/Phytophthora_sojae.ASM14975v1.21.gtf > phso.introns
 java lima.ensemblProtists.gtf.getIntrons genome-annotations/uncompressed/Pythium_ultimum.pug.21.gtf > pyul.introns
 ```
+
 ##COLLECTE DE STATISTIQUES SUR LES LONGUEURS DES INTRONS
+
 Le programme java lima.intronsLengthsBySpecies collecte des informations sur les longueurs des introns des espèces étudiées. Il analyse les fichiers « .introns » d’un dossier et en déduit pour chaque espèce:
 * les longueurs d’introns rencontrées.
 * le nombre d’occurences de chaque longueur.
@@ -33,20 +37,29 @@ Le programme génère aussi un rapport dans la sortie standard sous la forme d�
 * La longueur moyenne d’un intron.
 * La longueur d’intron la plus représentée.
 * Le nombre d’occurrences de la longueur d’intron la plus représentée.
-Syntaxe d'utilisation:
-`java lima.intronsLengthsBySpecies dossierIntrons dossierSortie`
-Commande utilisée: dossier introns_annotations:
-`java lima.intronsLengthsBySpecies . intronsLengthsBySpecies > intronsLenghtsBySpecies.txt`
+
+**Syntaxe d'utilisation:**
+```
+java lima.intronsLengthsBySpecies dossierIntrons dossierSortie
+```
+**Commande utilisée: dossier `introns_annotations`:**
+```
+java lima.intronsLengthsBySpecies . intronsLengthsBySpecies > intronsLenghtsBySpecies.txt
+```
 Le rapport intronsLenghtsBySpecies.txt a ensuite été déplacé dans le dossier nouvellement créé intronsLenghtsBySpecies.
 
 Le dossier intronsLengthsBySpecies contient pour chaque espèce un fichier .lengths à deux colonnes : longueurs d’introns et nombre d’occurences pour chaque longueur. Les colonnes sont triées par ordre croissant des longueurs d’introns.
+
 ##CONSTRUCTION DES FAMILLES DE PROTÉINES AVEC ORTHOMCL
+
 Le fichier etape_OrthoMCL.txt fait le bilan détaillé de l'exécution d'OrthoMCL sur notre jeu de données.
 
 Le fichier finalement généré est le fichier groups.txt disponible dans le dossier _test_data/work/my_orthomcl_dir.
 
 Ce fichier contient la liste des familles générées par OrthoMCL. Chaque ligne du fichier représente une famille, dans le format suivant:
-`idFamille: idProteine1 idProteine2 idProteine3 ... idProteineN`
+```
+idFamille: idProteine1 idProteine2 idProteine3 ... idProteineN
+```
 18 955 familles ont été générées.
 ##GÉNÉRATION DES FICHIERS FASTA DES FAMILLES DE PROTÉINES
 Format de syntaxe:
