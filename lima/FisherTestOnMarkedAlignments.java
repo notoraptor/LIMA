@@ -171,6 +171,7 @@ public class FisherTestOnMarkedAlignments {
 					if(filesCount % 500 == 0) System.err.println(filesCount + " fichiers traitEs.");
 				};
 			};
+			System.err.println(filesCount + " fichiers finalement traitEs.");
 			System.out.println("##filesChecked\t" + filesCount);
 			System.out.println("##windowLength\t" + windowLength);
 			System.out.println("#EMPTY\tGAP\tINTRON\tGAPINTRON");
