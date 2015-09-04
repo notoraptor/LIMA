@@ -1,5 +1,4 @@
-# LIMA
-Local Intronic Mutations Analysis (LIMA)
+# LIMA (Local Intronic Mutations Analysis)
 
 Le dossier "lima" contient les codes des programmes écrits en JAVA et en PHP pendant le développement de la méthode.
 
