@@ -99,7 +99,8 @@ Lien de téléchargement de la dernière version de BLAST: ftp://ftp.ncbi.nlm.ni
 
 **Application**
 
-** *1. Création de la base de données:* **
+**_1. Création de la base de données:_**
+
 *Commande:*
 ```
 makeblastdb -dbtype prot -in goodProteins.fasta -input_type fasta -title goodProteinsBlastDB -hash_index -out goodProteinsBlastDB
@@ -116,89 +117,127 @@ goodProteinsBlastDB.phr
 goodProteinsBlastDB.psd
 ````
 
-**_ 2. exécution de BLAST pour chaque espèce contre la même base de données: _**
-	Exécution parallèle de 9 scripts, chacun pour 1 espèce:
-		#script 1
-		blastp -query compliantFasta/albu.fasta -db goodProteinsBlastDB -out albu.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-albu.txt 2> erreur-albu.txt
-		echo fin albu >> sortie-albu.txt
-		#script 2
-		blastp -query compliantFasta/hyal.fasta -db goodProteinsBlastDB -out hyal.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-hyal.txt 2> erreur-hyal.txt
-		echo fin hyal >> sortie-hyal.txt
-		#script 3
-		blastp -query compliantFasta/phca.fasta -db goodProteinsBlastDB -out phca.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-phca.txt 2> erreur-phca.txt
-		echo fin phca >> sortie-phca.txt
-		#script 4
-		blastp -query compliantFasta/phci.fasta -db goodProteinsBlastDB -out phci.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-phci.txt 2> erreur-phci.txt
-		echo fin phci >> sortie-phci.txt
-		#script 5
-		blastp -query compliantFasta/phin.fasta -db goodProteinsBlastDB -out phin.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-phin.txt 2> erreur-phin.txt
-		echo fin phin >> sortie-phin.txt
-		#script 6
-		blastp -query compliantFasta/phpa.fasta -db goodProteinsBlastDB -out phpa.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-phpa.txt 2> erreur-phpa.txt
-		echo fin phpa >> sortie-phpa.txt
-		#script 7
-		blastp -query compliantFasta/phra.fasta -db goodProteinsBlastDB -out phra.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-phra.txt 2> erreur-phra.txt
-		echo fin phra >> sortie-phra.txt
-		#script 8
-		blastp -query compliantFasta/phso.fasta -db goodProteinsBlastDB -out phso.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-phso.txt 2> erreur-phso.txt
-		echo fin phso >> sortie-phso.txt
-		#script 9
-		blastp -query compliantFasta/pyul.fasta -db goodProteinsBlastDB -out ../blastOut/pyul.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-pyul.txt 2> erreur-pyul.txt
-		echo fin pyul >> sortie-pyul.txt
-	Sorties finales:
-		Fichiers sortie-[espece].txt et erreur-[espece].txt pour chacune des 9 espèces.
-			Tous les fichiers sortie-*.txt contenaient « fin [espèce] ».
-			Seules 2 erreurs détectées dans les fichiers erreur-phca.txt et erreur-phci.txt. Contenu de ces deux fichiers :
-				Warning: lcl|Query_887 phca|109327: Warning: Could not calculate ungapped Karlin-Altschul parameters due to an invalid query sequence or its translation. Please verify the query sequence(s) and/or filtering options
-				Warning: lcl|Query_8449 phci|92918: Warning: Could not calculate ungapped Karlin-Altschul parameters due to an invalid query sequence or its translation. Please verify the query sequence(s) and/or filtering options
-			Donc deux protéines au total ont été ignorées :
-				phca|109327
-				phci|92918
-		Fichiers [espece].out.blast pour chacune des 9 espèces
+**_2. exécution de BLAST pour chaque espèce contre la même base de données:_**
+
+Exécution parallèle de 9 scripts, chacun pour 1 espèce:
+```
+#script 1
+blastp -query compliantFasta/albu.fasta -db goodProteinsBlastDB -out albu.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-albu.txt 2> erreur-albu.txt
+echo fin albu >> sortie-albu.txt
+#script 2
+blastp -query compliantFasta/hyal.fasta -db goodProteinsBlastDB -out hyal.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-hyal.txt 2> erreur-hyal.txt
+echo fin hyal >> sortie-hyal.txt
+#script 3
+blastp -query compliantFasta/phca.fasta -db goodProteinsBlastDB -out phca.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-phca.txt 2> erreur-phca.txt
+echo fin phca >> sortie-phca.txt
+#script 4
+blastp -query compliantFasta/phci.fasta -db goodProteinsBlastDB -out phci.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-phci.txt 2> erreur-phci.txt
+echo fin phci >> sortie-phci.txt
+#script 5
+blastp -query compliantFasta/phin.fasta -db goodProteinsBlastDB -out phin.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-phin.txt 2> erreur-phin.txt
+echo fin phin >> sortie-phin.txt
+#script 6
+blastp -query compliantFasta/phpa.fasta -db goodProteinsBlastDB -out phpa.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-phpa.txt 2> erreur-phpa.txt
+echo fin phpa >> sortie-phpa.txt
+#script 7
+blastp -query compliantFasta/phra.fasta -db goodProteinsBlastDB -out phra.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-phra.txt 2> erreur-phra.txt
+echo fin phra >> sortie-phra.txt
+#script 8
+blastp -query compliantFasta/phso.fasta -db goodProteinsBlastDB -out phso.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-phso.txt 2> erreur-phso.txt
+echo fin phso >> sortie-phso.txt
+#script 9
+blastp -query compliantFasta/pyul.fasta -db goodProteinsBlastDB -out ../blastOut/pyul.out.blast -evalue 10 -outfmt 6 -seg yes -num_threads 2 > sortie-pyul.txt 2> erreur-pyul.txt
+echo fin pyul >> sortie-pyul.txt
+```
+
+*Sorties finales:*
+* Fichiers sortie-[espece].txt et erreur-[espece].txt pour chacune des 9 espèces.
+  * Tous les fichiers sortie-*.txt contenaient « fin [espèce] ».
+  * Seules 2 erreurs détectées dans les fichiers erreur-phca.txt et erreur-phci.txt. Contenu de ces deux fichiers :
+    * `Warning: lcl|Query_887 phca|109327: Warning: Could not calculate ungapped Karlin-Altschul parameters due to an invalid query sequence or its translation. Please verify the query sequence(s) and/or filtering options`
+    * `Warning: lcl|Query_8449 phci|92918: Warning: Could not calculate ungapped Karlin-Altschul parameters due to an invalid query sequence or its translation. Please verify the query sequence(s) and/or filtering options`
+  * Donc deux protéines au total ont été ignorées :
+    * `phca|109327`
+    * `phci|92918`
+* Fichiers [espece].out.blast pour chacune des 9 espèces
 
 ** _3. Concaténation des fichiers de sortie de BLASTP _**
-	Commande :
-		cat *.out.blast > superFile.out.blast
-	Le fichier superFile.out.blast fait 2,10 Go (mesuré sur Windows 8.1). Il s'agit du fichier final de cette étape.
+*Commande:*
+```
+cat *.out.blast > superFile.out.blast
+```
+
+Le fichier `superFile.out.blast` fait 2,10 Go (mesuré sur Windows 8.1). Il s'agit du fichier final de cette étape.
+
 ##(8) run orthomclBlastParser on the NCBI BLAST tab output to create a file of similarities in the required format
-    Commande:
-        orthomclBlastParser superFile.out.blast compliantFasta/ > similarSequences.txt
-    Sortie: dossier my_orthomcl_dir
-        Fichier similarSequences.txt (1,20 Go; mesuré sur Windows 8.1).
+
+**Commande:**
+```
+orthomclBlastParser superFile.out.blast compliantFasta/ > similarSequences.txt
+```
+
+**Sortie: dossier `my_orthomcl_dir`:**
+* Fichier `similarSequences.txt` (1,20 Go; mesuré sur Windows 8.1).
+
 ##(9) run orthomclLoadBlast to load the output of orthomclBlastParser into the database.
-    Commande:
-        orthomclLoadBlast orthomcl.config similarSequences.txt
-    Sortie:
-        Le script a apparemment travaillé sur les tables de la base de données MySQL « orthomcl ». Certaines tables ont été remplies.
-        # Les autres tables ne contenaient aucune entrée à cette étape.
-			mysql> SELECT COUNT(*) FROM InterTaxonMatch
-			+----------+
-			| COUNT(*) |
-			+----------+
-			| 18801550 |
-			mysql> SELECT COUNT(*) FROM SimilarSequences;
-			+----------+
-			| COUNT(*) |
-			+----------+
-			| 22784385 |
-			+----------+
-	Cette étape a duré plusieurs heures, mais je n'avais pas mesuré précisément le nombre total d'heures écoulées.
-	Problèmes rencontrés:
-		Pour que cette étape fonctionne, il fallait que MySQL soit exécutée avec une option « local-infile ».
-		J’ai finalement trouvé une solution sur stackoverflow : http://stackoverflow.com/questions/13155057/load-local-infile-not-allowed-perl-mysql
-		Il fallait modifier le fichier orthomcl.config et le fichier /etc/mysql/my.conf !
+
+**Commande:**
+```
+orthomclLoadBlast orthomcl.config similarSequences.txt
+```
+
+**Sortie:**
+
+Le script a apparemment travaillé sur les tables de la base de données MySQL « orthomcl ». Certaines tables ont été remplies.
+```
+mysql> SELECT COUNT(*) FROM InterTaxonMatch
++----------+
+| COUNT(*) |
++----------+
+| 18801550 |
+mysql> SELECT COUNT(*) FROM SimilarSequences;
++----------+
+| COUNT(*) |
++----------+
+| 22784385 |
++----------+
+```
+
+Cette étape a duré plusieurs heures, mais je n'avais pas mesuré précisément le nombre total d'heures écoulées.
+
+**Problèmes rencontrés:**
+
+Pour que cette étape fonctionne, il fallait que MySQL soit exécutée avec une option « local-infile ».
+
+J’ai finalement trouvé une solution sur stackoverflow : http://stackoverflow.com/questions/13155057/load-local-infile-not-allowed-perl-mysql
+
+Il fallait modifier le fichier orthomcl.config et le fichier /etc/mysql/my.conf !
+
 ##(10) run the orthomclPairs program to compute pairwise relationships.
-	Commande:
-		orthomclPairs orthomcl.config orthomclPairs.logfile.txt cleanup=yes  > sortie-orthomcl-pairs.txt 2> erreurs-orthomcl-pairs.txt &
-	L’exécution s’était arrêtée quand tout mon disque avait été rempli. Pour relancer l’exécution, j’ai utilisé la commande suivante:
-		orthomclPairs orthomcl.config orthomclPairs.logfile.txt cleanup=yes startAfter=useLog  > sortie-orthomcl-pairs.txt 2> erreurs-orthomcl-pairs.txt &
-	Sortie : modification de la base de données par OrthoMCL.
+**Commande:**
+```
+orthomclPairs orthomcl.config orthomclPairs.logfile.txt cleanup=yes  > sortie-orthomcl-pairs.txt 2> erreurs-orthomcl-pairs.txt &
+```
+
+L’exécution s’était arrêtée quand tout mon disque avait été rempli. Pour relancer l’exécution, j’ai utilisé la commande suivante:
+```
+orthomclPairs orthomcl.config orthomclPairs.logfile.txt cleanup=yes startAfter=useLog  > sortie-orthomcl-pairs.txt 2> erreurs-orthomcl-pairs.txt &
+```
+
+**Sortie:** modification de la base de données par OrthoMCL.
+
 ##(11) run the orthomclDumpPairsFiles program to dump the pairs/ directory from the database
-	Sortie : dossier « pairs » et fichier « mclInput », disponibles dans my_orthomcl_dir/pairs-and-mcl-input.zip
+
+**Sortie:** dossier « pairs » et fichier « mclInput », disponibles dans my_orthomcl_dir/pairs-and-mcl-input.zip
+
 ##(12) run the mcl program on the mcl_input.txt file created in Step 11.
-	Exécution dans le dossier my_orthomcl_dir.
-	Sortie : fichier mclOutput, fichier journal journal=mcl.txt, disponibles dans my_orthomcl_dir.
+
+Exécution dans le dossier my_orthomcl_dir.
+
+Sortie : fichier mclOutput, fichier journal journal=mcl.txt, disponibles dans my_orthomcl_dir.
+
 ##(13) run orthomclMclToGroups to convert mcl output to groups.txt
-	Sortie : Fichier final groups.txt, disponibles dans my_orthomcl_dir.
+
+Sortie : Fichier final groups.txt, disponibles dans my_orthomcl_dir.
 
 Le fichier `groups.txt` contient donc la liste des familles trouvées par OrthoMCL !
