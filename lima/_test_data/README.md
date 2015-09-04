@@ -61,9 +61,13 @@ Ce fichier contient la liste des familles générées par OrthoMCL. Chaque ligne
 idFamille: idProteine1 idProteine2 idProteine3 ... idProteineN
 ```
 18 955 familles ont été générées.
+
 ##GÉNÉRATION DES FICHIERS FASTA DES FAMILLES DE PROTÉINES
+
 Format de syntaxe:
-`java lima.builGroups listeGroupesOrthoMCL dossierSequences dossierSortie`
+```
+java lima.builGroups listeGroupesOrthoMCL dossierSequences dossierSortie
+```
 * listeGroupesOrthoMCL: fichier groups.txt
 * dossierSequences
   * Dossier contenant les fichiers .fasta dans lesquels on peut trouver les séquences des groupes.
@@ -72,14 +76,22 @@ Format de syntaxe:
 * dossierSortie
   * Dossier de sortie (sera créé par ce programme). *** Le dossier ne doit pas déjà exister !
   * Le dossier contiendra un fichier .fasta pour chaque groupe.
+
 Commande utilisée: dossier _test_data\work\afterOrthoMCL
-`java lima.buildGroups ../my_orthomcl_dir/groups.txt ../my_orthomcl_dir/compliantFasta/ groups`
-Le dossier "groups" contenant les 18 955 familles au format FASTA est dans l'archive _test_data\work\afterOrthoMCL\groups.tar.gz
+```
+java lima.buildGroups ../my_orthomcl_dir/groups.txt ../my_orthomcl_dir/compliantFasta/ groups
+```
+Le dossier "groups" contenant les 18 955 familles au format FASTA est dans l'archive `_test_data\work\afterOrthoMCL\groups.tar.gz`.
+
 ##COLLECTE DE STATISTIQUES SUR LES FAMILLES DE PROTÉINES GÉNÉRÉES
-Format de syntaxe:
-`java lima.orthogroupsStats groupesOrthoMCL`
+
+**Format de syntaxe:**
+```
+java lima.orthogroupsStats groupesOrthoMCL
+```
 * groupesOrthoMCL: fichier groups.txt
-Format de sortie
+**Format de sortie:**
+
 Chaque ligne donne une information sur un groupe. Les informations sont des colonnes séparées par des tabulations :
 * Nom du groupe
 * Nombre de séquences dans le groupe
@@ -87,10 +99,15 @@ Chaque ligne donne une information sur un groupe. Les informations sont des colo
 * Booléen : le groupe est-il strictement orthologue ?
 * 9 colonnes donnant le nombre de séquences pour chaque espèce dans le groupe. Ordre des colonnes :
   * albu, hyal, phca, phci, phin, phpa, phra, phso, pyul.
-Commande utilisée: dossier _test_data\work\afterOrthoMCL
-`java lima.orthogroupsStats ../my_orthomcl_dir/groups.txt > stats.txt`
+
+**Commande utilisée: dossier `_test_data\work\afterOrthoMCL`:**
+```
+java lima.orthogroupsStats ../my_orthomcl_dir/groups.txt > stats.txt
+```
 Le fichier "stats.txt" est dans le dossier afterOrthoMCL.
+
 ##ALIGNEMENT DES FAMILLES DE PROTÉINES
+
 Le fichier etape_alignement.txt décrit la procédure d'alignement exécutée.
 
 Elle consiste en l'exécution du programme MUSCLE avec l'option "-maxiters 1000" sur chaque famille disponible.
@@ -100,31 +117,40 @@ Un script PHP a été écrit pour permettre l'alignement en parallèle de plusie
 Les alignements générés ont pour extension .aligned.fasta.
 
 Les alignements des familles sont dans le dossier groups-aligned (archive groupes-aligned.tar.gz dans le dossier afterOrthoMCL).
+
 ##CONSTRUCTION DE L'ARBRE PHYLOGÉNÉTIQUE
+
 La construction de l'arbre phylogénétique est décrite dans le fichier etape_construction_arbre.txt
 
 Le résult final est un arbre au format NEWICK dans le fichier topology.tre dans le dossier afterOrthoMCL/phylogeny.
+
 ##GÉNÉRATION DE FICHIERS FASTA PERSONNALISÉS ASSOCIANT LES ALIGNEMENTS DES FAMILLES ET LES POSITIONS DES INTRONS SUR LES PROTÉINES
-Le positionnement des introns a été effectué avec le programme java lima.positionIntronsOnGroups. Il prend 3 paramètres :
+Le positionnement des introns a été effectué avec le programme java `lima.positionIntronsOnGroups`. Il prend 3 paramètres :
 * le dossier contenant les annotations des introns (fichiers .introns). Les fichiers doivent être rigoureusement nommés <nom raccourci de l’espèce>.introns pour que le programme puisse associer les bons IDs de séquences.
 * Le dossier contenant les alignements à marquer.
 * Le dossier de sortie.
+
 Voici les commandes utilisées:
 ```
 java lima.positionIntronsOnGroups ../introns_annotations/ groups-aligned-trueOrthologs groups-aligned-trueOrthologs-marked
 java lima.positionIntronsOnGroups ../introns_annotations/ groups-aligned groups-aligned-marked
 ```
 Le programme génère des fichiers AMF ayant l'extension .aligned.marked.fasta.
+
 ##COLLECTE DE STATISTIQUES SUR LA DISTRIBUTION DES INTRONS AUTOUR DES TROUS
+
 Le programme JAVA lima.FisherTestOnMarkedAlignments parcourt les fichiers AMF et compte des fenêtres (portions d’alignements) ayant des caractéristiques données. 4 types de fenêtres sont recensées:
 * Les fenêtre qui ne contiennent que des trous (fenêtres « GAP »).
 * Les fenêtres qui ne contiennent que des introns (fenêtres « INTRON »).
 * Les fenêtres qui contiennent à la fois des introns et des trous (fenêtres « GAPINTRON »).
 * Les fenêtres qui ne contiennent rien (ni introns ni trous) (fenêtres « EMPTY »).
+
 Les fenêtres considérées ont une longueur qu’on peut spécifier au programme. Les fenêtres sont disjointes : par exemple pour une longueur de fenêtre de 10, le programme analyse les 10 premières colonnes de l’alignement, puis les 10 suivantes, et ainsi de suite.
 
-Syntaxe d'utilisation:
-`java lima.FisherTestOnMarkedAlignments dossierAlignements largeurFenetre > rapport.txt`
+**Syntaxe d'utilisation:**
+```
+java lima.FisherTestOnMarkedAlignments dossierAlignements largeurFenetre > rapport.txt
+```
 Le programme a été exécuté sur l’ensemble des groupes trouvés par OrthoMCL (18955 groupes au total). La largeur de fenêtre utilisée fut de 10 colonnes. Les commandes ont été exécutées dans un sous-dossier « FisherTest » du dossier afterOrthoMCL :
 
 Commandes utilisées: dossier afterOrthoMCL:
@@ -133,11 +159,16 @@ mkdir FisherTest
 cd FisherTest
 java lima.FisherTestOnMarkedAlignments ../groups-aligned-marked 10 > onAllGroups-window10.txt
 ```
+
 ##ANALYSE SPÉCIFIQUE DES FAMILLES DE PROTÉINES STRICTEMENT ORTHOLOGUES
+
 ###RECONSTRUCTION DES SÉQUENCES ANCESTRALES
+
 Syntaxe d'utilisation:
-`java lima.ancestors.Rebuild.orthologFamily treeFile=arbreNEWICK alignmentPath=dossierFichiersAMF`
-Format de sortie:
+```
+java lima.ancestors.Rebuild.orthologFamily treeFile=arbreNEWICK alignmentPath=dossierFichiersAMF
+```
+**Format de sortie:**
 Pour chaque alignement, 3 fichiers sont produits :
 * Un fichier .withAncestors.seqtree qui montre l’arbre des espèces avec en face l’alignement de toutes les séquences (connues et reconstituées).
 * un fichier .withAncestors.pca (pca = « parent-children alignment ») qui montre l’alignement de chaque ancêtre avec ses descendants immédiats.
@@ -148,13 +179,19 @@ mkdir trueOrthologsAncestorsRebuilt
 cd trueOrthologsAncestorsRebuilt
 java lima.ancestors.Rebuild.orthologFamily treeFile=../phylogeny/topology.tre alignmentPath=../groups-aligned-trueOrthologs-marked logfile=log.txt
 ```
+
 ###DÉTECTION DES ÉVÈNEMENTS
+
 Syntaxe d'utilisation:
-`java lima.ancestors.events.Detect path=dossierFichiersPCA p=1 q=0.5`
+```
+java lima.ancestors.events.Detect path=dossierFichiersPCA p=1 q=0.5
+```
 * dossierFichiersPCA. Les fichiers .pca (Parent-Children Alignments) ont été générés à l’étape précédente de reconstruction des séquences ancestrales. Ces fichiers contiennent les alignements de chaque ancêtre avec ses deux descendants directs, donc c’est facile de récupérer les paires ancêtre-descendant pour les analyser.
 * p: paramètre de contrôle du poids des colonnes instables (1 par défaut).
 * q: paramètre de contrôle de l'effet des colonnes stables (0.5 par défaut).
-Format de sortie:
+
+**Format de sortie:**
+
 Pour chaque fichier .pca analysé, le programme génère deux fichiers .instability et .events dans le dossier de son exécution.
 
 Le fichier .instability présente chaque paire de séquence ancêtre-descendant en montrant les zones « instables » détectées (des astérisques sont en dessous de chaque zone instable de l’alignement).
@@ -170,7 +207,8 @@ Le fichier .events décrit les évènements trouvés. Chaque évènement est dé
   * (après 3 tabulations, donc 9ème colonne) le « type » déduit pour cet évènement, dans le format « séquenceAncêtre/séquenceDescendant ».
   * (après 3 tabulations, donc 12ème colonne) L’évènement proprement dit (vraies séquences) toujours dans le format « séquenceAncêtre/séquenceDescendant ».
 * Les lignes 2 et 3 affichent le « type » et l’évènement sur deux lignes (au lieu du format « séquenceAncêtre/séquenceDescendant ») pour une meilleure lisibilité.
-Commande utilisée: dossier afterOrthoMCL:
+
+**Commande utilisée: dossier `afterOrthoMCL`:**
 ```
 mkdir trueOrthologsEvents
 cd trueOrthologsEvents
