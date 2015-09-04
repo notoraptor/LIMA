@@ -98,7 +98,8 @@ Donc nous avons carrément utilisé la dernière version de BLAST du début à l
 Lien de téléchargement de la dernière version de BLAST: ftp://ftp.ncbi.nlm.nih.gov/blast/executables/LATEST/
 
 **Application**
-**_ 1. Création de la base de données: _**
+
+** *1. Création de la base de données:* **
 *Commande:*
 ```
 makeblastdb -dbtype prot -in goodProteins.fasta -input_type fasta -title goodProteinsBlastDB -hash_index -out goodProteinsBlastDB
@@ -114,6 +115,7 @@ goodProteinsBlastDB.psq
 goodProteinsBlastDB.phr
 goodProteinsBlastDB.psd
 ````
+
 **_ 2. exécution de BLAST pour chaque espèce contre la même base de données: _**
 	Exécution parallèle de 9 scripts, chacun pour 1 espèce:
 		#script 1
@@ -153,6 +155,7 @@ goodProteinsBlastDB.psd
 				phca|109327
 				phci|92918
 		Fichiers [espece].out.blast pour chacune des 9 espèces
+
 ** _3. Concaténation des fichiers de sortie de BLASTP _**
 	Commande :
 		cat *.out.blast > superFile.out.blast
