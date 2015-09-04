@@ -1,4 +1,6 @@
-ALIGNEMENT DES FAMILLES DE PROTÉINES
+#ALIGNEMENT DES FAMILLES DE PROTÉINES
+
+([Retour au guide principal.](https://github.com/notoraptor/LIMA/blob/master/lima/_test_data/README.md))
 
 Les familles ont été alignées avec le logiciel MUSCLE (MUSCLE v3.8.31 by Robert C. Edgar) à l'aide du script PHP `align-groups.php`.
 
