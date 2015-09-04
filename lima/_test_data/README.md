@@ -164,7 +164,7 @@ java lima.FisherTestOnMarkedAlignments ../groups-aligned-marked 10 > onAllGroups
 
 ###RECONSTRUCTION DES SÉQUENCES ANCESTRALES
 
-Syntaxe d'utilisation:
+**Syntaxe d'utilisation:**
 ```
 java lima.ancestors.Rebuild.orthologFamily treeFile=arbreNEWICK alignmentPath=dossierFichiersAMF
 ```
@@ -182,7 +182,7 @@ java lima.ancestors.Rebuild.orthologFamily treeFile=../phylogeny/topology.tre al
 
 ###DÉTECTION DES ÉVÈNEMENTS
 
-Syntaxe d'utilisation:
+**Syntaxe d'utilisation:**
 ```
 java lima.ancestors.events.Detect path=dossierFichiersPCA p=1 q=0.5
 ```
@@ -208,7 +208,7 @@ Le fichier .events décrit les évènements trouvés. Chaque évènement est dé
   * (après 3 tabulations, donc 12ème colonne) L’évènement proprement dit (vraies séquences) toujours dans le format « séquenceAncêtre/séquenceDescendant ».
 * Les lignes 2 et 3 affichent le « type » et l’évènement sur deux lignes (au lieu du format « séquenceAncêtre/séquenceDescendant ») pour une meilleure lisibilité.
 
-**Commande utilisée: dossier `afterOrthoMCL`:**
+**Commandes utilisées: dossier `afterOrthoMCL`:**
 ```
 mkdir trueOrthologsEvents
 cd trueOrthologsEvents
