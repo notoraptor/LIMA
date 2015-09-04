@@ -1,6 +1,6 @@
 /*
 Génération des fichiers FASTA des groupes calculés par OrthoMCL.
-java maitrise.builGroups listeGroupesOrthoMCL dossierSequences dossierSortie
+java lima.builGroups listeGroupesOrthoMCL dossierSequences dossierSortie
 	listeGroupesOrthoMCL
 		Fichier contenant la liste des groupes de gènes calculés par OrthoMCL.
 		Chaque ligne doit représenter un groupe. Le format d'une ligne doit être le suivant :

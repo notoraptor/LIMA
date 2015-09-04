@@ -1,6 +1,6 @@
 /*
 Calcule de sstatistiques sur les groupes calculés par OrthoMCL.
-java maitrise.orthogroupsStats groupesOrthoMCL
+java lima.orthogroupsStats groupesOrthoMCL
 	groupesOrthoMCL est le fichier retourné par OrthoMCL et contenant la description des groupes.
 	Chaque ligne doit correspondre à un groupe et doit avoir le format suivant :
 		<nom du groupe>: <id-sequence-1> <ide-sequence-2> ... <ide-sequence-n>
@@ -11,7 +11,7 @@ Format de sortie
 		Nombre de séquences dans le groupe
 		Nombre d'espèces dans le groupe
 		Booléen : le groupe est-il strictement orthologue ?
-		9 colonnes suivantes donnant le nombre de séquences pour chaque espèce dans le groupe. Ordre des colonnes :
+		9 colonnes donnant le nombre de séquences pour chaque espèce dans le groupe. Ordre des colonnes :
 			albu, hyal, phca, phci, phin, phpa, phra, phso, pyul.
 */
 package lima;
