@@ -52,7 +52,7 @@ Le dossier intronsLengthsBySpecies contient pour chaque espèce un fichier .leng
 
 ##CONSTRUCTION DES FAMILLES DE PROTÉINES AVEC ORTHOMCL
 
-Le fichier etape_OrthoMCL.txt fait le bilan détaillé de l'exécution d'OrthoMCL sur notre jeu de données.
+Le fichier [`etape_OrthoMCL.md`](https://github.com/notoraptor/LIMA/blob/master/lima/_test_data/etape_OrthoMCL.md) fait le bilan détaillé de l'exécution d'OrthoMCL sur notre jeu de données.
 
 Le fichier finalement généré est le fichier `groups.txt` disponible dans le dossier _test_data/work/my_orthomcl_dir.
 
