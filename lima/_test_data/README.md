@@ -1,7 +1,7 @@
-GUIDE DES ÉTAPES EXÉCUTÉES SUR LE JEU DE DONNÉEES UTILISÉ DANS LE MÉMOIRE
-	DOSSIER DE TRAVAIL
+#GUIDE DES ÉTAPES EXÉCUTÉES SUR LE JEU DE DONNÉEES UTILISÉ DANS LE MÉMOIRE
+	##DOSSIER DE TRAVAIL
 		_test_data
-	EXTRACTION DES ANNOTATIONS DES INTRONS
+	##EXTRACTION DES ANNOTATIONS DES INTRONS
 		Format de syntaxe:
 			java lima.<plateforme>.<typeAnnotation>.getIntrons fichierAnnotation [prefixeGeneID] [prefixeTranscriptID] > fichierSortie.introns
 				Les paramètres prefixeGeneID et prefixeTranscriptID ne sont pas disponibles pour les fichiers GFF3 de EnsemblProtists.
@@ -17,7 +17,7 @@ GUIDE DES ÉTAPES EXÉCUTÉES SUR LE JEU DE DONNÉEES UTILISÉ DANS LE MÉMOIRE
 				java lima.ensemblProtists.gtf.getIntrons genome-annotations/uncompressed/Phytophthora_ramorum.ASM14973v1.21.gtf > phra.introns
 				java lima.ensemblProtists.gtf.getIntrons genome-annotations/uncompressed/Phytophthora_sojae.ASM14975v1.21.gtf > phso.introns
 				java lima.ensemblProtists.gtf.getIntrons genome-annotations/uncompressed/Pythium_ultimum.pug.21.gtf > pyul.introns
-	COLLECTE DE STATISTIQUES SUR LES LONGUEURS DES INTRONS
+	##COLLECTE DE STATISTIQUES SUR LES LONGUEURS DES INTRONS
 		Le programme java lima.intronsLengthsBySpecies collecte des informations sur les longueurs des introns des espèces étudiées. Il analyse les fichiers « .introns » d’un dossier et en déduit pour chaque espèce:
 			les longueurs d’introns rencontrées.
 			le nombre d’occurences de chaque longueur.
@@ -35,13 +35,13 @@ GUIDE DES ÉTAPES EXÉCUTÉES SUR LE JEU DE DONNÉEES UTILISÉ DANS LE MÉMOIRE
 			java lima.intronsLengthsBySpecies . intronsLengthsBySpecies > intronsLenghtsBySpecies.txt
 		Le rapport intronsLenghtsBySpecies.txt a ensuite été déplacé dans le dossier nouvellement créé intronsLenghtsBySpecies.
 		Le dossier intronsLengthsBySpecies contient pour chaque espèce un fichier .lengths à deux colonnes : longueurs d’introns et nombre d’occurences pour chaque longueur. Les colonnes sont triées par ordre croissant des longueurs d’introns.
-	CONSTRUCTION DES FAMILLES DE PROTÉINES AVEC ORTHOMCL
+	##CONSTRUCTION DES FAMILLES DE PROTÉINES AVEC ORTHOMCL
 		Le fichier etape_OrthoMCL.txt fait le bilan détaillé de l'exécution d'OrthoMCL sur notre jeu de données.
 		Le fichier finalement généré est le fichier groups.txt disponible dans le dossier _test_data/work/my_orthomcl_dir.
 		Ce fichier contient la liste des familles générées par OrthoMCL. Chaque ligne du fichier représente une famille, dans le format suivant:
 			idFamille: idProteine1 idProteine2 idProteine3 ... idProteineN
 		18 955 familles ont été générées.
-	GÉNÉRATION DES FICHIERS FASTA DES FAMILLES DE PROTÉINES
+	##GÉNÉRATION DES FICHIERS FASTA DES FAMILLES DE PROTÉINES
 		Format de syntaxe:
 			java lima.builGroups listeGroupesOrthoMCL dossierSequences dossierSortie
 				listeGroupesOrthoMCL: fichier groups.txt
@@ -56,7 +56,7 @@ GUIDE DES ÉTAPES EXÉCUTÉES SUR LE JEU DE DONNÉEES UTILISÉ DANS LE MÉMOIRE
 			Dossier _test_data\work\afterOrthoMCL
 				java lima.buildGroups ../my_orthomcl_dir/groups.txt ../my_orthomcl_dir/compliantFasta/ groups
 			Le dossier "groups" contenant les 18 955 familles au format FASTA est dans l'archive _test_data\work\afterOrthoMCL\groups.tar.gz
-	COLLECTE DE STATISTIQUES SUR LES FAMILLES DE PROTÉINES GÉNÉRÉES
+	##COLLECTE DE STATISTIQUES SUR LES FAMILLES DE PROTÉINES GÉNÉRÉES
 		Format de syntaxe:
 			java lima.orthogroupsStats groupesOrthoMCL
 				groupesOrthoMCL: fichier groups.txt
@@ -72,16 +72,16 @@ GUIDE DES ÉTAPES EXÉCUTÉES SUR LE JEU DE DONNÉEES UTILISÉ DANS LE MÉMOIRE
 			Dossier _test_data\work\afterOrthoMCL
 				java lima.orthogroupsStats ../my_orthomcl_dir/groups.txt > stats.txt
 			Le fichier "stats.txt" est dans le dossier afterOrthoMCL.
-	ALIGNEMENT DES FAMILLES DE PROTÉINES
+	##ALIGNEMENT DES FAMILLES DE PROTÉINES
 		Le fichier etape_alignement.txt décrit la procédure d'alignement exécutée.
 		Elle consiste en l'exécution du programme MUSCLE avec l'option "-maxiters 1000" sur chaque famille disponible.
 		Un script PHP a été écrit pour permettre l'alignement en parallèle de plusieurs lots de familles, afin d'accélérer l'étape.
 		Les alignements générés ont pour extension .aligned.fasta.
 		Les alignements des familles sont dans le dossier groups-aligned (archive groupes-aligned.tar.gz dans le dossier afterOrthoMCL).
-	CONSTRUCTION DE L'ARBRE PHYLOGÉNÉTIQUE
+	##CONSTRUCTION DE L'ARBRE PHYLOGÉNÉTIQUE
 		La construction de l'arbre phylogénétique est décrite dans le fichier etape_construction_arbre.txt
 		Le résult final est un arbre au format NEWICK dans le fichier topology.tre dans le dossier afterOrthoMCL/phylogeny.
-	GÉNÉRATION DE FICHIERS FASTA PERSONNALISÉS ASSOCIANT LES ALIGNEMENTS DES FAMILLES ET LES POSITIONS DES INTRONS SUR LES PROTÉINES
+	##GÉNÉRATION DE FICHIERS FASTA PERSONNALISÉS ASSOCIANT LES ALIGNEMENTS DES FAMILLES ET LES POSITIONS DES INTRONS SUR LES PROTÉINES
 		Le positionnement des introns a été effectué avec le programme java lima.positionIntronsOnGroups. Il prend 3 paramètres :
 			le dossier contenant les annotations des introns (fichiers .introns). Les fichiers doivent être rigoureusement nommés <nom raccourci de l’espèce>.introns pour que le programme puisse associer les bons IDs de séquences.
 			Le dossier contenant les alignements à marquer.
@@ -90,7 +90,7 @@ GUIDE DES ÉTAPES EXÉCUTÉES SUR LE JEU DE DONNÉEES UTILISÉ DANS LE MÉMOIRE
 			java lima.positionIntronsOnGroups ../introns_annotations/ groups-aligned-trueOrthologs groups-aligned-trueOrthologs-marked
 			java lima.positionIntronsOnGroups ../introns_annotations/ groups-aligned groups-aligned-marked
 		Le programme génère des fichiers AMF ayant l'extension .aligned.marked.fasta.
-	COLLECTE DE STATISTIQUES SUR LA DISTRIBUTION DES INTRONS AUTOUR DES TROUS
+	##COLLECTE DE STATISTIQUES SUR LA DISTRIBUTION DES INTRONS AUTOUR DES TROUS
 		Le programme JAVA lima.FisherTestOnMarkedAlignments parcourt les fichiers AMF et compte des fenêtres (portions d’alignements) ayant des caractéristiques données. 4 types de fenêtres sont recensées:
 			Les fenêtre qui ne contiennent que des trous (fenêtres « GAP »).
 			Les fenêtres qui ne contiennent que des introns (fenêtres « INTRON »).
@@ -104,8 +104,8 @@ GUIDE DES ÉTAPES EXÉCUTÉES SUR LE JEU DE DONNÉEES UTILISÉ DANS LE MÉMOIRE
 			mkdir FisherTest
 			cd FisherTest
 			java lima.FisherTestOnMarkedAlignments ../groups-aligned-marked 10 > onAllGroups-window10.txt
-	ANALYSE SPÉCIFIQUE DES FAMILLES DE PROTÉINES STRICTEMENT ORTHOLOGUES
-		RECONSTRUCTION DES SÉQUENCES ANCESTRALES
+	##ANALYSE SPÉCIFIQUE DES FAMILLES DE PROTÉINES STRICTEMENT ORTHOLOGUES
+		###RECONSTRUCTION DES SÉQUENCES ANCESTRALES
 			Syntaxe d'utilisation:
 				java lima.ancestors.Rebuild.orthologFamily treeFile=arbreNEWICK alignmentPath=dossierFichiersAMF
 			Format de sortie:
@@ -117,7 +117,7 @@ GUIDE DES ÉTAPES EXÉCUTÉES SUR LE JEU DE DONNÉEES UTILISÉ DANS LE MÉMOIRE
 				mkdir trueOrthologsAncestorsRebuilt
 				cd trueOrthologsAncestorsRebuilt
 				java lima.ancestors.Rebuild.orthologFamily treeFile=../phylogeny/topology.tre alignmentPath=../groups-aligned-trueOrthologs-marked logfile=log.txt
-		DÉTECTION DES ÉVÈNEMENTS
+		###DÉTECTION DES ÉVÈNEMENTS
 			Syntaxe d'utilisation:
 				java lima.ancestors.events.Detect path=dossierFichiersPCA p=1 q=0.5
 					dossierFichiersPCA
