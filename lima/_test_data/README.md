@@ -1,6 +1,6 @@
 # GUIDE DES ÉTAPES EXÉCUTÉES SUR LE JEU DE DONNÉEES UTILISÉ DANS LE MÉMOIRE
 
-Dossier de travail: `_test_data`
+**Dossier de travail: `_test_data`.**
 
 ## EXTRACTION DES ANNOTATIONS DES INTRONS
 
