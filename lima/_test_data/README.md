@@ -108,7 +108,7 @@ Le fichier "stats.txt" est dans le dossier afterOrthoMCL.
 
 ##ALIGNEMENT DES FAMILLES DE PROTÉINES
 
-Le fichier etape_alignement.txt décrit la procédure d'alignement exécutée.
+Le fichier [`etape_alignement.md`](https://github.com/notoraptor/LIMA/blob/master/lima/_test_data/etape_alignement.md) décrit la procédure d'alignement exécutée.
 
 Elle consiste en l'exécution du programme MUSCLE avec l'option "-maxiters 1000" sur chaque famille disponible.
 
@@ -120,7 +120,7 @@ Les alignements des familles sont dans le dossier groups-aligned (archive groupe
 
 ##CONSTRUCTION DE L'ARBRE PHYLOGÉNÉTIQUE
 
-La construction de l'arbre phylogénétique est décrite dans le fichier etape_construction_arbre.txt
+La construction de l'arbre phylogénétique est décrite dans le fichier [`etape_construction_arbre.md`](https://github.com/notoraptor/LIMA/blob/master/lima/_test_data/etape_construction_arbre.md).
 
 Le résult final est un arbre au format NEWICK dans le fichier topology.tre dans le dossier afterOrthoMCL/phylogeny.
 
