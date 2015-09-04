@@ -161,7 +161,8 @@ echo fin pyul >> sortie-pyul.txt
     * `phci|92918`
 * Fichiers [espece].out.blast pour chacune des 9 espèces
 
-** _3. Concaténation des fichiers de sortie de BLASTP _**
+**_3. Concaténation des fichiers de sortie de BLASTP_**
+
 *Commande:*
 ```
 cat *.out.blast > superFile.out.blast
