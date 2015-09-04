@@ -1,5 +1,7 @@
 #DESCRIPTION DE L'EXÉCUTION D'ORTHOMCL EFFECTUÉE DANS LE CADRE DU DÉVELOPPEMENT DE LIMA
 
+([Retour au guide principal](https://github.com/notoraptor/LIMA/blob/master/lima/_test_data/README.md))
+
 Les fichiers importants générés pendant l'exécution d'OrthoMCL sont dans le dossier `_test_data/work/my_orthomcl_dir`.
 
 Lien de téléchargement d'OrthoMCL: http://orthomcl.org/common/downloads/software/v2.0/
