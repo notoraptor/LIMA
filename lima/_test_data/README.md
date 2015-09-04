@@ -4,7 +4,7 @@
 
 ## EXTRACTION DES ANNOTATIONS DES INTRONS
 
-**Format de syntaxe:**
+**Syntaxe d'utilisation:**
 ```
 java lima.<plateforme>.<typeAnnotation>.getIntrons fichierAnnotation [prefixeGeneID] [prefixeTranscriptID] > fichierSortie.introns
 ```
@@ -64,7 +64,7 @@ idFamille: idProteine1 idProteine2 idProteine3 ... idProteineN
 
 ##GÉNÉRATION DES FICHIERS FASTA DES FAMILLES DE PROTÉINES
 
-**Format de syntaxe:**
+**Syntaxe d'utilisation:**
 ```
 java lima.builGroups listeGroupesOrthoMCL dossierSequences dossierSortie
 ```
@@ -85,7 +85,7 @@ Le dossier "groups" contenant les 18 955 familles au format FASTA est dans l'arc
 
 ##COLLECTE DE STATISTIQUES SUR LES FAMILLES DE PROTÉINES GÉNÉRÉES
 
-**Format de syntaxe:**
+**Syntaxe d'utilisation:**
 ```
 java lima.orthogroupsStats groupesOrthoMCL
 ```
