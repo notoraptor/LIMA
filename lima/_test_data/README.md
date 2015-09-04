@@ -26,7 +26,7 @@ java lima.ensemblProtists.gtf.getIntrons genome-annotations/uncompressed/Pythium
 
 ##COLLECTE DE STATISTIQUES SUR LES LONGUEURS DES INTRONS
 
-Le programme java lima.intronsLengthsBySpecies collecte des informations sur les longueurs des introns des espèces étudiées. Il analyse les fichiers « .introns » d’un dossier et en déduit pour chaque espèce:
+Le programme java `lima.intronsLengthsBySpecies` collecte des informations sur les longueurs des introns des espèces étudiées. Il analyse les fichiers `.introns` d’un dossier et en déduit pour chaque espèce:
 * les longueurs d’introns rencontrées.
 * le nombre d’occurences de chaque longueur.
 Le programme génère aussi un rapport dans la sortie standard sous la forme d’un tableau donnant quelques informations sur chaque espèce. Les colonnes du tableau sont:
@@ -46,7 +46,7 @@ java lima.intronsLengthsBySpecies dossierIntrons dossierSortie
 ```
 java lima.intronsLengthsBySpecies . intronsLengthsBySpecies > intronsLenghtsBySpecies.txt
 ```
-Le rapport intronsLenghtsBySpecies.txt a ensuite été déplacé dans le dossier nouvellement créé intronsLenghtsBySpecies.
+Le rapport `intronsLenghtsBySpecies.txt` a ensuite été déplacé dans le dossier nouvellement créé `intronsLenghtsBySpecies`.
 
 Le dossier intronsLengthsBySpecies contient pour chaque espèce un fichier .lengths à deux colonnes : longueurs d’introns et nombre d’occurences pour chaque longueur. Les colonnes sont triées par ordre croissant des longueurs d’introns.
 
@@ -54,7 +54,7 @@ Le dossier intronsLengthsBySpecies contient pour chaque espèce un fichier .leng
 
 Le fichier etape_OrthoMCL.txt fait le bilan détaillé de l'exécution d'OrthoMCL sur notre jeu de données.
 
-Le fichier finalement généré est le fichier groups.txt disponible dans le dossier _test_data/work/my_orthomcl_dir.
+Le fichier finalement généré est le fichier `groups.txt` disponible dans le dossier _test_data/work/my_orthomcl_dir.
 
 Ce fichier contient la liste des familles générées par OrthoMCL. Chaque ligne du fichier représente une famille, dans le format suivant:
 ```
@@ -74,7 +74,7 @@ java lima.builGroups listeGroupesOrthoMCL dossierSequences dossierSortie
   * Les entêtes des séquences de ces fichiers FASTA doivent être les IDs des séquences, tels qu'ils apparaissent dans listeGroupesOrthoMCL.
   * Dossier compliantFasta généré pendant l'exécution d'OrthoMCL.
 * dossierSortie
-  * Dossier de sortie (sera créé par ce programme). *** Le dossier ne doit pas déjà exister !
+  * Dossier de sortie (sera créé par ce programme). *Le dossier ne doit pas déjà exister* !
   * Le dossier contiendra un fichier .fasta pour chaque groupe.
 
 **Commande utilisée: dossier `_test_data\work\afterOrthoMCL`:**
