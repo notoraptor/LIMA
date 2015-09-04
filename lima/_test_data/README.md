@@ -64,7 +64,7 @@ idFamille: idProteine1 idProteine2 idProteine3 ... idProteineN
 
 ##GÉNÉRATION DES FICHIERS FASTA DES FAMILLES DE PROTÉINES
 
-Format de syntaxe:
+**Format de syntaxe:**
 ```
 java lima.builGroups listeGroupesOrthoMCL dossierSequences dossierSortie
 ```
@@ -77,7 +77,7 @@ java lima.builGroups listeGroupesOrthoMCL dossierSequences dossierSortie
   * Dossier de sortie (sera créé par ce programme). *** Le dossier ne doit pas déjà exister !
   * Le dossier contiendra un fichier .fasta pour chaque groupe.
 
-Commande utilisée: dossier _test_data\work\afterOrthoMCL
+**Commande utilisée: dossier `_test_data\work\afterOrthoMCL`:**
 ```
 java lima.buildGroups ../my_orthomcl_dir/groups.txt ../my_orthomcl_dir/compliantFasta/ groups
 ```
