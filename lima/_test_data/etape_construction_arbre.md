@@ -17,7 +17,7 @@ grep true stats.txt | cut -s -f 1 > trueOrthologs.txt
 
 Nous avons ensuite copié les alignements de ces familles dans un dossier séparé pour pouvoir travailler spécifiquement avec eux.
 
-Le script PHP preg-replace.php permet rapidement d’appliquer un remplacement de chaîne de caractères ligne par ligne en utilisant une expression régulière:
+Le script PHP `preg-replace.php` permet rapidement d’appliquer un remplacement de chaîne de caractères ligne par ligne en utilisant une expression régulière:
 ```
 php preg-replace.php "/oomycetes[0-9]+/" "groups-aligned/\$0.aligned.fasta" trueOrthologs.txt > filesTrueOrthologs.txt
 ```
@@ -41,7 +41,7 @@ Nous avons utilisé Gblocks pour filtrer tous les 1924 groupes, en collectant po
 * Les groupes qui avaient subi le moins de filtrage, donc les groupes les mieux conservés du point de vue de Gblocks.
 * Suffisamment de groupes qui avaient subi le moins de filtrage pour que la concaténation de tous ces groupes contienne assez de positions variables, donc informatives, pour les logiciels de phylogénie.
 
-La sélection a été réalisée à l'aide du script php gblocks-on-aligned-groups.php qui prend 3 paramètres :
+La sélection a été réalisée à l'aide du script PHP `gblocks-on-aligned-groups.php` qui prend 3 paramètres :
 * le dossier contenant les alignements.
 * le pourcentage minimal de positions retenues qu’on veut pour les groupes les plus « sûrs ». Nous avons choisi 80%.
 * la longueur minimale qu’on veut pour tous les groupes à sélectionner. Nous avons choisi 100 000, pour être sûr d'avoir assez de sites informatifs.
@@ -52,6 +52,7 @@ php gblocks-on-aligned-groups.php groups-aligned-trueOrthologs/ 80 100000 > gblo
 ```
 
 Le fichier de sortie gblocks-filtering-95-30000.log présente les groupes triés (de manière décroissante) par pourcentage de positions retenues puis par longueur de l’alignement. Donc les groupes des premières lignes du fichier sont ceux ayant le plus haut pourcentage de positions retenues (100, 99, 98, …, 95, etc.) et les plus longs alignements après filtrage. Voici les 7 colonnes exactes du fichier de sortie :
+
 1. Numéro de la ligne courante.
 2. Chemin vers l’alignement filtré (fichier fasta-gb dans le dossier de l’alignement initial).
 3. « minPercent » si le taux de conservation de l’alignement vaut au moins le taux indiqué en arguments, « false » sinon.
