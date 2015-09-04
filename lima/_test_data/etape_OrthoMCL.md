@@ -229,16 +229,16 @@ orthomclPairs orthomcl.config orthomclPairs.logfile.txt cleanup=yes startAfter=u
 
 ##(11) run the orthomclDumpPairsFiles program to dump the pairs/ directory from the database
 
-**Sortie:** dossier « pairs » et fichier « mclInput », disponibles dans my_orthomcl_dir/pairs-and-mcl-input.zip
+**Sortie:** dossier « pairs » et fichier « mclInput », disponibles dans `my_orthomcl_dir/pairs-and-mcl-input.zip`.
 
 ##(12) run the mcl program on the mcl_input.txt file created in Step 11.
 
-Exécution dans le dossier my_orthomcl_dir.
+Exécution dans le dossier `my_orthomcl_dir`.
 
-Sortie : fichier mclOutput, fichier journal journal=mcl.txt, disponibles dans my_orthomcl_dir.
+Sortie : fichier `mclOutput`, fichier journal `journal=mcl.txt`, disponibles dans `my_orthomcl_dir`.
 
 ##(13) run orthomclMclToGroups to convert mcl output to groups.txt
 
-Sortie : Fichier final groups.txt, disponibles dans my_orthomcl_dir.
+Sortie : Fichier final groups.txt, disponibles dans le dossier `my_orthomcl_dir`.
 
 Le fichier `groups.txt` contient donc la liste des familles trouvées par OrthoMCL !
